@@ -12,9 +12,9 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 | Destiny | 27 | 12 | 15 |
 | Imagine… | 1 | 0 | 1 |
 | Mystery | 21 | 12 | 9 |
-| Original | 44 | 25 | 19 |
+| Original | 45 | 25 | 20 |
 | What if… | 1 | 0 | 1 |
-| **Total** | **110** | **55** | **55** |
+| **Total** | **111** | **55** | **56** |
 
 ## 2. Puzzles by type
 
@@ -1437,6 +1437,22 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 **Completed puzzle photograph**
 
 [![Bear Necessities! completed puzzle](images/puzzle/Wasgij%20-%20Original%20-%20No.07%20(1000)%20-%20Puzzle.jpg)](images/puzzle/Wasgij%20-%20Original%20-%20No.07%20(1000)%20-%20Puzzle.jpg)
+
+---
+
+#### No.09 — Home Improvements! (500 pieces)
+
+| Field | Value |
+| --- | --- |
+| Type | Original |
+| Number | 09 |
+| Title | Home Improvements! |
+| Number of pieces | 500 |
+| Status | **Not completed** |
+
+**Box photograph** (to be uploaded before merging)
+
+<a href="images/box/Wasgij%20-%20Original%20-%20No.09%20(500)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.09%20(500)%20-%20Box.jpg" alt="Home Improvements! 500-piece box" width="50%"></a>
 
 ---
 
