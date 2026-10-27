@@ -37,19 +37,12 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - Preserve distinctions between collector's boxes, 150-piece editions and similarly numbered puzzles. Do not list unowned catalogue entries as owned.
 - Update README totals and `PUZZLE_COLLECTION.md` in the same PR as inventory/image changes; check counts and links.
 
-## Workflow 1 — New box photo
-1. Identify series, number and piece count; check for duplicate ownership.
-2. Enhance the box image; preserve the source.
-3. Look up title in `catalogue.csv`; if absent, review the full official Wasgij catalogue and add all missing verified listings with discovery date and source, then retry matching. If still absent, ask user for title and add user-supplied entry with date added.
-4. Add box photo on a feature branch; regenerate inventory with Owned=Yes, the confirmed title (if known), and completion derived from puzzle photos.
-5. Update README totals and regenerate `PUZZLE_COLLECTION.md` with the new entry and linked box image; verify links and counts; open PR for manual review and merge.
-
-## Workflow 2 — New completed-puzzle photo
-1. Identify series, number and piece count; match an existing box photo. If none exists, flag unmatched.
-2. Enhance the photo; if pieces are missing, produce both standard and restored versions.
-3. Add standard photo (and restored version if needed) on a feature branch without overwriting existing files without permission.
-4. Regenerate inventory with Completed=Yes for the matched puzzle; update README totals and `PUZZLE_COLLECTION.md`, including the completed image link.
-5. Open PR for manual review and merge.
+## Image workflows — default handoff
+1. Identify series, number, piece count and duplicate status. For a new box, look up title in catalogue; if absent check the complete official archive and add verified missing entries with discovery date. If still absent ask user for title; never guess. For a puzzle photo, match an owned box or flag unmatched.
+2. Enhance the photo, preserving the original. Supply downloadable JPEG(s) with exact archive filenames. For missing pieces supply standard and separately restored images.
+3. Create feature branch from main. Update inventory, catalogue if needed, README totals and PUZZLE_COLLECTION.md with expected image links. Ownership/completion changes are provisional until matching image upload; restored-only photos do not establish completion.
+4. Open a **draft PR** even when images cannot be uploaded by ChatGPT. Give user the branch, PR URL and exact image paths. User uploads JPEGs to the feature branch, not main.
+5. Verify uploaded filenames, image links/rendering, completion evidence and counts. User reviews and manually merges. Never claim images exist before verification or overwrite existing files without permission.
 
 ## Completed-puzzle enhancement
 - Original iPhone HEIC/HEIF/JPEG/PNG is authoritative; never overwrite it.
@@ -59,7 +52,7 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - Preserve original artwork, natural colours, text, seams, joins and texture. Do not generatively redraw intact pieces or invent cropped edges.
 - Standard and restored versions must have identical crop, dimensions, alignment and colour treatment.
 - For close-ups, enhance conservatively without inventing unseen content. Flag any source photo that omits part of the puzzle.
-- Deliver downloadable JPEGs; upload only when explicitly requested.
+- Deliver downloadable JPEGs for user upload to the feature branch.
 
 ## Box-photo enhancement
 - Straighten and crop the entire box face when reliable, without losing edges or text.
