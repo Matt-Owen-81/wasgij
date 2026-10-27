@@ -14,7 +14,7 @@ Personal archive of owned Wasgij jigsaws and photographs of completed puzzles.
 
 ## Inventory
 
-Current inventory (based on the image filenames): **109 owned**, **55 completed**, **54 not yet completed**.
+Current inventory (based on the image filenames): **110 owned**, **55 completed**, **55 not yet completed**.
 
 Every distinct combination of **series + number + piece count** with a box image is one owned puzzle. A matching finished-puzzle image marks it completed. A `2x1000` edition contains one 1000-piece standard puzzle and one 1000-piece puzzle reproducing the box image; it still counts as one owned entry. Multiple photos of the same puzzle count once. Completion is inferred from file presence, not independently verified from the photograph.
 
