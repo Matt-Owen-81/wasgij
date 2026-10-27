@@ -12,9 +12,9 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 | Destiny | 27 | 12 | 15 |
 | Imagine… | 1 | 0 | 1 |
 | Mystery | 21 | 12 | 9 |
-| Original | 43 | 25 | 18 |
+| Original | 44 | 25 | 19 |
 | What if… | 1 | 0 | 1 |
-| **Total** | **109** | **55** | **54** |
+| **Total** | **110** | **55** | **55** |
 
 ## 2. Puzzles by type
 
@@ -1206,6 +1206,22 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 
 ### Original
 
+#### No.01 — Sunday Drivers!
+
+| Field | Value |
+| --- | --- |
+| Type | Original |
+| Number | 01 |
+| Title | Sunday Drivers! |
+| Number of pieces | 1000 |
+| Status | **Not completed** |
+
+**Box photograph**
+
+<a href="images/box/Wasgij%20-%20Original%20-%20No.01%20(1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.01%20(1000)%20-%20Box.jpg" alt="Sunday Drivers! box" width="50%"></a>
+
+---
+
 #### Volume1 — Collector's Box Volume 1
 
 | Field | Value |
@@ -1224,7 +1240,7 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 
 [![Collector's Box Volume 1 completed puzzle](images/puzzle/Wasgij%20-%20Original%20-%20No.Volume1%20(1000)%20-%20Puzzle.jpg)](images/puzzle/Wasgij%20-%20Original%20-%20No.Volume1%20(1000)%20-%20Puzzle.jpg)
 
-**Notes:** Single 1000-piece collector's box puzzle featuring the box artwork; distinct from Original No.01 Sunday Drivers! (not owned).
+**Notes:** Single 1000-piece collector's box puzzle featuring the box artwork; distinct from Original No.01 Sunday Drivers! (separately owned).
 
 ---
 
