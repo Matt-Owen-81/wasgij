@@ -1454,6 +1454,10 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 
 <a href="images/box/Wasgij%20-%20Original%20-%20No.09%20(500)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.09%20(500)%20-%20Box.jpg" alt="Home Improvements! 500-piece box" width="50%"></a>
 
+**Completed puzzle photograph** (pending upload; completion remains provisional)
+
+[![Home Improvements! 500-piece completed puzzle](images/puzzle/Wasgij%20-%20Original%20-%20No.09%20(500)%20-%20Puzzle.jpg)](images/puzzle/Wasgij%20-%20Original%20-%20No.09%20(500)%20-%20Puzzle.jpg)
+
 ---
 
 #### No.09 — Home Improvements!
