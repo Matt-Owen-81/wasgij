@@ -231,8 +231,6 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-28-1000-pieces-19156)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ✅, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19156_Original_28_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19156_Original_28_image.jpg" alt="Original 28 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-1.jpg" alt="Original 28 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-2.jpg" alt="Original 28 hint 2" width="250"></a> |
 
@@ -241,208 +239,166 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-29-catching-wedding-fever-1000pcs-19159)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ✅, Hint 1 ✅, Hint 2 ✅ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg" alt="Original 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint_1.jpg" alt="Original 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint_2.jpg" alt="Original 29 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg" alt="Original 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_1.jpg" alt="Original 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_2.jpg" alt="Original 29 hint 2" width="250"></a> |
 
 ### No.30 — Strictly Can't Dance!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-30-1000-pieces-19160)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ✅, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-image.jpg" alt="Original 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original_30_Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original_30_Hint_1.jpg" alt="Original 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg" alt="Original 30 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19160_Original_30_image.png"><img src="https://wasgij.com/cdn/shop/files/19160_Original_30_image.png" alt="Original 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint_1.jpg" alt="Original 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg" alt="Original 30 hint 2" width="250"></a> |
 
 ### No.31 — Safari Surprise!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-31-1000pcs-19164)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-image.jpg" alt="Original 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-1.jpg" alt="Original 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-2.jpg" alt="Original 31 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19164_Original_31_image.png"><img src="https://wasgij.com/cdn/shop/files/19164_Original_31_image.png" alt="Original 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_1.jpg" alt="Original 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_2.jpg" alt="Original 31 hint 2" width="250"></a> |
 
 ### No.32 — The Big Weigh In!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-32-the-big-weigh-in-1000pcs-19170)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-image.jpg" alt="Original 32 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg" alt="Original 32 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg" alt="Original 32 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19170_Original_32_image.png"><img src="https://wasgij.com/cdn/shop/files/19170_Original_32_image.png" alt="Original 32 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg" alt="Original 32 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg" alt="Original 32 hint 2" width="250"></a> |
 
 ### No.33 — Calm on the Canal!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-33-calm-on-the-canal-1000pcs-19173)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-image.jpg" alt="Original 33 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg" alt="Original 33 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg" alt="Original 33 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19173_Original_33_image.png"><img src="https://wasgij.com/cdn/shop/files/19173_Original_33_image.png" alt="Original 33 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg" alt="Original 33 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg" alt="Original 33 hint 2" width="250"></a> |
 
 ### No.34 — A Piece of Pride!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-34-1000pcs-19181)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-image.jpg" alt="Original 34 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-1.jpg" alt="Original 34 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-2.jpg" alt="Original 34 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19181_Original_34_image.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original_34_image.png" alt="Original 34 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_1.jpg" alt="Original 34 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_2.jpg" alt="Original 34 hint 2" width="250"></a> |
 
 ### No.35 — Car Boot Capers!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-35-1000pcs-19184)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-image.jpg" alt="Original 35 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg" alt="Original 35 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg" alt="Original 35 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19184_Original_35_image.png"><img src="https://wasgij.com/cdn/shop/files/19184_Original_35_image.png" alt="Original 35 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg" alt="Original 35 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg" alt="Original 35 hint 2" width="250"></a> |
 
 ### No.36 — New Year Resolutions!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-36-new-year-resolutions-1000pcs-25000)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-image.jpg" alt="Original 36 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg" alt="Original 36 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg" alt="Original 36 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25000_Original_36_image.png"><img src="https://wasgij.com/cdn/shop/files/25000_Original_36_image.png" alt="Original 36 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg" alt="Original 36 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg" alt="Original 36 hint 2" width="250"></a> |
 
 ### No.37 — Holiday Fiasco!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-37-holiday-fiasco-1000pcs-25004)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-image.jpg" alt="Original 37 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg" alt="Original 37 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg" alt="Original 37 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25004_Original_37_image.png"><img src="https://wasgij.com/cdn/shop/files/25004_Original_37_image.png" alt="Original 37 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg" alt="Original 37 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg" alt="Original 37 hint 2" width="250"></a> |
 
 ### No.38 — Market Meltdown!
 
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-38-market-meltdown-1000pcs-25010)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-image.jpg" alt="Original 38 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg" alt="Original 38 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg" alt="Original 38 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25010_Original_38_image.png"><img src="https://wasgij.com/cdn/shop/files/25010_Original_38_image.png" alt="Original 38 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg" alt="Original 38 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg" alt="Original 38 hint 2" width="250"></a> |
 
 ### No.39 — Chinese New Year!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-39-chinese-new-year-1000pcs-25011)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-image.jpg" alt="Original 39 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg" alt="Original 39 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg" alt="Original 39 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25011_Original_39_image.png"><img src="https://wasgij.com/cdn/shop/files/25011_Original_39_image.png" alt="Original 39 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg" alt="Original 39 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg" alt="Original 39 hint 2" width="250"></a> |
 
 ### No.40 — 25th Anniversary Garden Party!
 
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-40-25th-anniversary-2x1000pcs-1x-1000pcs-for-free-25019)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-image.jpg" alt="Original 40 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg" alt="Original 40 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg" alt="Original 40 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25019_Original_40_image.png"><img src="https://wasgij.com/cdn/shop/files/25019_Original_40_image.png" alt="Original 40 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg" alt="Original 40 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg" alt="Original 40 hint 2" width="250"></a> |
 
 ### No.41 — The Restore Store!
 
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-41-the-restore-store-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-image.jpg" alt="Original 41 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg" alt="Original 41 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg" alt="Original 41 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100583_Original_41_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original_41_image.png" alt="Original 41 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg" alt="Original 41 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg" alt="Original 41 hint 2" width="250"></a> |
 
 ### No.42 — Rule the Runway!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-42-rule-the-runway-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-image.jpg" alt="Original 42 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg" alt="Original 42 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg" alt="Original 42 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100584_Original_42_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original_42_image.png" alt="Original 42 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg" alt="Original 42 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg" alt="Original 42 hint 2" width="250"></a> |
 
 ### No.43 — Aquarium Antics!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-43-aquarium-antics-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-image.jpg" alt="Original 43 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg" alt="Original 43 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg" alt="Original 43 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100585_Original_43_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original_43_image.png" alt="Original 43 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg" alt="Original 43 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg" alt="Original 43 hint 2" width="250"></a> |
 
 ### No.44 — Wasgij Summer Games!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-44-wasgij-summer-games-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100587_Original-44-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original-44-image.jpg" alt="Original 44 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint-1.jpg" alt="Original 44 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint-2.jpg" alt="Original 44 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100587_Original_44_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original_44_image.png" alt="Original 44 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_1.jpg" alt="Original 44 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_2.jpg" alt="Original 44 hint 2" width="250"></a> |
 
 ### No.45 — Moving Day!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-45-moving-day-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100588_Original-45-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original-45-image.jpg" alt="Original 45 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint-1.jpg" alt="Original 45 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint-2.jpg" alt="Original 45 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100588_Original_45_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original_45_image.png" alt="Original 45 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_1.jpg" alt="Original 45 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_2.jpg" alt="Original 45 hint 2" width="250"></a> |
 
 ### No.46 — Middle Aisle Madness!
 
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-46-middle-aisle-madness-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100505_Original-46-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original-46-image.jpg" alt="Original 46 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint-1.jpg" alt="Original 46 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint-2.jpg" alt="Original 46 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100505_Original_46_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original_46_image.png" alt="Original 46 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_1.jpg" alt="Original 46 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_2.jpg" alt="Original 46 hint 2" width="250"></a> |
 
 ### No.47 — Boating Bedlam!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-47-boating-bedlam-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-image.jpg" alt="Original 47 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-1.jpg" alt="Original 47 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-2.jpg" alt="Original 47 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100511_Original_47_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original_47_image.png" alt="Original 47 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_1.jpg" alt="Original 47 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_2.jpg" alt="Original 47 hint 2" width="250"></a> |
 
 ### No.48 — What Happens in Vegas!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-48-what-happens-in-vegas-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-image.jpg" alt="Original 48 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-1.jpg" alt="Original 48 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-2.jpg" alt="Original 48 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100803_Original_48_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original_48_image.png" alt="Original 48 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_1.jpg" alt="Original 48 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_2.jpg" alt="Original 48 hint 2" width="250"></a> |
 
 ### No.49 — Padel Panic!
 
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-49-padel-panic-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
-**Validation:** Box ❌, Hint 1 ❌, Hint 2 ❌ (previous underscore-format URLs). Broken links replaced with alternative hyphen-format candidates for the next visual check.
-
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-image.jpg" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-1.jpg" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-2.jpg" alt="Original 49 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100902_Original_49_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original_49_image.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_1.jpg" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_2.jpg" alt="Original 49 hint 2" width="250"></a> |
 
