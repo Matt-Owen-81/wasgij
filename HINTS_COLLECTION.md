@@ -1,10 +1,10 @@
 # Wasgij hints collection
 
-Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. The initial test covers the first ten Original designs. **Original 500-piece, Original 1000-piece and Retro Original 1000-piece editions share one hint entry per matching artwork.** Ownership and edition details remain separate in `inventory.csv` and `catalogue.csv`.
+Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. The initial test covers the first ten Original designs. **Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork.** Ownership and edition details remain separate in `inventory.csv` and `catalogue.csv`.
 
 ## Jump to a series
 
-[Original](#original) · [Christmas](#christmas) · [Destiny](#destiny) · [Mystery](#mystery) · [Back to…](#back-to) · [What if…](#what-if) · [Imagine…](#imagine) · [15th Anniversary](#15th-anniversary) · [Junior](#junior) · [Retro Destiny](#retro-destiny) · [Retro Mystery](#retro-mystery) · [Pieces of Evidence](#pieces-of-evidence)
+[Original](#original) · [Christmas](#christmas) · [Destiny](#destiny) · [Mystery](#mystery) · [Back to…](#back-to) · [What if…](#what-if) · [Imagine…](#imagine) · [15th Anniversary](#15th-anniversary) · [Junior](#junior) · [Pieces of Evidence](#pieces-of-evidence)
 
 ## Original
 
@@ -80,9 +80,13 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ## Destiny
 
+Original and Retro Destiny editions are grouped by matching puzzle artwork and hints, regardless of piece count. Edition-specific ownership stays in `inventory.csv`.
+
 *Not yet populated — links will be added after verification.*
 
 ## Mystery
+
+Original and Retro Mystery editions are grouped by matching puzzle artwork and hints, regardless of piece count. Edition-specific ownership stays in `inventory.csv`.
 
 *Not yet populated — links will be added after verification.*
 
@@ -103,14 +107,6 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 *Not yet populated — links will be added after verification.*
 
 ## Junior
-
-*Not yet populated — links will be added after verification.*
-
-## Retro Destiny
-
-*Not yet populated — links will be added after verification.*
-
-## Retro Mystery
 
 *Not yet populated — links will be added after verification.*
 
