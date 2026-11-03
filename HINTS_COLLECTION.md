@@ -22,55 +22,91 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-2-happy-holidays-1000-pieces-19153)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-image.jpg" alt="Original 2 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-1.jpg" alt="Original 2 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-2.jpg" alt="Original 2 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.03 — Full Monty Fever!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-3-full-monty-fever-1000-pcs-19167)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-image.jpg" alt="Original 3 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-1.jpg" alt="Original 3 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-2.jpg" alt="Original 3 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.04 — A Day to Remember!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-4-1000pcs-19176)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-image.jpg" alt="Original 4 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-1.jpg" alt="Original 4 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-2.jpg" alt="Original 4 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.05 — Late Booking!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-5-1000-pieces-25007)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25007_Retro-Original-5-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25007_Retro-Original-5-image.jpg" alt="Original 5 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25007_Retro-Original-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25007_Retro-Original-5-Hint-1.jpg" alt="Original 5 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25007_Retro-Original-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25007_Retro-Original-5-Hint-2.jpg" alt="Original 5 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.06 — Blooming Marvellous!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-6-blooming-marvellous-1000pcs-25014)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25014_Retro-Original-6-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25014_Retro-Original-6-image.jpg" alt="Original 6 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25014_Retro-Original-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25014_Retro-Original-6-Hint-1.jpg" alt="Original 6 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25014_Retro-Original-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25014_Retro-Original-6-Hint-2.jpg" alt="Original 6 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.07 — Bear Necessities!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-7-bear-necessities-1000pcs-1110100016)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100016_Retro-Original-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100016_Retro-Original-7-image.jpg" alt="Original 7 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100016_Retro-Original-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100016_Retro-Original-7-Hint-1.jpg" alt="Original 7 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100016_Retro-Original-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100016_Retro-Original-7-Hint-2.jpg" alt="Original 7 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.08 — High Tide!
 
 **Not owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-8-high-tide-1000-pcs-1110100328)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-image.jpg" alt="Original 8 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-1.jpg" alt="Original 8 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-2.jpg" alt="Original 8 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.09 — Home Improvements!
 
 **Owned** · [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-9-home-improvements-1000-pieces-10485)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10485_Original-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10485_Original-9-image.jpg" alt="Original 9 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10485_Original-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10485_Original-9-Hint-1.jpg" alt="Original 9 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10485_Original-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10485_Original-9-Hint-2.jpg" alt="Original 9 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 ### No.10 — Antique Hunt!
 
 **Owned** · [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-10-antique-hunt-1000-pieces-10676)
 
-*Direct box-image and hint links not yet recorded.*
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10676_Original-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10676_Original-10-image.jpg" alt="Original 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-1.jpg" alt="Original 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-2.jpg" alt="Original 10 hint 2" width="250"></a> |
+
+*Image URL pattern inferred from the product ID; not yet independently verified.*
 
 **Edition note:** Nos.01–08 currently use official Retro Original 1000-piece product pages as sources for the shared artwork and hints. These links do not imply ownership of a Retro edition or of a 500-piece edition.
 
@@ -116,4 +152,4 @@ Original and Retro Mystery editions are grouped by matching puzzle artwork and h
 
 ## Source data
 
-See [`hints.csv`](hints.csv) for the initial link register. Its existing rows still describe the 1000-piece test editions; the illustrated collection groups equivalent artwork without changing those records. Use `inventory.csv` for exact owned editions. Unverified image links are left blank.
+See [`hints.csv`](hints.csv) for the initial link register. Its existing rows still describe the 1000-piece test editions; the illustrated collection groups equivalent artwork without changing those records. Use `inventory.csv` for exact owned editions. Image links for Nos.02–10 are provisional filename-pattern predictions and must be checked in GitHub and against the official site.
