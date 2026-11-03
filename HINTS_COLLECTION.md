@@ -1,14 +1,16 @@
 # Wasgij hints collection
 
-Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. This is an initial test of the first ten Original 1000-piece puzzles.
+Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. The initial test covers the first ten Original designs. **Original 500-piece, Original 1000-piece and Retro Original 1000-piece editions share one hint entry per matching artwork.** Ownership and edition details remain separate in `inventory.csv` and `catalogue.csv`.
 
 ## Jump to a series
 
-[Original](#original) · [Christmas](#christmas) · [Destiny](#destiny) · [Mystery](#mystery) · [Back to…](#back-to) · [What if…](#what-if) · [Imagine…](#imagine) · [15th Anniversary](#15th-anniversary) · [Junior](#junior) · [Retro Original](#retro-original) · [Retro Destiny](#retro-destiny) · [Retro Mystery](#retro-mystery) · [Pieces of Evidence](#pieces-of-evidence)
+[Original](#original) · [Christmas](#christmas) · [Destiny](#destiny) · [Mystery](#mystery) · [Back to…](#back-to) · [What if…](#what-if) · [Imagine…](#imagine) · [15th Anniversary](#15th-anniversary) · [Junior](#junior) · [Retro Destiny](#retro-destiny) · [Retro Mystery](#retro-mystery) · [Pieces of Evidence](#pieces-of-evidence)
 
 ## Original
 
-### No.01 — Sunday Drivers! (1000 pieces)
+The Original and Retro Original editions are grouped here by puzzle artwork, regardless of whether the edition has 500 or 1000 pieces. This does **not** combine distinct owned editions in the inventory.
+
+### No.01 — Sunday Drivers!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-1-sunday-drivers-1000-pieces-19146)
 
@@ -16,61 +18,61 @@ Browse by series using the links below. The **box image is the main clue**, foll
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg" alt="Sunday Drivers box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg" alt="Sunday Drivers hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg" alt="Sunday Drivers hint 2" width="250"></a> |
 
-### No.02 — Happy Holidays! (1000 pieces)
+### No.02 — Happy Holidays!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-2-happy-holidays-1000-pieces-19153)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.03 — Full Monty Fever! (1000 pieces)
+### No.03 — Full Monty Fever!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-3-full-monty-fever-1000-pcs-19167)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.04 — A Day to Remember! (1000 pieces)
+### No.04 — A Day to Remember!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-4-1000pcs-19176)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.05 — Late Booking! (1000 pieces)
+### No.05 — Late Booking!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-5-1000-pieces-25007)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.06 — Blooming Marvellous! (1000 pieces)
+### No.06 — Blooming Marvellous!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-6-blooming-marvellous-1000pcs-25014)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.07 — Bear Necessities! (1000 pieces)
+### No.07 — Bear Necessities!
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-7-bear-necessities-1000pcs-1110100016)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.08 — High Tide! (1000 pieces)
+### No.08 — High Tide!
 
 **Not owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-8-high-tide-1000-pcs-1110100328)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.09 — Home Improvements! (1000 pieces)
+### No.09 — Home Improvements!
 
 **Owned** · [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-9-home-improvements-1000-pieces-10485)
 
 *Direct box-image and hint links not yet recorded.*
 
-### No.10 — Antique Hunt! (1000 pieces)
+### No.10 — Antique Hunt!
 
 **Owned** · [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-10-antique-hunt-1000-pieces-10676)
 
 *Direct box-image and hint links not yet recorded.*
 
-**Edition note:** Nos.01–08 link to official 1000-piece Retro reissues. They are indexed under the Original series here to match the test inventory entries; the editions remain distinct.
+**Edition note:** Nos.01–08 currently use official Retro Original 1000-piece product pages as sources for the shared artwork and hints. These links do not imply ownership of a Retro edition or of a 500-piece edition.
 
 ## Christmas
 
@@ -104,10 +106,6 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 *Not yet populated — links will be added after verification.*
 
-## Retro Original
-
-*Not yet populated — links will be added after verification.*
-
 ## Retro Destiny
 
 *Not yet populated — links will be added after verification.*
@@ -122,4 +120,4 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 ## Source data
 
-See [`hints.csv`](hints.csv) for the link register and edition-specific matching information. Unverified image links are left blank.
+See [`hints.csv`](hints.csv) for the initial link register. Its existing rows still describe the 1000-piece test editions; the illustrated collection groups equivalent artwork without changing those records. Use `inventory.csv` for exact owned editions. Unverified image links are left blank.
