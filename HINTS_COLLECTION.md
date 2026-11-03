@@ -66,8 +66,6 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/13223_Original-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13223_Original-7-image.jpg" alt="Original 7 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-1.jpg" alt="Original 7 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-2.jpg" alt="Original 7 hint 2" width="250"></a> |
 
-*Images sourced from the Original No.07 500-piece listing; hint URLs use the confirmed .jpg extension.*
-
 ### No.08 — High Tide!
 
 **Not owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-8-high-tide-1000-pcs-1110100328)
@@ -91,8 +89,6 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/10676_Original-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10676_Original-10-image.jpg" alt="Original 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-1.jpg" alt="Original 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10676_Original-10-Hint-2.jpg" alt="Original 10 hint 2" width="250"></a> |
-
-**Edition note:** Nos.01–08 currently use official Retro Original 1000-piece product pages as sources for the shared artwork and hints. These links do not imply ownership of a Retro edition or of a 500-piece edition.
 
 ## Christmas
 
