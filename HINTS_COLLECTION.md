@@ -72,11 +72,11 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 **Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-7-bear-necessities-1000pcs-1110100016)
 
-**Box image (main clue)**
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13223_Original-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13223_Original-7-image.jpg" alt="Original 7 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-1"><img src="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-1" alt="Original 7 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-2"><img src="https://wasgij.com/cdn/shop/files/13223_Original-7-Hint-2" alt="Original 7 hint 2" width="250"></a> |
 
-<a href="https://wasgij.com/cdn/shop/files/1110100016_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100016_1_2_WEB.png" alt="Original 7 box image" width="250"></a>
-
-*Hint images not available on the official listing; no hint links shown.*
+*Images sourced from the Original No.07 500-piece listing; hint URLs were supplied without file extensions and require a rendering check.*
 
 ### No.08 — High Tide!
 
