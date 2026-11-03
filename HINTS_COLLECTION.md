@@ -22,9 +22,9 @@ Official Wasgij images and hints remain on the publisher's website; this reposit
 
 These images are loaded directly from Wasgij's website, **not stored in this repository**. Click any image to open its source. If GitHub does not display them, the publisher may block hotlinking or the URLs may not resolve.
 
-| Hint 1 | Hint 2 | Other image |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg" alt="Sunday Drivers Hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg" alt="Sunday Drivers Hint 2" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg" alt="Sunday Drivers additional image" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg" alt="Sunday Drivers box image and main clue" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg" alt="Sunday Drivers Hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg" alt="Sunday Drivers Hint 2" width="250"></a> |
 
 ## Data
 
