@@ -1,6 +1,6 @@
 # Wasgij hints collection
 
-Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. The Original collection covers Nos.01–49; direct image links for the newly added entries are being checked. **Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork.** Ownership and edition details remain separate in `inventory.csv` and `catalogue.csv`.
+Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. The Original collection covers Nos.01–49; direct image links for Nos.28–49 are only shown when confirmed; otherwise use the official product page. **Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork.** Ownership and edition details remain separate in `inventory.csv` and `catalogue.csv`.
 
 ## Jump to a series
 
@@ -230,97 +230,81 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-28-1000-pieces-19156)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19156_Original-28-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19156_Original-28-image.jpg" alt="Original 28 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-1.jpg" alt="Original 28 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19156_Original-28-Hint-2.jpg" alt="Original 28 hint 2" width="250"></a> |
+**Box image (main clue)**
+
+<a href="https://wasgij.com/cdn/shop/files/19156_Original_28_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19156_Original_28_image.jpg" alt="Original 28 box image" width="250"></a>
+
+[Hint 1 and Hint 2 on official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-28-1000-pieces-19156)
 
 ### No.29 — Catching Wedding Fever!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-29-catching-wedding-fever-1000pcs-19159)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19159_Original-29-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original-29-image.jpg" alt="Original 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint-1.jpg" alt="Original 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint-2.jpg" alt="Original 29 hint 2" width="250"></a> |
+**Box image (main clue)**
+
+<a href="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg" alt="Original 29 box image" width="250"></a>
+
+[Hint 1 and Hint 2 on official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-29-catching-wedding-fever-1000pcs-19159)
 
 ### No.30 — Strictly Can't Dance!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-30-1000-pieces-19160)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-image.jpg" alt="Original 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-1.jpg" alt="Original 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg" alt="Original 30 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.31 — Safari Surprise!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-31-1000pcs-19164)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-image.jpg" alt="Original 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-1.jpg" alt="Original 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint-2.jpg" alt="Original 31 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.32 — The Big Weigh In!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-32-the-big-weigh-in-1000pcs-19170)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-image.jpg" alt="Original 32 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg" alt="Original 32 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg" alt="Original 32 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.33 — Calm on the Canal!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-33-calm-on-the-canal-1000pcs-19173)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-image.jpg" alt="Original 33 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg" alt="Original 33 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg" alt="Original 33 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.34 — A Piece of Pride!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-34-1000pcs-19181)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-image.jpg" alt="Original 34 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-1.jpg" alt="Original 34 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-2.jpg" alt="Original 34 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.35 — Car Boot Capers!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-35-1000pcs-19184)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-image.jpg" alt="Original 35 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg" alt="Original 35 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg" alt="Original 35 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.36 — New Year Resolutions!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-36-new-year-resolutions-1000pcs-25000)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-image.jpg" alt="Original 36 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg" alt="Original 36 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg" alt="Original 36 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.37 — Holiday Fiasco!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-37-holiday-fiasco-1000pcs-25004)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-image.jpg" alt="Original 37 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg" alt="Original 37 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg" alt="Original 37 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.38 — Market Meltdown!
 
 **Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-38-market-meltdown-1000pcs-25010)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-image.jpg" alt="Original 38 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg" alt="Original 38 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg" alt="Original 38 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.39 — Chinese New Year!
 
 **Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-39-chinese-new-year-1000pcs-25011)
 
-| Box image (main clue) | Hint 1 | Hint 2 |
-| --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-image.jpg" alt="Original 39 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg" alt="Original 39 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg" alt="Original 39 hint 2" width="250"></a> |
+*Direct image links not yet confirmed; use the official puzzle page above for images and hints.*
 
 ### No.40 — 25th Anniversary Garden Party!
 
