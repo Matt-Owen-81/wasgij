@@ -17,6 +17,15 @@ Official Wasgij images and hints remain on the publisher's website; this reposit
 | 09 | Home Improvements! | Yes | [View official page](https://wasgij.com/collections/archive/products/wasgij-original-9-home-improvements-1000-pieces-10485) |
 | 10 | Antique Hunt! | Yes | [View official page](https://wasgij.com/collections/archive/products/wasgij-original-10-antique-hunt-1000-pieces-10676) |
 
+
+### Image embedding test — Original No.01: Sunday Drivers! (1000 pieces)
+
+These images are loaded directly from Wasgij's website, **not stored in this repository**. Click any image to open its source. If GitHub does not display them, the publisher may block hotlinking or the URLs may not resolve.
+
+| Hint 1 | Hint 2 | Other image |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg" alt="Sunday Drivers Hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg" alt="Sunday Drivers Hint 2" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg" alt="Sunday Drivers additional image" width="250"></a> |
+
 ## Data
 
 [`hints.csv`](hints.csv) contains the corresponding 10 records. All records are matched by series, number and 1000-piece count. Individual direct hint image URLs are intentionally blank pending verification; use the product page's Extra Hint controls. This test does not include 150-piece or 500-piece variants, nor collector's boxes.
