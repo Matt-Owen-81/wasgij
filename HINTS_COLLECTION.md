@@ -84,9 +84,9 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100328_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100328_1_2_WEB.png" alt="Original 8 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-1.png" alt="Original 8 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100328_Retro-Original-8-Hint-2.png" alt="Original 8 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/17225_Original-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17225_Original-8-image.jpg" alt="Original 8 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17225_Original-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17225_Original-8-Hint-1.jpg" alt="Original 8 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17225_Original-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17225_Original-8-Hint-2.jpg" alt="Original 8 hint 2" width="250"></a> |
 
-*Image URL corrections supplied and checked by the collection owner.*
+*Images sourced from the Original No.08 500-piece edition; links supplied by the collection owner.*
 
 ### No.09 — Home Improvements!
 
