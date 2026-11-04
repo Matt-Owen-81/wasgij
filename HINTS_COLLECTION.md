@@ -402,6 +402,25 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png" alt="Original 49 hint 2" width="250"></a> |
 
+
+### Original Special Editions
+
+#### Efteling — World of Sindbad!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-efteling-world-of-sindbad-1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100508_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100508_L_0.png" alt="Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-1.jpg" alt="Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-2.jpg" alt="Efteling hint 2" width="250"></a> |
+
+#### Disney — Mickey's Party!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-disney-mickeys-party-1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100586_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_L_0.png" alt="Disney box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.jpg" alt="Disney hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.jpg" alt="Disney hint 2" width="250"></a> |
+
 ## Christmas
 
 Christmas puzzles are grouped by artwork, regardless of edition or piece count. **Christmas Advent Calendar versions are excluded from this hints collection.** Box images and hints are linked from the official Wasgij website. Links not yet confirmed by the user remain provisional.
@@ -581,16 +600,3 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100904_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100904_1_2.png" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_2.png"><img src="https://wasgij.com/cdn/shop/files/111010_2.png" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_4.png"><img src="https://wasgij.com/cdn/shop/files/111010_4.png" alt="Christmas 22 hint 2" width="250"></a> |
-
-## Original — Special Editions
-
-These special editions are separate from numbered Original puzzles. Image links are pending visual validation.
-
-### No.Efteling — World of Sindbad!
-
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-efteling-world-of-sindbad-1000-pieces) · Box image and hints: pending verification.
-
-### No.Disney — Mickey's Party!
-
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-disney-mickeys-party-1000-pieces) · Box image and hints: pending verification.
-
