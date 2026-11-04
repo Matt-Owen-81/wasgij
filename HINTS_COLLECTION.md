@@ -304,7 +304,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25004_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25004_1_1.png" alt="Original 37 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg" alt="Original 37 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg" alt="Original 37 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25004_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25004_1_2_PNG.png" alt="Original 37 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg" alt="Original 37 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg" alt="Original 37 hint 2" width="250"></a> |
 
 ### No.38 — Market Meltdown!
 
@@ -312,7 +312,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25010_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25010_1_1.png" alt="Original 38 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg" alt="Original 38 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg" alt="Original 38 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25010_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25010_1_2_PNG.png" alt="Original 38 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg" alt="Original 38 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg" alt="Original 38 hint 2" width="250"></a> |
 
 ### No.39 — Chinese New Year!
 
