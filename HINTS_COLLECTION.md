@@ -440,19 +440,35 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.05 — That Warm Christmas Feeling
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-5-that-warm-christmas-feeling-1000-pieces-13520)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13520_Christmas-5-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13520_Christmas-5-image.jpg" alt="Christmas 5 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-1.jpg" alt="Christmas 5 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-2.jpg" alt="Christmas 5 hint 2" width="250"></a> |
 
 ### No.06 — A Very Merry Christmas
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-6-a-very-merry-christmas-1000-pieces-13639)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13639_Christmas-6-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13639_Christmas-6-image.jpg" alt="Christmas 6 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-1.jpg" alt="Christmas 6 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-2.jpg" alt="Christmas 6 hint 2" width="250"></a> |
 
 ### No.07 — A Christmas Stuffing!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-7-a-christmas-stuffing-1000-pieces-13225)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13225_Christmas-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13225_Christmas-7-image.jpg" alt="Christmas 7 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-1.jpg" alt="Christmas 7 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-2.jpg" alt="Christmas 7 hint 2" width="250"></a> |
 
 ### No.08 — Christmas Getaway!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-8-christmas-getaway-1000-pieces-17227)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17227_Christmas-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17227_Christmas-8-image.jpg" alt="Christmas 8 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-1.jpg" alt="Christmas 8 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-2.jpg" alt="Christmas 8 hint 2" width="250"></a> |
 
 ### No.09 — A Bright Christmas Night!
 
