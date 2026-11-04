@@ -328,7 +328,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25019_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25019_1_1.png" alt="Original 40 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg" alt="Original 40 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg" alt="Original 40 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25019_1_2_WEB_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25019_1_2_WEB_PNG.png" alt="Original 40 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg" alt="Original 40 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg" alt="Original 40 hint 2" width="250"></a> |
 
 ### No.41 — The Restore Store!
 
