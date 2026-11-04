@@ -384,7 +384,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100511_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_1_2.png" alt="Original 47 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-1.png" alt="Original 47 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint-2.png" alt="Original 47 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100511_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_1_2.png" alt="Original 47 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_4Hints_960x684_3b641c3c-e9f6-4f3b-8851-a5e5075ed0ff.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_4Hints_960x684_3b641c3c-e9f6-4f3b-8851-a5e5075ed0ff.png" alt="Original 47 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_5Hints_960x684_8a363815-123a-45c0-b6c9-97eabbf2f4d5.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_5Hints_960x684_8a363815-123a-45c0-b6c9-97eabbf2f4d5.png" alt="Original 47 hint 2" width="250"></a> |
 
 ### No.48 — What Happens in Vegas!
 
@@ -392,7 +392,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100803_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_1_2.png" alt="Original 48 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-1.png" alt="Original 48 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint-2.png" alt="Original 48 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100803_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_1_2.png" alt="Original 48 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_4Hints_960x684_cde6ed97-11a7-471b-9182-4017e69f9730.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_4Hints_960x684_cde6ed97-11a7-471b-9182-4017e69f9730.png" alt="Original 48 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_5Hints_960x684_969b39f3-e106-4658-a8fc-c0b4a84bb5cd.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_5Hints_960x684_969b39f3-e106-4658-a8fc-c0b4a84bb5cd.png" alt="Original 48 hint 2" width="250"></a> |
 
 ### No.49 — Padel Panic!
 
@@ -400,5 +400,5 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100902_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_1_2.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-1.png" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint-2.png" alt="Original 49 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png" alt="Original 49 hint 2" width="250"></a> |
 
