@@ -504,19 +504,35 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.13 — Turkey's Delight!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-13-turkeys-delight-2x1000-pieces-19149)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19149_Christmas-13-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19149_Christmas-13-image.jpg" alt="Christmas 13 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-1.jpg" alt="Christmas 13 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-2.jpg" alt="Christmas 13 hint 2" width="250"></a> |
 
 ### No.14 — Santa's Little Helpers!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-14-santas-little-helpers-2x1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-image.jpg" alt="Christmas 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg" alt="Christmas 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg" alt="Christmas 14 hint 2" width="250"></a> |
 
 ### No.15 — Santa's Unexpected Delivery
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-15-2x1000-pieces-19172)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-image.jpg" alt="Christmas 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg" alt="Christmas 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg" alt="Christmas 15 hint 2" width="250"></a> |
 
 ### No.16 — The Christmas Show!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-16-2x1000pcs-19183)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-image.jpg" alt="Christmas 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg" alt="Christmas 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg" alt="Christmas 16 hint 2" width="250"></a> |
 
 ### No.17 — Elf Inspection!
 
