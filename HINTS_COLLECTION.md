@@ -582,3 +582,15 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100904_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100904_1_2.png" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_2.png"><img src="https://wasgij.com/cdn/shop/files/111010_2.png" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_4.png"><img src="https://wasgij.com/cdn/shop/files/111010_4.png" alt="Christmas 22 hint 2" width="250"></a> |
 
+## Original — Special Editions
+
+These special editions are separate from numbered Original puzzles. Image links are pending visual validation.
+
+### No.Efteling — World of Sindbad!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-efteling-world-of-sindbad-1000-pieces) · Box image and hints: pending verification.
+
+### No.Disney — Mickey's Party!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-disney-mickeys-party-1000-pieces) · Box image and hints: pending verification.
+
