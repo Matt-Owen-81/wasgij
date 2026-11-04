@@ -1,6 +1,6 @@
 # Wasgij hints collection
 
-Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. The Original collection covers Nos.01–49; Nos.28–49 display candidate image URLs for visual checking; they are not yet validated. **Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork.** Ownership and edition details remain separate in `inventory.csv` and `catalogue.csv`.
+Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. **All Original puzzles, Nos.01–49, have been visually validated.** Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork. This page is a reference for puzzle hints, independent of collection ownership; ownership and edition details are maintained in `inventory.csv` and `catalogue.csv`.
 
 ## Jump to a series
 
@@ -8,11 +8,11 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 ## Original
 
-The Original and Retro Original editions are grouped here by puzzle artwork, regardless of whether the edition has 500 or 1000 pieces. This does **not** combine distinct owned editions in the inventory.
+The Original and Retro Original editions are grouped here by puzzle artwork, regardless of whether the edition has 500 or 1000 pieces.
 
 ### No.01 — Sunday Drivers!
 
-**Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-1-sunday-drivers-1000-pieces-19146)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-1-sunday-drivers-1000-pieces-19146)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -20,7 +20,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.02 — Happy Holidays!
 
-**Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-2-happy-holidays-1000-pieces-19153)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-2-happy-holidays-1000-pieces-19153)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.03 — Full Monty Fever!
 
-**Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-3-full-monty-fever-1000-pcs-19167)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-3-full-monty-fever-1000-pcs-19167)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.04 — A Day to Remember!
 
-**Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-4-1000pcs-19176)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-4-1000pcs-19176)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.05 — Late Booking!
 
-**Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-5-1000-pieces-25007)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-5-1000-pieces-25007)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.06 — Blooming Marvellous!
 
-**Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-6-blooming-marvellous-1000pcs-25014)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-6-blooming-marvellous-1000pcs-25014)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.07 — Bear Necessities!
 
-**Owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-7-bear-necessities-1000pcs-1110100016)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-7-bear-necessities-1000pcs-1110100016)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.08 — High Tide!
 
-**Not owned** · [Official puzzle page](https://wasgij.com/products/wasgij-retro-original-8-high-tide-1000-pcs-1110100328)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-8-high-tide-1000-pcs-1110100328)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.09 — Home Improvements!
 
-**Owned** · [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-9-home-improvements-1000-pieces-10485)
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-9-home-improvements-1000-pieces-10485)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -84,7 +84,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.10 — Antique Hunt!
 
-**Owned** · [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-10-antique-hunt-1000-pieces-10676)
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-10-antique-hunt-1000-pieces-10676)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.11 — Beauty Salon!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-11-beauty-salon-1000-pieces-01992)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-11-beauty-salon-1000-pieces-01992)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -100,7 +100,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.12 — The Mouth of the River!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-12-the-mouth-of-the-river-1000-pieces-10876)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-12-the-mouth-of-the-river-1000-pieces-10876)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -108,7 +108,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.13 — Calendar Gals!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-13-calendar-gals-1000-pieces-10879)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-13-calendar-gals-1000-pieces-10879)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.14 — Football Madness!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-14-football-madness-1000-pieces-10902)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-14-football-madness-1000-pieces-10902)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -124,7 +124,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.15 — Run Like the Wind!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-15-run-like-the-wind-1000-pieces-01563)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-15-run-like-the-wind-1000-pieces-01563)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -132,7 +132,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.16 — Catch of the Day!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-16-catch-of-the-day-1000-pieces-13519)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-16-catch-of-the-day-1000-pieces-13519)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -140,7 +140,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.17 — Ballroom Blushes!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-17-ballroom-blushes-1000-pieces-13501)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-17-ballroom-blushes-1000-pieces-13501)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -148,7 +148,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.18 — Uproar at the Vets!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-18-uproar-at-the-vets-1000-pieces-13216)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-18-uproar-at-the-vets-1000-pieces-13216)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -156,7 +156,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.19 — Cone-gestion!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-19-cone-gestion-1000-pieces-17228)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-19-cone-gestion-1000-pieces-17228)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -164,7 +164,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.20 — Fishy Business!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-20-fishy-business-1000-pieces-17306)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-20-fishy-business-1000-pieces-17306)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -172,7 +172,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.21 — Football Fever!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-21-football-fever-2x1000-pieces-17408)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-21-football-fever-2x1000-pieces-17408)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -180,7 +180,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.22 — Wasgij Studio Tour!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-22-wasgij-studio-tour-1500-pieces-19101)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-22-wasgij-studio-tour-1500-pieces-19101)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -188,7 +188,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.23 — The Bake Off!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-23-the-bake-off-1000-pieces-19113)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-23-the-bake-off-1000-pieces-19113)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -196,7 +196,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.24 — A Very Merry Holiday!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-24-a-very-merry-holiday-1000-pieces-19128)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-24-a-very-merry-holiday-1000-pieces-19128)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -204,7 +204,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.25 — Deal Breaker!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-25-deal-breaker-1000-pieces-19129)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-25-deal-breaker-1000-pieces-19129)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -212,7 +212,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.26 — Celebrity Chief Chef!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-26-celebrity-chief-chef-1000-pieces-19150)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-26-celebrity-chief-chef-1000-pieces-19150)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -220,7 +220,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.27 — The 20th Party Parade!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-27-the-20th-party-parade-2x1000-pieces-19151)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-27-the-20th-party-parade-2x1000-pieces-19151)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -228,7 +228,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.28 — Dropping the Weight!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-28-1000-pieces-19156)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-28-1000-pieces-19156)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -236,7 +236,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.29 — Catching Wedding Fever!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-29-catching-wedding-fever-1000pcs-19159)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-29-catching-wedding-fever-1000pcs-19159)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -244,7 +244,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.30 — Strictly Can't Dance!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-30-1000-pieces-19160)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-30-1000-pieces-19160)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -252,7 +252,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.31 — Safari Surprise!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-31-1000pcs-19164)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-31-1000pcs-19164)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -260,7 +260,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.32 — The Big Weigh In!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-32-the-big-weigh-in-1000pcs-19170)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-32-the-big-weigh-in-1000pcs-19170)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -268,7 +268,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.33 — Calm on the Canal!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-33-calm-on-the-canal-1000pcs-19173)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-33-calm-on-the-canal-1000pcs-19173)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -276,7 +276,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.34 — A Piece of Pride!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-34-1000pcs-19181)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-34-1000pcs-19181)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -284,7 +284,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.35 — Car Boot Capers!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-35-1000pcs-19184)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-35-1000pcs-19184)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -292,7 +292,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.36 — New Year Resolutions!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-36-new-year-resolutions-1000pcs-25000)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-36-new-year-resolutions-1000pcs-25000)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -300,7 +300,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.37 — Holiday Fiasco!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-37-holiday-fiasco-1000pcs-25004)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-37-holiday-fiasco-1000pcs-25004)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -308,7 +308,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.38 — Market Meltdown!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-38-market-meltdown-1000pcs-25010)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-38-market-meltdown-1000pcs-25010)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -316,7 +316,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.39 — Chinese New Year!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-39-chinese-new-year-1000pcs-25011)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-39-chinese-new-year-1000pcs-25011)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -324,7 +324,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.40 — 25th Anniversary Garden Party!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-40-25th-anniversary-2x1000pcs-1x-1000pcs-for-free-25019)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-40-25th-anniversary-2x1000pcs-1x-1000pcs-for-free-25019)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -332,7 +332,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.41 — The Restore Store!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-41-the-restore-store-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-41-the-restore-store-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -340,7 +340,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.42 — Rule the Runway!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-42-rule-the-runway-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-42-rule-the-runway-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -348,7 +348,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.43 — Aquarium Antics!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-43-aquarium-antics-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-43-aquarium-antics-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -356,7 +356,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.44 — Wasgij Summer Games!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-44-wasgij-summer-games-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-44-wasgij-summer-games-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -364,7 +364,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.45 — Moving Day!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-45-moving-day-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-45-moving-day-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -372,7 +372,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.46 — Middle Aisle Madness!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-46-middle-aisle-madness-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-46-middle-aisle-madness-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -380,7 +380,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.47 — Boating Bedlam!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-47-boating-bedlam-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-47-boating-bedlam-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -388,7 +388,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.48 — What Happens in Vegas!
 
-**Owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-48-what-happens-in-vegas-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-48-what-happens-in-vegas-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -396,7 +396,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.49 — Padel Panic!
 
-**Not owned** · [Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-49-padel-panic-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-49-padel-panic-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
