@@ -540,7 +540,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-image.jpg" alt="Christmas 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg" alt="Christmas 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg" alt="Christmas 17 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25003_1_2.png"><img src="https://wasgij.com/cdn/shop/files/25003_1_2.png" alt="Christmas 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg" alt="Christmas 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg" alt="Christmas 17 hint 2" width="250"></a> |
 
 ### No.18 — Gingerbread Showstopper
 
@@ -548,7 +548,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-image.jpg" alt="Christmas 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg" alt="Christmas 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg" alt="Christmas 18 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25017_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25017_1_2_PNG.png" alt="Christmas 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg" alt="Christmas 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg" alt="Christmas 18 hint 2" width="250"></a> |
 
 ### No.19 — Santa Dash!
 
@@ -556,7 +556,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-image.jpg" alt="Christmas 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg" alt="Christmas 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg" alt="Christmas 19 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100021_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100021_1_2_WEB.png" alt="Christmas 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg" alt="Christmas 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg" alt="Christmas 19 hint 2" width="250"></a> |
 
 ### No.20 — Spirits of Christmas!
 
@@ -564,7 +564,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-image.jpg" alt="Christmas 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg" alt="Christmas 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg" alt="Christmas 20 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100334_1_2_CAT_PNG_91c386d2-3960-4a72-8c2f-404b452c072a.png"><img src="https://wasgij.com/cdn/shop/files/1110100334_1_2_CAT_PNG_91c386d2-3960-4a72-8c2f-404b452c072a.png" alt="Christmas 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg" alt="Christmas 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg" alt="Christmas 20 hint 2" width="250"></a> |
 
 ### No.21 — A Very Merry Makeover!
 
