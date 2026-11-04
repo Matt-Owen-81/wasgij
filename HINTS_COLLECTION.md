@@ -411,7 +411,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100508_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100508_L_0.png" alt="Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-1.jpg" alt="Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_Original-Efteling-Hint-2.jpg" alt="Efteling hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100508_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100508_L_0.png" alt="Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_hint_01.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_hint_01.jpg" alt="Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_hint_02.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_hint_02.jpg" alt="Efteling hint 2" width="250"></a> |
 
 #### Disney — Mickey's Party!
 
@@ -419,7 +419,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100586_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_L_0.png" alt="Disney box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.jpg" alt="Disney hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.jpg" alt="Disney hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100586_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_L_0.png" alt="Disney box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.png" alt="Disney hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.png" alt="Disney hint 2" width="250"></a> |
 
 ## Christmas
 
