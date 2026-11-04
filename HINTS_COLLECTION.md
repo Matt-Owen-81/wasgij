@@ -572,7 +572,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-image.jpg" alt="Christmas 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-1.jpg" alt="Christmas 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-2.jpg" alt="Christmas 21 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100510_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100510_1_2.png" alt="Christmas 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_4Hints_960x684_e1b61561-4d4b-4f3c-a881-8ed6cf422bbe.png"><img src="https://wasgij.com/cdn/shop/files/1110100510_4Hints_960x684_e1b61561-4d4b-4f3c-a881-8ed6cf422bbe.png" alt="Christmas 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_5Hints_960x684_7d2533bb-4bcc-4a94-993c-dff4ee1fb752.png"><img src="https://wasgij.com/cdn/shop/files/1110100510_5Hints_960x684_7d2533bb-4bcc-4a94-993c-dff4ee1fb752.png" alt="Christmas 21 hint 2" width="250"></a> |
 
 ### No.22 — Not so Silent Night!
 
@@ -580,5 +580,5 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-image.jpg" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-1.jpg" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-2.jpg" alt="Christmas 22 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100904_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100904_1_2.png" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_2.png"><img src="https://wasgij.com/cdn/shop/files/111010_2.png" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_4.png"><img src="https://wasgij.com/cdn/shop/files/111010_4.png" alt="Christmas 22 hint 2" width="250"></a> |
 
