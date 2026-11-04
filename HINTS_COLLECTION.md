@@ -408,7 +408,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.01 — Special Delivery
 
-[Official Wasgij archive](https://wasgij.com/collections/archive)
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-1-special-delivery-500-pieces-10973)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -416,7 +416,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.02 — True Love, Cinderella!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive)
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-2-true-love-cinderella-500-pieces-13132)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -424,7 +424,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.03 — Short Circuit
 
-[Official Wasgij archive](https://wasgij.com/collections/archive)
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-3-short-circuit-500-pieces-13458)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -432,7 +432,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.04 — White Christmas
 
-[Official Wasgij archive](https://wasgij.com/collections/archive)
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-4-white-christmas-500-pieces-17256)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
