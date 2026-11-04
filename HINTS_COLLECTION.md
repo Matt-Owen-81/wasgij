@@ -402,3 +402,94 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png" alt="Original 49 hint 2" width="250"></a> |
 
+## Christmas
+
+Christmas puzzles are grouped by artwork, regardless of edition or piece count. Official box images and hints will be added as links are identified and visually checked. The entries below are **pending image verification**.
+
+### No.01 — Special Delivery
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.02 — True Love, Cinderella!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.03 — Short Circuit
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.04 — White Christmas
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.05 — That Warm Christmas Feeling
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.06 — A Very Merry Christmas
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.07 — A Christmas Stuffing!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.08 — Christmas Getaway!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.09 — A Bright Christmas Night!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.10 — The Mystery Shopper!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.11 — Double Trouble!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.12 — The Big Turn On!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.13 — Turkey's Delight!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.14 — Santa's Little Helpers!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.15 — Santa's Unexpected Delivery
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.16 — The Christmas Show!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.17 — Elf Inspection!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.18 — Gingerbread Showstopper
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.19 — Santa Dash!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.20 — Spirits of Christmas!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.21 — A Very Merry Makeover!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.22 — Not so Silent Night!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
