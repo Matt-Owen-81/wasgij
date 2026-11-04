@@ -516,7 +516,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-image.jpg" alt="Christmas 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg" alt="Christmas 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg" alt="Christmas 14 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19162_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19162_1_1.png" alt="Christmas 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg" alt="Christmas 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg" alt="Christmas 14 hint 2" width="250"></a> |
 
 ### No.15 — Santa's Unexpected Delivery
 
@@ -524,7 +524,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-image.jpg" alt="Christmas 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg" alt="Christmas 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg" alt="Christmas 15 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19172_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19172_1_1.png" alt="Christmas 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg" alt="Christmas 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg" alt="Christmas 15 hint 2" width="250"></a> |
 
 ### No.16 — The Christmas Show!
 
@@ -532,7 +532,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-image.jpg" alt="Christmas 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg" alt="Christmas 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg" alt="Christmas 16 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19183_G_1.png"><img src="https://wasgij.com/cdn/shop/files/19183_G_1.png" alt="Christmas 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg" alt="Christmas 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg" alt="Christmas 16 hint 2" width="250"></a> |
 
 ### No.17 — Elf Inspection!
 
