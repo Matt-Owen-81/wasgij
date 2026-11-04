@@ -568,8 +568,17 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.21 — A Very Merry Makeover!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-21-a-very-merry-makeover-2x1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-image.jpg" alt="Christmas 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-1.jpg" alt="Christmas 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100510_Christmas-21-Hint-2.jpg" alt="Christmas 21 hint 2" width="250"></a> |
 
 ### No.22 — Not so Silent Night!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-22-not-so-silent-night-2x1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-image.jpg" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-1.jpg" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100904_Christmas-22-Hint-2.jpg" alt="Christmas 22 hint 2" width="250"></a> |
+
