@@ -12,35 +12,35 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.01 — Sunday Drivers!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive/christmas)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-1-sunday-drivers-1000-pieces-19146)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-image.jpg" alt="Christmas 1 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-1.jpg" alt="Christmas 1 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-2.jpg" alt="Christmas 1 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-image.jpg" alt="Sunday Drivers box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-1.jpg" alt="Sunday Drivers hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19146_Retro-Original-1-Hint-2.jpg" alt="Sunday Drivers hint 2" width="250"></a> |
 
 ### No.02 — Happy Holidays!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive/christmas)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-2-happy-holidays-1000-pieces-19153)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-image.jpg" alt="Christmas 2 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-1.jpg" alt="Christmas 2 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-2.jpg" alt="Christmas 2 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-image.jpg" alt="Original 2 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-1.jpg" alt="Original 2 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19153_Retro-Original-2-Hint-2.jpg" alt="Original 2 hint 2" width="250"></a> |
 
 ### No.03 — Full Monty Fever!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive/christmas)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-3-full-monty-fever-1000-pcs-19167)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-image.jpg" alt="Christmas 3 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-1.jpg" alt="Christmas 3 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-2.jpg" alt="Christmas 3 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19167_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19167_1_1.png" alt="Original 3 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-1.jpg" alt="Original 3 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19167_Retro-Original-3-Hint-2.jpg" alt="Original 3 hint 2" width="250"></a> |
 
 ### No.04 — A Day to Remember!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive/christmas)
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-4-1000pcs-19176)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-image.jpg" alt="Christmas 4 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-1.jpg" alt="Christmas 4 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-2.jpg" alt="Christmas 4 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19176_1_2.png"><img src="https://wasgij.com/cdn/shop/files/19176_1_2.png" alt="Original 4 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-1.jpg" alt="Original 4 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19176_Retro-Original-4-Hint-2.jpg" alt="Original 4 hint 2" width="250"></a> |
 
 ### No.05 — Late Booking!
 
@@ -408,19 +408,35 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.01 — Special Delivery
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-image.jpg" alt="Christmas 1 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-1.jpg" alt="Christmas 1 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-2.jpg" alt="Christmas 1 hint 2" width="250"></a> |
 
 ### No.02 — True Love, Cinderella!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-image.jpg" alt="Christmas 2 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-1.jpg" alt="Christmas 2 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-2.jpg" alt="Christmas 2 hint 2" width="250"></a> |
 
 ### No.03 — Short Circuit
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-image.jpg" alt="Christmas 3 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-1.jpg" alt="Christmas 3 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-2.jpg" alt="Christmas 3 hint 2" width="250"></a> |
 
 ### No.04 — White Christmas
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-image.jpg" alt="Christmas 4 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-1.jpg" alt="Christmas 4 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-2.jpg" alt="Christmas 4 hint 2" width="250"></a> |
 
 ### No.05 — That Warm Christmas Feeling
 
