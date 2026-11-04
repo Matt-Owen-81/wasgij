@@ -240,7 +240,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg" alt="Original 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_1.jpg" alt="Original 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original-29-Hint_2.jpg" alt="Original 29 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_image.jpg" alt="Original 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint-1.png" alt="Original 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19159_Original_29_Hint-2.png" alt="Original 29 hint 2" width="250"></a> |
 
 ### No.30 — Strictly Can't Dance!
 
@@ -248,7 +248,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19160_Original_30_image.png"><img src="https://wasgij.com/cdn/shop/files/19160_Original_30_image.png" alt="Original 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint_1.jpg" alt="Original 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg" alt="Original 30 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19160_Original_30_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original_30_image.jpg" alt="Original 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original_30_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19160_Original_30_Hint-1.png" alt="Original 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg" alt="Original 30 hint 2" width="250"></a> |
 
 ### No.31 — Safari Surprise!
 
@@ -256,7 +256,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19164_Original_31_image.png"><img src="https://wasgij.com/cdn/shop/files/19164_Original_31_image.png" alt="Original 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_1.jpg" alt="Original 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-31-Hint_2.jpg" alt="Original 31 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19164_Original_31_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original_31_image.jpg" alt="Original 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-1.png" alt="Original 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-2.png" alt="Original 31 hint 2" width="250"></a> |
 
 ### No.32 — The Big Weigh In!
 
@@ -264,7 +264,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19170_Original_32_image.png"><img src="https://wasgij.com/cdn/shop/files/19170_Original_32_image.png" alt="Original 32 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg" alt="Original 32 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg" alt="Original 32 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19170_Original_32_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original_32_image.jpg" alt="Original 32 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-1.jpg" alt="Original 32 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19170_Original-32-Hint-2.jpg" alt="Original 32 hint 2" width="250"></a> |
 
 ### No.33 — Calm on the Canal!
 
@@ -272,7 +272,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19173_Original_33_image.png"><img src="https://wasgij.com/cdn/shop/files/19173_Original_33_image.png" alt="Original 33 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg" alt="Original 33 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg" alt="Original 33 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19173_Original_33_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original_33_image.jpg" alt="Original 33 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-1.jpg" alt="Original 33 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19173_Original-33-Hint-2.jpg" alt="Original 33 hint 2" width="250"></a> |
 
 ### No.34 — A Piece of Pride!
 
@@ -280,7 +280,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19181_Original_34_image.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original_34_image.png" alt="Original 34 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_1.jpg" alt="Original 34 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint_2.jpg" alt="Original 34 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19181_Original_34_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19181_Original_34_image.jpg" alt="Original 34 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-1.png" alt="Original 34 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-2.png" alt="Original 34 hint 2" width="250"></a> |
 
 ### No.35 — Car Boot Capers!
 
@@ -288,7 +288,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19184_Original_35_image.png"><img src="https://wasgij.com/cdn/shop/files/19184_Original_35_image.png" alt="Original 35 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg" alt="Original 35 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg" alt="Original 35 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19184_Original_35_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original_35_image.jpg" alt="Original 35 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-1.jpg" alt="Original 35 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19184_Original-35-Hint-2.jpg" alt="Original 35 hint 2" width="250"></a> |
 
 ### No.36 — New Year Resolutions!
 
@@ -296,7 +296,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25000_Original_36_image.png"><img src="https://wasgij.com/cdn/shop/files/25000_Original_36_image.png" alt="Original 36 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg" alt="Original 36 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg" alt="Original 36 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25000_Original_36_image.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original_36_image.jpg" alt="Original 36 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-1.jpg" alt="Original 36 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25000_Original-36-Hint-2.jpg" alt="Original 36 hint 2" width="250"></a> |
 
 ### No.37 — Holiday Fiasco!
 
@@ -304,7 +304,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25004_Original_37_image.png"><img src="https://wasgij.com/cdn/shop/files/25004_Original_37_image.png" alt="Original 37 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg" alt="Original 37 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg" alt="Original 37 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25004_Original_37_image.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original_37_image.jpg" alt="Original 37 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-1.jpg" alt="Original 37 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25004_Original-37-Hint-2.jpg" alt="Original 37 hint 2" width="250"></a> |
 
 ### No.38 — Market Meltdown!
 
@@ -312,7 +312,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25010_Original_38_image.png"><img src="https://wasgij.com/cdn/shop/files/25010_Original_38_image.png" alt="Original 38 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg" alt="Original 38 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg" alt="Original 38 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25010_Original_38_image.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original_38_image.jpg" alt="Original 38 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-1.jpg" alt="Original 38 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25010_Original-38-Hint-2.jpg" alt="Original 38 hint 2" width="250"></a> |
 
 ### No.39 — Chinese New Year!
 
@@ -320,7 +320,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25011_Original_39_image.png"><img src="https://wasgij.com/cdn/shop/files/25011_Original_39_image.png" alt="Original 39 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg" alt="Original 39 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg" alt="Original 39 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25011_Original_39_image.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original_39_image.jpg" alt="Original 39 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-1.jpg" alt="Original 39 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25011_Original-39-Hint-2.jpg" alt="Original 39 hint 2" width="250"></a> |
 
 ### No.40 — 25th Anniversary Garden Party!
 
@@ -328,7 +328,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25019_Original_40_image.png"><img src="https://wasgij.com/cdn/shop/files/25019_Original_40_image.png" alt="Original 40 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg" alt="Original 40 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg" alt="Original 40 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25019_Original_40_image.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original_40_image.jpg" alt="Original 40 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-1.jpg" alt="Original 40 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25019_Original-40-Hint-2.jpg" alt="Original 40 hint 2" width="250"></a> |
 
 ### No.41 — The Restore Store!
 
@@ -336,7 +336,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100583_Original_41_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original_41_image.png" alt="Original 41 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg" alt="Original 41 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg" alt="Original 41 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100583_Original_41_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original_41_image.jpg" alt="Original 41 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-1.jpg" alt="Original 41 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100583_Original-41-Hint-2.jpg" alt="Original 41 hint 2" width="250"></a> |
 
 ### No.42 — Rule the Runway!
 
@@ -344,7 +344,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100584_Original_42_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original_42_image.png" alt="Original 42 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg" alt="Original 42 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg" alt="Original 42 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100584_Original_42_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original_42_image.jpg" alt="Original 42 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-1.jpg" alt="Original 42 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100584_Original-42-Hint-2.jpg" alt="Original 42 hint 2" width="250"></a> |
 
 ### No.43 — Aquarium Antics!
 
@@ -352,7 +352,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100585_Original_43_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original_43_image.png" alt="Original 43 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg" alt="Original 43 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg" alt="Original 43 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100585_Original_43_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original_43_image.jpg" alt="Original 43 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-1.jpg" alt="Original 43 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100585_Original-43-Hint-2.jpg" alt="Original 43 hint 2" width="250"></a> |
 
 ### No.44 — Wasgij Summer Games!
 
@@ -360,7 +360,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100587_Original_44_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original_44_image.png" alt="Original 44 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_1.jpg" alt="Original 44 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original-44-Hint_2.jpg" alt="Original 44 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100587_Original_44_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original_44_image.jpg" alt="Original 44 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original_44_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original_44_Hint-1.png" alt="Original 44 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100587_Original_44_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100587_Original_44_Hint-2.png" alt="Original 44 hint 2" width="250"></a> |
 
 ### No.45 — Moving Day!
 
@@ -368,7 +368,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100588_Original_45_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original_45_image.png" alt="Original 45 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_1.jpg" alt="Original 45 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original-45-Hint_2.jpg" alt="Original 45 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100588_Original_45_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original_45_image.jpg" alt="Original 45 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original_45_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original_45_Hint-1.png" alt="Original 45 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100588_Original_45_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100588_Original_45_Hint-2.png" alt="Original 45 hint 2" width="250"></a> |
 
 ### No.46 — Middle Aisle Madness!
 
@@ -376,7 +376,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100505_Original_46_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original_46_image.png" alt="Original 46 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_1.jpg" alt="Original 46 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original-46-Hint_2.jpg" alt="Original 46 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100505_Original_46_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original_46_image.jpg" alt="Original 46 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original_46_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original_46_Hint-1.png" alt="Original 46 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100505_Original_46_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100505_Original_46_Hint-2.png" alt="Original 46 hint 2" width="250"></a> |
 
 ### No.47 — Boating Bedlam!
 
@@ -384,7 +384,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100511_Original_47_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original_47_image.png" alt="Original 47 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_1.jpg" alt="Original 47 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original-47-Hint_2.jpg" alt="Original 47 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100511_Original_47_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original_47_image.jpg" alt="Original 47 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original_47_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original_47_Hint-1.png" alt="Original 47 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100511_Original_47_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100511_Original_47_Hint-2.png" alt="Original 47 hint 2" width="250"></a> |
 
 ### No.48 — What Happens in Vegas!
 
@@ -392,7 +392,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100803_Original_48_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original_48_image.png" alt="Original 48 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_1.jpg" alt="Original 48 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original-48-Hint_2.jpg" alt="Original 48 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100803_Original_48_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original_48_image.jpg" alt="Original 48 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original_48_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original_48_Hint-1.png" alt="Original 48 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100803_Original_48_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100803_Original_48_Hint-2.png" alt="Original 48 hint 2" width="250"></a> |
 
 ### No.49 — Padel Panic!
 
@@ -400,5 +400,5 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100902_Original_49_image.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original_49_image.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_1.jpg" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original-49-Hint_2.jpg" alt="Original 49 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100902_Original_49_image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original_49_image.jpg" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original_49_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original_49_Hint-1.png" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_Original_49_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_Original_49_Hint-2.png" alt="Original 49 hint 2" width="250"></a> |
 
