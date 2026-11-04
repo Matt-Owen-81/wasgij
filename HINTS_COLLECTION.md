@@ -402,3 +402,183 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png" alt="Original 49 hint 2" width="250"></a> |
 
+## Christmas
+
+Christmas puzzles are grouped by artwork, regardless of edition or piece count. **Christmas Advent Calendar versions are excluded from this hints collection.** Box images and hints are linked from the official Wasgij website. Links not yet confirmed by the user remain provisional.
+
+### No.01 — Special Delivery
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-1-special-delivery-500-pieces-10973)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-image.jpg" alt="Christmas 1 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-1.jpg" alt="Christmas 1 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10973_Christmas-1-Hint-2.jpg" alt="Christmas 1 hint 2" width="250"></a> |
+
+### No.02 — True Love, Cinderella!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-2-true-love-cinderella-500-pieces-13132)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-image.jpg" alt="Christmas 2 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-1.jpg" alt="Christmas 2 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13132_Christmas-2-Hint-2.jpg" alt="Christmas 2 hint 2" width="250"></a> |
+
+### No.03 — Short Circuit
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-3-short-circuit-500-pieces-13458)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-image.jpg" alt="Christmas 3 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-1.jpg" alt="Christmas 3 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13458_Christmas-3-Hint-2.jpg" alt="Christmas 3 hint 2" width="250"></a> |
+
+### No.04 — White Christmas
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-4-white-christmas-500-pieces-17256)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-image.jpg" alt="Christmas 4 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-1.jpg" alt="Christmas 4 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17256_Christmas-4-Hint-2.jpg" alt="Christmas 4 hint 2" width="250"></a> |
+
+### No.05 — That Warm Christmas Feeling
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-5-that-warm-christmas-feeling-1000-pieces-13520)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13520_Christmas-5-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13520_Christmas-5-image.jpg" alt="Christmas 5 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-1.jpg" alt="Christmas 5 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13520_Christmas-5-Hint-2.jpg" alt="Christmas 5 hint 2" width="250"></a> |
+
+### No.06 — A Very Merry Christmas
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-6-a-very-merry-christmas-1000-pieces-13639)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13639_Christmas-6-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13639_Christmas-6-image.jpg" alt="Christmas 6 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-1.jpg" alt="Christmas 6 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13639_Christmas-6-Hint-2.jpg" alt="Christmas 6 hint 2" width="250"></a> |
+
+### No.07 — A Christmas Stuffing!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-7-a-christmas-stuffing-1000-pieces-13225)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13225_Christmas-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13225_Christmas-7-image.jpg" alt="Christmas 7 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-1.jpg" alt="Christmas 7 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13225_Christmas-7-Hint-2.jpg" alt="Christmas 7 hint 2" width="250"></a> |
+
+### No.08 — Christmas Getaway!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-8-christmas-getaway-1000-pieces-17227)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17227_Christmas-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17227_Christmas-8-image.jpg" alt="Christmas 8 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-1.jpg" alt="Christmas 8 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17227_Christmas-8-Hint-2.jpg" alt="Christmas 8 hint 2" width="250"></a> |
+
+### No.09 — A Bright Christmas Night!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-9-a-bright-christmas-night-1000-pieces-17308)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17308_Christmas-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17308_Christmas-9-image.jpg" alt="Christmas 9 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-1.jpg" alt="Christmas 9 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-2.jpg" alt="Christmas 9 hint 2" width="250"></a> |
+
+### No.10 — The Mystery Shopper!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-10-the-mystery-shopper-2x1000-pieces-17410)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17410_Christmas-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17410_Christmas-10-image.jpg" alt="Christmas 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-1.jpg" alt="Christmas 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-2.jpg" alt="Christmas 10 hint 2" width="250"></a> |
+
+### No.11 — Double Trouble!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-11-double-trouble-1000-pieces-19112)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19112_Christmas-11-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19112_Christmas-11-image.jpg" alt="Christmas 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-1.jpg" alt="Christmas 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-2.jpg" alt="Christmas 11 hint 2" width="250"></a> |
+
+### No.12 — The Big Turn On!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-12-the-big-turn-on-2x1000-pieces-19131)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19131_Christmas-12-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19131_Christmas-12-image.jpg" alt="Christmas 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-1.jpg" alt="Christmas 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-2.jpg" alt="Christmas 12 hint 2" width="250"></a> |
+
+### No.13 — Turkey's Delight!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-13-turkeys-delight-2x1000-pieces-19149)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19149_Christmas-13-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19149_Christmas-13-image.jpg" alt="Christmas 13 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-1.jpg" alt="Christmas 13 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19149_Christmas-13-Hint-2.jpg" alt="Christmas 13 hint 2" width="250"></a> |
+
+### No.14 — Santa's Little Helpers!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-14-santas-little-helpers-2x1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19162_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19162_1_1.png" alt="Christmas 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-1.jpg" alt="Christmas 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19162_Christmas-14-Hint-2.jpg" alt="Christmas 14 hint 2" width="250"></a> |
+
+### No.15 — Santa's Unexpected Delivery
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-15-2x1000-pieces-19172)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19172_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19172_1_1.png" alt="Christmas 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-1.jpg" alt="Christmas 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19172_Christmas-15-Hint-2.jpg" alt="Christmas 15 hint 2" width="250"></a> |
+
+### No.16 — The Christmas Show!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-16-2x1000pcs-19183)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19183_G_1.png"><img src="https://wasgij.com/cdn/shop/files/19183_G_1.png" alt="Christmas 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-1.jpg" alt="Christmas 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19183_Christmas-16-Hint-2.jpg" alt="Christmas 16 hint 2" width="250"></a> |
+
+### No.17 — Elf Inspection!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-17-2x1000-pieces-1-puzzle-for-free-25003)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25003_1_2.png"><img src="https://wasgij.com/cdn/shop/files/25003_1_2.png" alt="Christmas 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg" alt="Christmas 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg" alt="Christmas 17 hint 2" width="250"></a> |
+
+### No.18 — Gingerbread Showstopper
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-18-2x1000pcs-1x1000pcs-for-free-25017)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25017_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25017_1_2_PNG.png" alt="Christmas 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg" alt="Christmas 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg" alt="Christmas 18 hint 2" width="250"></a> |
+
+### No.19 — Santa Dash!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-19-santa-dash-2x1000pcs-1-puzzle-for-free-1110100021)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100021_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100021_1_2_WEB.png" alt="Christmas 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg" alt="Christmas 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg" alt="Christmas 19 hint 2" width="250"></a> |
+
+### No.20 — Spirits of Christmas!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-20-christmas-spirits-2x1000-pieces-1110100334)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100334_1_2_CAT_PNG_91c386d2-3960-4a72-8c2f-404b452c072a.png"><img src="https://wasgij.com/cdn/shop/files/1110100334_1_2_CAT_PNG_91c386d2-3960-4a72-8c2f-404b452c072a.png" alt="Christmas 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg" alt="Christmas 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg" alt="Christmas 20 hint 2" width="250"></a> |
+
+### No.21 — A Very Merry Makeover!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-21-a-very-merry-makeover-2x1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100510_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100510_1_2.png" alt="Christmas 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_4Hints_960x684_e1b61561-4d4b-4f3c-a881-8ed6cf422bbe.png"><img src="https://wasgij.com/cdn/shop/files/1110100510_4Hints_960x684_e1b61561-4d4b-4f3c-a881-8ed6cf422bbe.png" alt="Christmas 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100510_5Hints_960x684_7d2533bb-4bcc-4a94-993c-dff4ee1fb752.png"><img src="https://wasgij.com/cdn/shop/files/1110100510_5Hints_960x684_7d2533bb-4bcc-4a94-993c-dff4ee1fb752.png" alt="Christmas 21 hint 2" width="250"></a> |
+
+### No.22 — Not so Silent Night!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-22-not-so-silent-night-2x1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100904_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100904_1_2.png" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_2.png"><img src="https://wasgij.com/cdn/shop/files/111010_2.png" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_4.png"><img src="https://wasgij.com/cdn/shop/files/111010_4.png" alt="Christmas 22 hint 2" width="250"></a> |
+
