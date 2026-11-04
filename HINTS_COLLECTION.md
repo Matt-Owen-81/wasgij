@@ -280,7 +280,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19181_1_1_PNG.png"><img src="https://wasgij.com/cdn/shop/files/19181_1_1_PNG.png" alt="Original 34 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-1.png" alt="Original 34 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original_34_Hint-2.png" alt="Original 34 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19181_1_2.png"><img src="https://wasgij.com/cdn/shop/files/19181_1_2.png" alt="Original 34 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-1.png" alt="Original 34 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19181_Original-34-Hint-2.png" alt="Original 34 hint 2" width="250"></a> |
 
 ### No.35 — Car Boot Capers!
 
