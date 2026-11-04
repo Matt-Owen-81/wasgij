@@ -536,19 +536,35 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.17 — Elf Inspection!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-17-2x1000-pieces-1-puzzle-for-free-25003)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-image.jpg" alt="Christmas 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-1.jpg" alt="Christmas 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25003_Christmas-17-Hint-2.jpg" alt="Christmas 17 hint 2" width="250"></a> |
 
 ### No.18 — Gingerbread Showstopper
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-18-2x1000pcs-1x1000pcs-for-free-25017)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-image.jpg" alt="Christmas 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-1.jpg" alt="Christmas 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25017_Christmas-18-Hint-2.jpg" alt="Christmas 18 hint 2" width="250"></a> |
 
 ### No.19 — Santa Dash!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-19-santa-dash-2x1000pcs-1-puzzle-for-free-1110100021)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-image.jpg" alt="Christmas 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-1.jpg" alt="Christmas 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100021_Christmas-19-Hint-2.jpg" alt="Christmas 19 hint 2" width="250"></a> |
 
 ### No.20 — Spirits of Christmas!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-20-christmas-spirits-2x1000-pieces-1110100334)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-image.jpg" alt="Christmas 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-1.jpg" alt="Christmas 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100334_Christmas-20-Hint-2.jpg" alt="Christmas 20 hint 2" width="250"></a> |
 
 ### No.21 — A Very Merry Makeover!
 
