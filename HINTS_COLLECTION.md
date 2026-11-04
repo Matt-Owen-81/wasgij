@@ -256,7 +256,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19164_1_1_PNG.png"><img src="https://wasgij.com/cdn/shop/files/19164_1_1_PNG.png" alt="Original 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-1.png" alt="Original 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19164_Original_31_Hint-2.png" alt="Original 31 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19164_1_1_PNG.png"><img src="https://wasgij.com/cdn/shop/files/19164_1_1_PNG.png" alt="Original 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-30-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-30-Hint-1.jpg" alt="Original 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19164_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19164_Original-30-Hint-2.jpg" alt="Original 31 hint 2" width="250"></a> |
 
 ### No.32 — The Big Weigh In!
 
