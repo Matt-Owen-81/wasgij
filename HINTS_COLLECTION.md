@@ -248,7 +248,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19160_Original_30_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original_30_image.jpg" alt="Original 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original_30_Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/19160_Original_30_Hint-1.png" alt="Original 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg" alt="Original 30 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19160_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19160_1_1.png" alt="Original 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-1.jpg" alt="Original 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19160_Original-30-Hint-2.jpg" alt="Original 30 hint 2" width="250"></a> |
 
 ### No.31 — Safari Surprise!
 
