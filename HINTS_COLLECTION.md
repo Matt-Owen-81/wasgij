@@ -472,19 +472,35 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ### No.09 — A Bright Christmas Night!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-9-a-bright-christmas-night-1000-pieces-17308)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17308_Christmas-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17308_Christmas-9-image.jpg" alt="Christmas 9 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-1.jpg" alt="Christmas 9 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17308_Christmas-9-Hint-2.jpg" alt="Christmas 9 hint 2" width="250"></a> |
 
 ### No.10 — The Mystery Shopper!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-10-the-mystery-shopper-2x1000-pieces-17410)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17410_Christmas-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17410_Christmas-10-image.jpg" alt="Christmas 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-1.jpg" alt="Christmas 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17410_Christmas-10-Hint-2.jpg" alt="Christmas 10 hint 2" width="250"></a> |
 
 ### No.11 — Double Trouble!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-11-double-trouble-1000-pieces-19112)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19112_Christmas-11-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19112_Christmas-11-image.jpg" alt="Christmas 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-1.jpg" alt="Christmas 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19112_Christmas-11-Hint-2.jpg" alt="Christmas 11 hint 2" width="250"></a> |
 
 ### No.12 — The Big Turn On!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-christmas-12-the-big-turn-on-2x1000-pieces-19131)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19131_Christmas-12-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19131_Christmas-12-image.jpg" alt="Christmas 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-1.jpg" alt="Christmas 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19131_Christmas-12-Hint-2.jpg" alt="Christmas 12 hint 2" width="250"></a> |
 
 ### No.13 — Turkey's Delight!
 
