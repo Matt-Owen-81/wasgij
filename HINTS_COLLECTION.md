@@ -598,3 +598,136 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100904_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100904_1_2.png" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_2.png"><img src="https://wasgij.com/cdn/shop/files/111010_2.png" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_4.png"><img src="https://wasgij.com/cdn/shop/files/111010_4.png" alt="Christmas 22 hint 2" width="250"></a> |
+
+## Mystery
+
+The Mystery series is listed by puzzle artwork, regardless of edition or piece count. Box and hint images will be added and visually validated in batches.
+
+### No.01 — The Wasgij Express!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.02 — Stop the Clock
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.03 — Drama at the Opera!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.04 — Live Entertainment
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.05 — Sunday Lunch
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.06 — Camping Commotion
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.07 — Everything Must Go!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.08 — The Final Hurdle!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.09 — Great Train Robbery!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.10 — Spring has Sprung!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.11 — Childcare!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.12 — The Unusual Suspects!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.13 — A Purrrfect Escape!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.14 — The Hound of the Wasgijville!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.15 — A Typical British BBQ!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.16 — Birthday Surprise!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.17 — Catching a Break!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.18 — Grabbing a Quick Bite!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.19 — Bingo Blunder!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.20 — Mountain Mayhem!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.21 — Trouble Brewing!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.22 — Wasgij Winter Games!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.23 — Pooch Parlour!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.24 — Blight at the museum!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.25 — Eurosound Contest!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.26 — Date Night!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.27 — A Close Shave!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.28 — Feline Frenzy!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.29 — Donation Debacle!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.30 — Bullseye!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.31 — Gender Reveal!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.Efteling — World of Wonders!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
