@@ -860,3 +860,139 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg" alt="Mystery Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg" alt="Mystery Efteling hint 2" width="250"></a> |
+
+## Destiny
+
+Official puzzle-page and image links will be added in review batches. Entries below are placeholders, not validated images.
+
+### No.01 — The Best Days of our Lives!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.02 — The Proposal
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.03 — Sands of Time!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.04 — The Wasgij Games!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.05 — Time Travel
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.06 — Child's Play
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.07 — Rock around the Clock
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.08 — High Season
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.09 — Super Models
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.10 — High Street Hassle
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.11 — The Office!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.12 — Market Mayhem!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.13 — Commuting Chaos!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.14 — How times have changed!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.15 — Shopping Shake Up!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.16 — Old Time Rockers!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.17 — Paying the Price!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.18 — Fast Food Frenzy!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.19 — The Puzzlers Arms!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.20 — The Toy Shop!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.21 — Highway Hold-Up!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.22 — Trip to the Tip!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.23 — Theme Park Thrills!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.24 — Business as Usual!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.25 — Games Night!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.26 — Organic Overload!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.27 — Café to Latte!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.28 — Dad Cave!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.29 — Pitch Perfect!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.30 — Harvesting Happiness!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.31 — Home Delivery!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### No.32 — Passion for Fashion!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+
+### Special — 170 Years of Jumbo!
+
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
