@@ -598,3 +598,265 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100904_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100904_1_2.png" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_2.png"><img src="https://wasgij.com/cdn/shop/files/111010_2.png" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_4.png"><img src="https://wasgij.com/cdn/shop/files/111010_4.png" alt="Christmas 22 hint 2" width="250"></a> |
+
+## Mystery
+
+The Mystery series is listed by puzzle artwork, regardless of edition or piece count. Box and hint images will be added and visually validated in batches.
+
+### No.01 — The Wasgij Express!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-1-the-wasgij-express-2x1000-pieces-01988)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/01988_Mystery-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/01988_Mystery-1-image.jpg" alt="Mystery 01 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-1.jpg" alt="Mystery 01 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-2.jpg" alt="Mystery 01 hint 2" width="250"></a> |
+
+### No.02 — Stop the Clock
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-2-stop-the-clock-1000-pieces-10878)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10878_Mystery-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10878_Mystery-2-image.jpg" alt="Mystery 02 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-1.jpg" alt="Mystery 02 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-2.jpg" alt="Mystery 02 hint 2" width="250"></a> |
+
+### No.03 — Drama at the Opera!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-3-drama-at-the-opera-1000-pieces-10900)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10900_Mystery-3-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10900_Mystery-3-image.jpg" alt="Mystery 03 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-1.jpg" alt="Mystery 03 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-2.jpg" alt="Mystery 03 hint 2" width="250"></a> |
+
+### No.04 — Live Entertainment
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-4-live-entertainment-1000-pieces-10915)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10915_Mystery-4-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10915_Mystery-4-image.jpg" alt="Mystery 04 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-1.jpg" alt="Mystery 04 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-2.jpg" alt="Mystery 04 hint 2" width="250"></a> |
+
+### No.05 — Sunday Lunch
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-5-sunday-lunch-1000-pieces-10917)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-image.jpg" alt="Mystery 05 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg" alt="Mystery 05 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg" alt="Mystery 05 hint 2" width="250"></a> |
+
+### No.06 — Camping Commotion
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-6-camping-commotion-1000-pieces-13498)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-image.jpg" alt="Mystery 06 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg" alt="Mystery 06 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg" alt="Mystery 06 hint 2" width="250"></a> |
+
+### No.07 — Everything Must Go!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-7-everything-must-go-1000-pieces-12287)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-image.jpg" alt="Mystery 07 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg" alt="Mystery 07 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg" alt="Mystery 07 hint 2" width="250"></a> |
+
+### No.08 — The Final Hurdle!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-8-the-final-hurdle-1000-pieces-17230)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-image.jpg" alt="Mystery 08 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg" alt="Mystery 08 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg" alt="Mystery 08 hint 2" width="250"></a> |
+
+### No.09 — Great Train Robbery!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-9-great-train-robbery-1000-pieces-17302)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-image.jpg" alt="Mystery 09 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg" alt="Mystery 09 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg" alt="Mystery 09 hint 2" width="250"></a> |
+
+### No.10 — Spring has Sprung!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-10-spring-has-sprung-1000-pieces-17406)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-image.jpg" alt="Mystery 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg" alt="Mystery 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg" alt="Mystery 10 hint 2" width="250"></a> |
+
+### No.11 — Childcare!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-11-childcare-1000-pieces-19110)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-image.jpg" alt="Mystery 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg" alt="Mystery 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg" alt="Mystery 11 hint 2" width="250"></a> |
+
+### No.12 — The Unusual Suspects!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-12-1000-pieces-19127)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19127_Mystery_12_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery_12_image.jpg" alt="Mystery 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg" alt="Mystery 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg" alt="Mystery 12 hint 2" width="250"></a> |
+
+### No.13 — A Purrrfect Escape!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-13-a-purrrfect-escape-1000-pieces-19143)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19143_Mystery-13-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19143_Mystery-13-image.jpg" alt="Mystery 13 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-1.jpg" alt="Mystery 13 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-2.jpg" alt="Mystery 13 hint 2" width="250"></a> |
+
+### No.14 — The Hound of the Wasgijville!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-14-the-hound-of-the-wasgijville-1000pcs-19158)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19158_Mystery_14_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery_14_image.jpg" alt="Mystery 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg" alt="Mystery 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg" alt="Mystery 14 hint 2" width="250"></a> |
+
+### No.15 — A Typical British BBQ!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-15-a-typical-british-bbq-1000pcs-19163)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19163_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19163_1_1.png" alt="Mystery 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg" alt="Mystery 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg" alt="Mystery 15 hint 2" width="250"></a> |
+
+### No.16 — Birthday Surprise!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-16-1000pcs-19165)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19165_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19165_1_1.png" alt="Mystery 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg" alt="Mystery 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg" alt="Mystery 16 hint 2" width="250"></a> |
+
+### No.17 — Catching a Break!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-17-1000pcs-19175)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19175_1_2.png"><img src="https://wasgij.com/cdn/shop/files/19175_1_2.png" alt="Mystery 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg" alt="Mystery 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg" alt="Mystery 17 hint 2" width="250"></a> |
+
+### No.18 — Grabbing a Quick Bite!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-18-1000pcs-19179)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19179_G_1.png"><img src="https://wasgij.com/cdn/shop/files/19179_G_1.png" alt="Mystery 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg" alt="Mystery 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.png" alt="Mystery 18 hint 2" width="250"></a> |
+
+### No.19 — Bingo Blunder!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-19-1000pcs-19182)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19182_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19182_1_1.png" alt="Mystery 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg" alt="Mystery 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg" alt="Mystery 19 hint 2" width="250"></a> |
+
+### No.20 — Mountain Mayhem!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-20-mountain-mayhem-1000pcs-25002)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25002_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25002_1_1.png" alt="Mystery 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg" alt="Mystery 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg" alt="Mystery 20 hint 2" width="250"></a> |
+
+### No.21 — Trouble Brewing!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-21-trouble-brewing-1000pcs-25006)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25006_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25006_1_2_PNG.png" alt="Mystery 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg" alt="Mystery 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg" alt="Mystery 21 hint 2" width="250"></a> |
+
+### No.22 — Wasgij Winter Games!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-22-wasgij-winter-games-1000pcs-25012)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25012_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25012_1_2_PNG.png" alt="Mystery 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg" alt="Mystery 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg" alt="Mystery 22 hint 2" width="250"></a> |
+
+### No.23 — Pooch Parlour!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-23-pooch-parlour-1000pcs-25018)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25018_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25018_1_2_PNG.png" alt="Mystery 23 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg" alt="Mystery 23 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg" alt="Mystery 23 hint 2" width="250"></a> |
+
+### No.24 — Blight at the museum!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-24-blight-at-the-museum-1000pcs-1110100014)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100014_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100014_1_2_WEB.png" alt="Mystery 24 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg" alt="Mystery 24 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg" alt="Mystery 24 hint 2" width="250"></a> |
+
+### No.25 — Eurosound Contest!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-25-eurosound-contest-1000pcs-1110100019)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png" alt="Mystery 25 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg" alt="Mystery 25 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg" alt="Mystery 25 hint 2" width="250"></a> |
+
+### No.26 — Date Night!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-26-date-night-1000-pieces-1110100331)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png" alt="Mystery 26 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png" alt="Mystery 26 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png" alt="Mystery 26 hint 2" width="250"></a> |
+
+### No.27 — A Close Shave!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-27-a-close-shave-1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100593_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_1_2.png" alt="Mystery 27 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png" alt="Mystery 27 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png" alt="Mystery 27 hint 2" width="250"></a> |
+
+### No.28 — Feline Frenzy!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-28-feline-frenzy-1000-pieces)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100506_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_1_2.png" alt="Mystery 28 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png" alt="Mystery 28 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png" alt="Mystery 28 hint 2" width="250"></a> |
+
+### No.29 — Donation Debacle!
+
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-mystery-29-donation-debacle-1000-pieces)
+
+| Box image | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100513_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_1_2.png" alt="Mystery 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png" alt="Mystery 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png" alt="Mystery 29 hint 2" width="250"></a> |
+
+### No.30 — Bullseye!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-30-bullseye-1000-pieces)
+
+| Box image | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100804_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_1_2.png" alt="Mystery 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png" alt="Mystery 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png" alt="Mystery 30 hint 2" width="250"></a> |
+
+### No.31 — Gender Reveal!
+
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-31-gender-reveal-1000-pieces)
+
+| Box image | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png" alt="Mystery 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png" alt="Mystery 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png" alt="Mystery 31 hint 2" width="250"></a> |
+
+### Efteling — World of Wonders!
+
+[Official puzzle page](https://wasgij.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
+
+> **Opening the German puzzle page:** If clicking the link redirects you to the UK Wasgij homepage, copy the link address and paste it directly into your browser's address bar. The German product page should then open.
+
+| Box image | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg" alt="Mystery Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg" alt="Mystery Efteling hint 2" width="250"></a> |
