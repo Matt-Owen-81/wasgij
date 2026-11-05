@@ -769,7 +769,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25006_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25006_1_1.png" alt="Mystery 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg" alt="Mystery 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg" alt="Mystery 21 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25006_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25006_1_2_PNG.png" alt="Mystery 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg" alt="Mystery 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg" alt="Mystery 21 hint 2" width="250"></a> |
 
 ### No.22 — Wasgij Winter Games!
 
@@ -777,7 +777,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25012_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25012_1_1.png" alt="Mystery 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg" alt="Mystery 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg" alt="Mystery 22 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25012_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25012_1_2_PNG.png" alt="Mystery 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg" alt="Mystery 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg" alt="Mystery 22 hint 2" width="250"></a> |
 
 ### No.23 — Pooch Parlour!
 
@@ -785,7 +785,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25018_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25018_1_1.png" alt="Mystery 23 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg" alt="Mystery 23 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg" alt="Mystery 23 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25018_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25018_1_2_PNG.png" alt="Mystery 23 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg" alt="Mystery 23 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg" alt="Mystery 23 hint 2" width="250"></a> |
 
 ### No.24 — Blight at the museum!
 
@@ -793,7 +793,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100014_1_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100014_1_1.png" alt="Mystery 24 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg" alt="Mystery 24 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg" alt="Mystery 24 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100014_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100014_1_2_WEB.png" alt="Mystery 24 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg" alt="Mystery 24 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg" alt="Mystery 24 hint 2" width="250"></a> |
 
 ### No.25 — Eurosound Contest!
 
