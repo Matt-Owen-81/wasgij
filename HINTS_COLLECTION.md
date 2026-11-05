@@ -673,7 +673,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-box.png"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-box.png" alt="Mystery 09 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg" alt="Mystery 09 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg" alt="Mystery 09 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-image.jpg" alt="Mystery 09 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg" alt="Mystery 09 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg" alt="Mystery 09 hint 2" width="250"></a> |
 
 ### No.10 — Spring has Sprung!
 
@@ -681,7 +681,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-box.png"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-box.png" alt="Mystery 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg" alt="Mystery 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg" alt="Mystery 10 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-image.jpg" alt="Mystery 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg" alt="Mystery 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg" alt="Mystery 10 hint 2" width="250"></a> |
 
 ### No.11 — Childcare!
 
@@ -689,7 +689,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-box.png"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-box.png" alt="Mystery 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg" alt="Mystery 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg" alt="Mystery 11 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-image.jpg" alt="Mystery 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg" alt="Mystery 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg" alt="Mystery 11 hint 2" width="250"></a> |
 
 ### No.12 — The Unusual Suspects!
 
@@ -697,7 +697,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-box.png"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-box.png" alt="Mystery 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg" alt="Mystery 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg" alt="Mystery 12 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19127_Mystery_12_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery_12_image.jpg" alt="Mystery 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg" alt="Mystery 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg" alt="Mystery 12 hint 2" width="250"></a> |
 
 ### No.13 — A Purrrfect Escape!
 
