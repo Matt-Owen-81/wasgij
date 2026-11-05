@@ -641,7 +641,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-box.png"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-box.png" alt="Mystery 05 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg" alt="Mystery 05 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg" alt="Mystery 05 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-image.jpg" alt="Mystery 05 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg" alt="Mystery 05 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg" alt="Mystery 05 hint 2" width="250"></a> |
 
 ### No.06 — Camping Commotion
 
@@ -649,7 +649,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-box.png"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-box.png" alt="Mystery 06 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg" alt="Mystery 06 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg" alt="Mystery 06 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-image.jpg" alt="Mystery 06 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg" alt="Mystery 06 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg" alt="Mystery 06 hint 2" width="250"></a> |
 
 ### No.07 — Everything Must Go!
 
@@ -657,7 +657,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-box.png"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-box.png" alt="Mystery 07 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg" alt="Mystery 07 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg" alt="Mystery 07 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-image.jpg" alt="Mystery 07 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg" alt="Mystery 07 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg" alt="Mystery 07 hint 2" width="250"></a> |
 
 ### No.08 — The Final Hurdle!
 
@@ -665,7 +665,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-box.png"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-box.png" alt="Mystery 08 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg" alt="Mystery 08 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg" alt="Mystery 08 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-image.jpg" alt="Mystery 08 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg" alt="Mystery 08 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg" alt="Mystery 08 hint 2" width="250"></a> |
 
 ### No.09 — Great Train Robbery!
 
