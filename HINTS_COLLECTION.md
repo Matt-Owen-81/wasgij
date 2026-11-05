@@ -867,19 +867,19 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.01 — The Best Days of our Lives!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-1-the-best-days-of-our-lives-2x1000-pieces-10141) · Box image and hints: pending verification.
 
 ### No.02 — The Proposal
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-2-the-proposal-1000-pieces-19155) · Box image and hints: pending verification.
 
 ### No.03 — Sands of Time!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-3-sands-of-time-1000-pieces-10486) · Box image and hints: pending verification.
 
 ### No.04 — The Wasgij Games!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-4-1000pcs-19178) · Box image and hints: pending verification.
 
 ### No.05 — Time Travel
 
