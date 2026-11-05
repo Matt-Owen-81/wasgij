@@ -701,19 +701,35 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.13 — A Purrrfect Escape!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-13-a-purrrfect-escape-1000-pieces-19143)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19143_Mystery-13-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19143_Mystery-13-image.jpg" alt="Mystery 13 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-1.jpg" alt="Mystery 13 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19143_Mystery-13-Hint-2.jpg" alt="Mystery 13 hint 2" width="250"></a> |
 
 ### No.14 — The Hound of the Wasgijville!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-14-the-hound-of-the-wasgijville-1000pcs-19158)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-image.jpg" alt="Mystery 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg" alt="Mystery 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg" alt="Mystery 14 hint 2" width="250"></a> |
 
 ### No.15 — A Typical British BBQ!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-15-a-typical-british-bbq-1000pcs-19163)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-image.jpg" alt="Mystery 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg" alt="Mystery 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg" alt="Mystery 15 hint 2" width="250"></a> |
 
 ### No.16 — Birthday Surprise!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-16-1000pcs-19165)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-image.jpg" alt="Mystery 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg" alt="Mystery 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg" alt="Mystery 16 hint 2" width="250"></a> |
 
 ### No.17 — Catching a Break!
 
