@@ -801,7 +801,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png" alt="Mystery 25 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg" alt="Mystery 25 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg" alt="Mystery 25 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png" alt="Mystery 25 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg" alt="Mystery 25 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg" alt="Mystery 25 hint 2" width="250"></a> |
 
 ### No.26 — Date Night!
 
@@ -809,7 +809,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png" alt="Mystery 26 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png" alt="Mystery 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png" alt="Mystery 26 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png" alt="Mystery 26 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png" alt="Mystery 26 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png" alt="Mystery 26 hint 2" width="250"></a> |
 
 ### No.27 — A Close Shave!
 
@@ -817,7 +817,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100593_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_1_2.png" alt="Mystery 27 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png" alt="Mystery 27 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png" alt="Mystery 27 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100593_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_1_2.png" alt="Mystery 27 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png" alt="Mystery 27 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png" alt="Mystery 27 hint 2" width="250"></a> |
 
 ### No.28 — Feline Frenzy!
 
@@ -825,7 +825,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100506_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_1_2.png" alt="Mystery 28 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png" alt="Mystery 28 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png" alt="Mystery 28 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100506_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_1_2.png" alt="Mystery 28 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png" alt="Mystery 28 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png" alt="Mystery 28 hint 2" width="250"></a> |
 
 ### No.29 — Donation Debacle!
 
