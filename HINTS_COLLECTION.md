@@ -799,7 +799,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-25-eurosound-contest-1000pcs-1110100019)
 
-| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100019_1_2_WEB.png" alt="Mystery 25 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg" alt="Mystery 25 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg" alt="Mystery 25 hint 2" width="250"></a> |
 
@@ -807,7 +807,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-26-date-night-1000-pieces-1110100331)
 
-| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png" alt="Mystery 26 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png" alt="Mystery 26 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png" alt="Mystery 26 hint 2" width="250"></a> |
 
@@ -815,7 +815,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-27-a-close-shave-1000-pieces)
 
-| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100593_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_1_2.png" alt="Mystery 27 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.png" alt="Mystery 27 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.png" alt="Mystery 27 hint 2" width="250"></a> |
 
@@ -823,7 +823,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-28-feline-frenzy-1000-pieces)
 
-| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100506_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_1_2.png" alt="Mystery 28 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.png" alt="Mystery 28 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.png" alt="Mystery 28 hint 2" width="250"></a> |
 
@@ -831,25 +831,25 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-mystery-29-donation-debacle-1000-pieces)
 
-| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100513_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_1_2.png" alt="Mystery 29 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png" alt="Mystery 29 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png" alt="Mystery 29 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100513_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_1_2.png" alt="Mystery 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png" alt="Mystery 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png" alt="Mystery 29 hint 2" width="250"></a> |
 
 ### No.30 — Bullseye!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-30-bullseye-1000-pieces)
 
-| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100804_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_1_2.png" alt="Mystery 30 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png" alt="Mystery 30 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png" alt="Mystery 30 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100804_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_1_2.png" alt="Mystery 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png" alt="Mystery 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png" alt="Mystery 30 hint 2" width="250"></a> |
 
 ### No.31 — Gender Reveal!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-31-gender-reveal-1000-pieces)
 
-| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png" alt="Mystery 31 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png" alt="Mystery 31 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png" alt="Mystery 31 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png" alt="Mystery 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png" alt="Mystery 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png" alt="Mystery 31 hint 2" width="250"></a> |
 
 ### Efteling — World of Wonders!
 
