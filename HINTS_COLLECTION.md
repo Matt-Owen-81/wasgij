@@ -833,7 +833,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100513_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_1_2.png" alt="Mystery 29 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-1.png" alt="Mystery 29 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-2.png" alt="Mystery 29 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100513_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_1_2.png" alt="Mystery 29 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png" alt="Mystery 29 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png" alt="Mystery 29 hint 2 candidate" width="250"></a> |
 
 ### No.30 — Bullseye!
 
@@ -841,7 +841,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100804_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_1_2.png" alt="Mystery 30 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-1.png" alt="Mystery 30 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-2.png" alt="Mystery 30 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100804_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_1_2.png" alt="Mystery 30 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png" alt="Mystery 30 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png" alt="Mystery 30 hint 2 candidate" width="250"></a> |
 
 ### No.31 — Gender Reveal!
 
