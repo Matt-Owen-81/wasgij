@@ -809,7 +809,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100331_F_14_CAT.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_F_14_CAT.png" alt="Mystery 26 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png" alt="Mystery 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png" alt="Mystery 26 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_1_2_CAT.png" alt="Mystery 26 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.png" alt="Mystery 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.png" alt="Mystery 26 hint 2 candidate" width="250"></a> |
 
 ### No.27 — A Close Shave!
 
