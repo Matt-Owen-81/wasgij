@@ -867,19 +867,35 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.01 — The Best Days of our Lives!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-1-the-best-days-of-our-lives-2x1000-pieces-10141) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-1-the-best-days-of-our-lives-2x1000-pieces-10141)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-box.png"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-box.png" alt="Destiny 01 box image candidate" width="250"></a> | Pending | Pending |
 
 ### No.02 — The Proposal
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-2-the-proposal-1000-pieces-19155) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-2-the-proposal-1000-pieces-19155)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-box.png"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-box.png" alt="Destiny 02 box image candidate" width="250"></a> | Pending | Pending |
 
 ### No.03 — Sands of Time!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-3-sands-of-time-1000-pieces-10486) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-3-sands-of-time-1000-pieces-10486)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-box.png"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-box.png" alt="Destiny 03 box image candidate" width="250"></a> | Pending | Pending |
 
 ### No.04 — The Wasgij Games!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-4-1000pcs-19178) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-4-1000pcs-19178)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19178_L_0.png"><img src="https://wasgij.com/cdn/shop/files/19178_L_0.png" alt="Destiny 04 box image candidate" width="250"></a> | Pending | Pending |
 
 ### No.05 — Time Travel
 
