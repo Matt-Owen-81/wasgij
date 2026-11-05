@@ -733,19 +733,19 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.17 — Catching a Break!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
 
 ### No.18 — Grabbing a Quick Bite!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
 
 ### No.19 — Bingo Blunder!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
 
 ### No.20 — Mountain Mayhem!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
 
 ### No.21 — Trouble Brewing!
 
