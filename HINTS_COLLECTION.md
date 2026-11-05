@@ -829,17 +829,32 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.29 — Donation Debacle!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-mystery-29-donation-debacle-1000-pieces)
+
+| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100513_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_1_2.png" alt="Mystery 29 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-1.png" alt="Mystery 29 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_Mystery-29-Hint-2.png" alt="Mystery 29 hint 2 candidate" width="250"></a> |
 
 ### No.30 — Bullseye!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-30-bullseye-1000-pieces)
+
+| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100804_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_1_2.png" alt="Mystery 30 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-1.png" alt="Mystery 30 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_Mystery-30-Hint-2.png" alt="Mystery 30 hint 2 candidate" width="250"></a> |
 
 ### No.31 — Gender Reveal!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-31-gender-reveal-1000-pieces)
+
+| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100903_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_1_2.png" alt="Mystery 31 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-1.png" alt="Mystery 31 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-2.png" alt="Mystery 31 hint 2 candidate" width="250"></a> |
 
 ### Efteling — World of Wonders!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
 
+| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.png" alt="Mystery Efteling hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.png" alt="Mystery Efteling hint 2 candidate" width="250"></a> |
