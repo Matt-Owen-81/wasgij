@@ -853,8 +853,8 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### Efteling — World of Wonders!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
+[Official puzzle page](https://wasgij.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
 
-| Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.png" alt="Mystery Efteling hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.png" alt="Mystery Efteling hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg" alt="Mystery Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg" alt="Mystery Efteling hint 2" width="250"></a> |
