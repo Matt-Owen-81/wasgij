@@ -797,19 +797,35 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.25 — Eurosound Contest!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-25-eurosound-contest-1000pcs-1110100019)
+
+| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100019_F_14_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100019_F_14_WEB.png" alt="Mystery 25 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-1.jpg" alt="Mystery 25 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100019_Mystery-25-Hint-2.jpg" alt="Mystery 25 hint 2 candidate" width="250"></a> |
 
 ### No.26 — Date Night!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-26-date-night-1000-pieces-1110100331)
+
+| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100331_F_14_CAT.png"><img src="https://wasgij.com/cdn/shop/files/1110100331_F_14_CAT.png" alt="Mystery 26 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-1.jpg" alt="Mystery 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100331_Mystery-26-Hint-2.jpg" alt="Mystery 26 hint 2 candidate" width="250"></a> |
 
 ### No.27 — A Close Shave!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-27-a-close-shave-1000-pieces)
+
+| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100593_F_14.png"><img src="https://wasgij.com/cdn/shop/files/1110100593_F_14.png" alt="Mystery 27 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-1.jpg" alt="Mystery 27 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100593_Mystery-27-Hint-2.jpg" alt="Mystery 27 hint 2 candidate" width="250"></a> |
 
 ### No.28 — Feline Frenzy!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-28-feline-frenzy-1000-pieces)
+
+| Box image (main clue) | Hint 1 (candidate) | Hint 2 (candidate) |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100506_F_14.png"><img src="https://wasgij.com/cdn/shop/files/1110100506_F_14.png" alt="Mystery 28 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-1.jpg" alt="Mystery 28 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100506_Mystery-28-Hint-2.jpg" alt="Mystery 28 hint 2 candidate" width="250"></a> |
 
 ### No.29 — Donation Debacle!
 
