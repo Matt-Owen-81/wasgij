@@ -733,19 +733,35 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.17 — Catching a Break!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-17-1000pcs-19175)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19175_F_14.png"><img src="https://wasgij.com/cdn/shop/files/19175_F_14.png" alt="Mystery 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg" alt="Mystery 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg" alt="Mystery 17 hint 2" width="250"></a> |
 
 ### No.18 — Grabbing a Quick Bite!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-18-1000pcs-19179)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19179_F_14.png"><img src="https://wasgij.com/cdn/shop/files/19179_F_14.png" alt="Mystery 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg" alt="Mystery 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.jpg" alt="Mystery 18 hint 2" width="250"></a> |
 
 ### No.19 — Bingo Blunder!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-19-1000pcs-19182)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19182_F_14.png"><img src="https://wasgij.com/cdn/shop/files/19182_F_14.png" alt="Mystery 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg" alt="Mystery 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg" alt="Mystery 19 hint 2" width="250"></a> |
 
 ### No.20 — Mountain Mayhem!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image, Hint 1 and Hint 2: awaiting official image URLs.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-20-mountain-mayhem-1000pcs-25002)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25002_F_14.png"><img src="https://wasgij.com/cdn/shop/files/25002_F_14.png" alt="Mystery 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg" alt="Mystery 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg" alt="Mystery 20 hint 2" width="250"></a> |
 
 ### No.21 — Trouble Brewing!
 
