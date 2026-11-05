@@ -713,7 +713,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-image.jpg" alt="Mystery 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg" alt="Mystery 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg" alt="Mystery 14 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19158_Mystery_14_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery_14_image.jpg" alt="Mystery 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-1.jpg" alt="Mystery 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19158_Mystery-14-Hint-2.jpg" alt="Mystery 14 hint 2" width="250"></a> |
 
 ### No.15 — A Typical British BBQ!
 
@@ -721,7 +721,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-image.jpg" alt="Mystery 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg" alt="Mystery 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg" alt="Mystery 15 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19163_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19163_1_1.png" alt="Mystery 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-1.jpg" alt="Mystery 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19163_Mystery-15-Hint-2.jpg" alt="Mystery 15 hint 2" width="250"></a> |
 
 ### No.16 — Birthday Surprise!
 
@@ -729,7 +729,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-image.jpg" alt="Mystery 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg" alt="Mystery 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg" alt="Mystery 16 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19165_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19165_1_1.png" alt="Mystery 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-1.jpg" alt="Mystery 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19165_Mystery-16-Hint-2.jpg" alt="Mystery 16 hint 2" width="250"></a> |
 
 ### No.17 — Catching a Break!
 
