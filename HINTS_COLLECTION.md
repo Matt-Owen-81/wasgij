@@ -765,19 +765,35 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.21 — Trouble Brewing!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-21-trouble-brewing-1000pcs-25006)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25006_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25006_1_1.png" alt="Mystery 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-1.jpg" alt="Mystery 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25006_Mystery-21-Hint-2.jpg" alt="Mystery 21 hint 2" width="250"></a> |
 
 ### No.22 — Wasgij Winter Games!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-22-wasgij-winter-games-1000pcs-25012)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25012_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25012_1_1.png" alt="Mystery 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-1.jpg" alt="Mystery 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25012_Mystery-22-Hint-2.jpg" alt="Mystery 22 hint 2" width="250"></a> |
 
 ### No.23 — Pooch Parlour!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-23-pooch-parlour-1000pcs-25018)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25018_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25018_1_1.png" alt="Mystery 23 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-1.jpg" alt="Mystery 23 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25018_Mystery-23-Hint-2.jpg" alt="Mystery 23 hint 2" width="250"></a> |
 
 ### No.24 — Blight at the museum!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-24-blight-at-the-museum-1000pcs-1110100014)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100014_1_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100014_1_1.png" alt="Mystery 24 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-1.jpg" alt="Mystery 24 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100014_Mystery-24-Hint-2.jpg" alt="Mystery 24 hint 2" width="250"></a> |
 
 ### No.25 — Eurosound Contest!
 
