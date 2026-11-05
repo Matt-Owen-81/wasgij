@@ -849,7 +849,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (candidate) | Hint 1 (candidate) | Hint 2 (candidate) |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100903_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_1_2.png" alt="Mystery 31 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-1.png" alt="Mystery 31 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_Mystery-31-Hint-2.png" alt="Mystery 31 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png" alt="Mystery 31 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png" alt="Mystery 31 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png" alt="Mystery 31 hint 2 candidate" width="250"></a> |
 
 ### Efteling — World of Wonders!
 
