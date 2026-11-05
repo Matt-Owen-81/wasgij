@@ -853,7 +853,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### Efteling — World of Wonders!
 
-[Official puzzle page](https://jumboplay.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
+[Official puzzle page](https://wasgij.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
 
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
