@@ -883,11 +883,19 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.05 — Time Travel
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-5-time-travel-1000-pieces-01993)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-box.png"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-box.png" alt="Destiny 05 box image candidate" width="250"></a> | Pending | Pending |
 
 ### No.06 — Child's Play
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-6-childs-play-1000-pieces-10877)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-box.png"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-box.png" alt="Destiny 06 box image candidate" width="250"></a> | Pending | Pending |
 
 ### No.07 — Rock around the Clock
 
@@ -975,7 +983,11 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.28 — Dad Cave!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-28-dad-cave-1000-pieces)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100597_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_L_0.png" alt="Destiny 28 box image candidate" width="250"></a> | Pending | Pending |
 
 ### No.29 — Pitch Perfect!
 
@@ -995,4 +1007,8 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### Special — 170 Years of Jumbo!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-170-years-of-jumbo-1000pcs-1119800223)
+
+| Box image (candidate) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1119800223_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_L_0.png" alt="Destiny Special box image candidate" width="250"></a> | Pending | Pending |
