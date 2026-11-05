@@ -605,19 +605,35 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.01 — The Wasgij Express!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-1-the-wasgij-express-2x1000-pieces-01988)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/01988_Mystery-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/01988_Mystery-1-image.jpg" alt="Mystery 01 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-1.jpg" alt="Mystery 01 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/01988_Mystery-1-Hint-2.jpg" alt="Mystery 01 hint 2" width="250"></a> |
 
 ### No.02 — Stop the Clock
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-2-stop-the-clock-1000-pieces-10878)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10878_Mystery-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10878_Mystery-2-image.jpg" alt="Mystery 02 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-1.jpg" alt="Mystery 02 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10878_Mystery-2-Hint-2.jpg" alt="Mystery 02 hint 2" width="250"></a> |
 
 ### No.03 — Drama at the Opera!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-3-drama-at-the-opera-1000-pieces-10900)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10900_Mystery-3-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10900_Mystery-3-image.jpg" alt="Mystery 03 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-1.jpg" alt="Mystery 03 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10900_Mystery-3-Hint-2.jpg" alt="Mystery 03 hint 2" width="250"></a> |
 
 ### No.04 — Live Entertainment
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-4-live-entertainment-1000-pieces-10915)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10915_Mystery-4-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10915_Mystery-4-image.jpg" alt="Mystery 04 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-1.jpg" alt="Mystery 04 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10915_Mystery-4-Hint-2.jpg" alt="Mystery 04 hint 2" width="250"></a> |
 
 ### No.05 — Sunday Lunch
 
@@ -727,7 +743,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
 
-### No.Efteling — World of Wonders!
+### Efteling — World of Wonders!
 
 [Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
 
