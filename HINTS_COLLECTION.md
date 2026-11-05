@@ -637,19 +637,35 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.05 — Sunday Lunch
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-5-sunday-lunch-1000-pieces-10917)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-box.png"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-box.png" alt="Mystery 05 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-1.jpg" alt="Mystery 05 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10917_Mystery-5-Hint-2.jpg" alt="Mystery 05 hint 2" width="250"></a> |
 
 ### No.06 — Camping Commotion
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-6-camping-commotion-1000-pieces-13498)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-box.png"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-box.png" alt="Mystery 06 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-1.jpg" alt="Mystery 06 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13498_Mystery-6-Hint-2.jpg" alt="Mystery 06 hint 2" width="250"></a> |
 
 ### No.07 — Everything Must Go!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-7-everything-must-go-1000-pieces-12287)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-box.png"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-box.png" alt="Mystery 07 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-1.jpg" alt="Mystery 07 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/12287_Mystery-7-Hint-2.jpg" alt="Mystery 07 hint 2" width="250"></a> |
 
 ### No.08 — The Final Hurdle!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-8-the-final-hurdle-1000-pieces-17230)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-box.png"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-box.png" alt="Mystery 08 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-1.jpg" alt="Mystery 08 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17230_Mystery-8-Hint-2.jpg" alt="Mystery 08 hint 2" width="250"></a> |
 
 ### No.09 — Great Train Robbery!
 
