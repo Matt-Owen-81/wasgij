@@ -737,7 +737,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19175_F_14.png"><img src="https://wasgij.com/cdn/shop/files/19175_F_14.png" alt="Mystery 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg" alt="Mystery 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg" alt="Mystery 17 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19175_1_2.png"><img src="https://wasgij.com/cdn/shop/files/19175_1_2.png" alt="Mystery 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-1.jpg" alt="Mystery 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19175_Mystery-17-Hint-2.jpg" alt="Mystery 17 hint 2" width="250"></a> |
 
 ### No.18 — Grabbing a Quick Bite!
 
@@ -745,7 +745,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19179_F_14.png"><img src="https://wasgij.com/cdn/shop/files/19179_F_14.png" alt="Mystery 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg" alt="Mystery 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.jpg" alt="Mystery 18 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19179_G_1.png"><img src="https://wasgij.com/cdn/shop/files/19179_G_1.png" alt="Mystery 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-1.jpg" alt="Mystery 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/19179_Mystery-18-Hint-2.png" alt="Mystery 18 hint 2" width="250"></a> |
 
 ### No.19 — Bingo Blunder!
 
@@ -753,7 +753,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19182_F_14.png"><img src="https://wasgij.com/cdn/shop/files/19182_F_14.png" alt="Mystery 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg" alt="Mystery 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg" alt="Mystery 19 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19182_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19182_1_1.png" alt="Mystery 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-1.jpg" alt="Mystery 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19182_Mystery-19-Hint-2.jpg" alt="Mystery 19 hint 2" width="250"></a> |
 
 ### No.20 — Mountain Mayhem!
 
@@ -761,7 +761,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25002_F_14.png"><img src="https://wasgij.com/cdn/shop/files/25002_F_14.png" alt="Mystery 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg" alt="Mystery 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg" alt="Mystery 20 hint 2" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25002_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25002_1_1.png" alt="Mystery 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-1.jpg" alt="Mystery 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25002_Mystery-20-Hint-2.jpg" alt="Mystery 20 hint 2" width="250"></a> |
 
 ### No.21 — Trouble Brewing!
 
