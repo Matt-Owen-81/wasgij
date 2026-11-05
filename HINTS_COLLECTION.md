@@ -855,6 +855,8 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
 
+> **Opening the German puzzle page:** If clicking the link redirects you to the UK Wasgij homepage, copy the link address and paste it directly into your browser's address bar. The German product page should then open.
+
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg" alt="Mystery Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg" alt="Mystery Efteling hint 2" width="250"></a> |
