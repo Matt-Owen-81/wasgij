@@ -669,19 +669,35 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ### No.09 — Great Train Robbery!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-9-great-train-robbery-1000-pieces-17302)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-box.png"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-box.png" alt="Mystery 09 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-1.jpg" alt="Mystery 09 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17302_Mystery-9-Hint-2.jpg" alt="Mystery 09 hint 2" width="250"></a> |
 
 ### No.10 — Spring has Sprung!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-10-spring-has-sprung-1000-pieces-17406)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-box.png"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-box.png" alt="Mystery 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-1.jpg" alt="Mystery 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17406_Mystery-10-Hint-2.jpg" alt="Mystery 10 hint 2" width="250"></a> |
 
 ### No.11 — Childcare!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-11-childcare-1000-pieces-19110)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-box.png"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-box.png" alt="Mystery 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-1.jpg" alt="Mystery 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19110_Mystery-11-Hint-2.jpg" alt="Mystery 11 hint 2" width="250"></a> |
 
 ### No.12 — The Unusual Suspects!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-mystery-12-1000-pieces-19127)
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-box.png"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-box.png" alt="Mystery 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-1.jpg" alt="Mystery 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19127_Mystery-12-Hint-2.jpg" alt="Mystery 12 hint 2" width="250"></a> |
 
 ### No.13 — A Purrrfect Escape!
 
