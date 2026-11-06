@@ -1011,19 +1011,19 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.19 — The Puzzlers Arms!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-19-1000pcs-19166) · Box image and hints: pending verification.
 
 ### No.20 — The Toy Shop!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-20-1000pcs-19171) · Box image and hints: pending verification.
 
 ### No.21 — Highway Hold-Up!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-21-1000pcs-19180) · Box image and hints: pending verification.
 
 ### No.22 — Trip to the Tip!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-22-trip-to-the-tip-1000pcs-25001) · Box image and hints: pending verification.
 
 ### No.23 — Theme Park Thrills!
 
