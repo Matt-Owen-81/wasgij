@@ -1113,7 +1113,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100514_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_L_0.png" alt="Destiny 30 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100514_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_1_2.png" alt="Destiny 30 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.31 — Home Delivery!
 
