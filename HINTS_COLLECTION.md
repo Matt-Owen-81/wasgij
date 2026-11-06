@@ -1077,23 +1077,43 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.27 — Café to Latte!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-27-cafe-to-latte-1000-pieces)
+
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100596_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_L_0.png" alt="Destiny 27 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.28 — Dad Cave!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-28-dad-cave-1000-pieces)
 
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100597_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_L_0.png" alt="Destiny 28 box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100597_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_L_0.png" alt="Destiny 28 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.29 — Pitch Perfect!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-29-pitch-perfect-1000-pieces)
+
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100507_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_L_0.png" alt="Destiny 29 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.30 — Harvesting Happiness!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-30-harvesting-happiness-1000-pieces)
+
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100514_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_L_0.png" alt="Destiny 30 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.31 — Home Delivery!
 
