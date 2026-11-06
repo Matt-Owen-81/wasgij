@@ -899,7 +899,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 The series is grouped by puzzle artwork. This historical image is from the archived Wasgij website; separate hint images are not available.
 
-### Special — If Labour wins the General Election!
+### No.01 — ...If Labour wins the General Election!
 
 <a href="https://web.archive.org/web/20150425012658/http://www.wasgij.co.uk/images/uploads/puzzles/Labour_Thumbnail_Collections.png"><img src="https://web.archive.org/web/20150425012658/http://www.wasgij.co.uk/images/uploads/puzzles/Labour_Thumbnail_Collections.png" alt="Imagine If Labour wins the General Election archived image" width="250"></a>
 
@@ -1172,7 +1172,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 The series will be grouped here by puzzle artwork, regardless of edition or piece count. The following box/clue images were recovered from the historical Wasgij website via the Wayback Machine. No separate hints are available for these entries.
 
 
-### No.01 — Money Grew On Trees
+### No.01 — ...money grew on trees?
 
 <a href="https://web.archive.org/web/20140601003750/http://www.wasgij.co.uk/images/uploads/artists/What_If_1_Thumbnail_Bio_Image.jpg"><img src="https://web.archive.org/web/20140601003750/http://www.wasgij.co.uk/images/uploads/artists/What_If_1_Thumbnail_Bio_Image.jpg" alt="What if 1 archived image" width="250"></a>
 
