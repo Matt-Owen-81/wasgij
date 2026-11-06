@@ -1150,5 +1150,17 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ## What if…
 
-The series will be grouped here by puzzle artwork, regardless of edition or piece count. Puzzle entries and official hint images are pending.
+The series will be grouped here by puzzle artwork, regardless of edition or piece count. The following box/clue images were recovered from the historical Wasgij website via the Wayback Machine. No separate hints are available for these entries.
 
+
+### No.01 — Money Grew On Trees
+
+<a href="https://web.archive.org/web/20140601003750/http://www.wasgij.co.uk/images/uploads/artists/What_If_1_Thumbnail_Bio_Image.jpg"><img src="https://web.archive.org/web/20140601003750/http://www.wasgij.co.uk/images/uploads/artists/What_If_1_Thumbnail_Bio_Image.jpg" alt="What if 1 archived image" width="250"></a>
+
+**Hints:** None available.
+
+### No.02 — Dinosaurs Still Existed
+
+<a href="https://web.archive.org/web/20140601074932/http://www.wasgij.co.uk/images/uploads/clues/What_If_2_No_Clue_Extra_Clues.jpg"><img src="https://web.archive.org/web/20140601074932/http://www.wasgij.co.uk/images/uploads/clues/What_If_2_No_Clue_Extra_Clues.jpg" alt="What if 2 archived image" width="250"></a>
+
+**Hints:** None available.
