@@ -979,19 +979,19 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.15 — Shopping Shake Up!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-15-shopping-shake-up-1000-pieces-19109) · Box image and hints: pending verification.
 
 ### No.16 — Old Time Rockers!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/puzzles-from-james-alexander/products/wasgij-destiny-16-old-time-rockers-1000-pieces-19125) · Box image and hints: pending verification.
 
 ### No.17 — Paying the Price!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-17-int-1000pcs-19141) · Box image and hints: pending verification.
 
 ### No.18 — Fast Food Frenzy!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-18-fast-food-frenzy-1000pcs-19157) · Box image and hints: pending verification.
 
 ### No.19 — The Puzzlers Arms!
 
