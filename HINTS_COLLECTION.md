@@ -423,7 +423,19 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ## Back to…
 
-The series will be grouped here by puzzle artwork, regardless of edition or piece count. Puzzle entries and official hint images are pending.
+The series will be grouped here by puzzle artwork, regardless of edition or piece count. Historical promotional images from archived Wasgij pages are shown below. Separate hint images are not available.
+
+### No.01 — Basics!
+
+<a href="https://web.archive.org/web/20150826220212/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Back_To_1_Home_Page_Banner.png"><img src="https://web.archive.org/web/20150826220212/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Back_To_1_Home_Page_Banner.png" alt="Back to No.01 Basics! archived promotional image" width="250"></a>
+
+**Hints:** None available.
+
+### No.02 — A 14th Century Castle!
+
+<a href="https://web.archive.org/web/20170402173837/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Back_to_-2_-_Home_Page_Promo.png"><img src="https://web.archive.org/web/20170402173837/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Back_to_-2_-_Home_Page_Promo.png" alt="Back to No.02 A 14th Century Castle! archived promotional image" width="250"></a>
+
+**Hints:** None available.
 
 ## Christmas
 
