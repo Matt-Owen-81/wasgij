@@ -1,10 +1,12 @@
 # Wasgij hints collection
 
-Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. **All Original puzzles, Nos.01–49, have been visually validated.** Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork. This page is a reference for puzzle hints, independent of collection ownership; ownership and edition details are maintained in `inventory.csv` and `catalogue.csv`.
+Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork. This page is a reference for puzzle hints, independent of collection ownership; ownership and edition details are maintained in `inventory.csv` and `catalogue.csv`.
 
 ## Jump to a series
 
-[Original](#original) · [Christmas](#christmas) · [Destiny](#destiny) · [Mystery](#mystery) · [Back to…](#back-to) · [What if…](#what-if) · [Imagine…](#imagine) · [15th Anniversary](#15th-anniversary) · [Junior](#junior) · [Pieces of Evidence](#pieces-of-evidence)
+[Original](#original) · [Christmas](#christmas) · [Destiny](#destiny) · [Mystery](#mystery) · [Back to…](#back-to) · [What if…](#what-if) · [Imagine…](#imagine)
+
+**Not included:** Junior, Pieces of Evidence and Christmas Advent Calendar puzzles. Christmas Advent Calendar exclusions are also explained in the [Christmas section](#christmas).
 
 ## Original
 
@@ -1109,6 +1111,10 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
 
+### Special — A Royal Knees-up! Queen's Jubilee Celebration
+
+Official puzzle page and hint images: pending verification. (Listed as 15th Anniversary in the ownership catalogue; grouped with Destiny specials here for hint browsing.)
+
 ### Special — 170 Years of Jumbo!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-170-years-of-jumbo-1000pcs-1119800223)
@@ -1116,3 +1122,15 @@ Official puzzle-page and image links will be added in review batches. Entries be
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1119800223_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_L_0.png" alt="Destiny Special box image candidate" width="250"></a> | Pending | Pending |
+
+## Back to…
+
+Placeholder — puzzle entries and official hint images have not yet been added.
+
+## What if…
+
+Placeholder — puzzle entries and official hint images have not yet been added.
+
+## Imagine…
+
+Placeholder — puzzle entries and official hint images have not yet been added.
