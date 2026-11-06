@@ -915,19 +915,19 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.07 — Rock around the Clock
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-7-rock-around-the-clock-1000-pieces-10899) · Box image and hints: pending verification.
 
 ### No.08 — High Season
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/collections/puzzles-from-graham-thompson/products/wasgij-destiny-8-high-season-1000-pieces-10913) · Box image and hints: pending verification.
 
 ### No.09 — Super Models
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-9-super-models-1000-pieces-10918) · Box image and hints: pending verification.
 
 ### No.10 — High Street Hassle
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-10-high-street-hassle-1000-pieces-13499) · Box image and hints: pending verification.
 
 ### No.11 — The Office!
 
