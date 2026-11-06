@@ -1079,7 +1079,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100022_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100022_1_2_WEB.png" alt="Destiny 26 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg" alt="Destiny 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg" alt="Destiny 26 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100022_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100022_1_2_WEB.png" alt="Destiny 26 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.png" alt="Destiny 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.png" alt="Destiny 26 hint 2 candidate" width="250"></a> |
 
 ### No.27 — Café to Latte!
 
