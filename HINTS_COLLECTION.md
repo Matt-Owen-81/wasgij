@@ -403,7 +403,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | <a href="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_1_2_1.png" alt="Original 49 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_4Hints_960x684_7fa14621-9adb-46ee-ac57-7333e0352f65.png" alt="Original 49 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png"><img src="https://wasgij.com/cdn/shop/files/1110100902_5Hints_960x684_2952f9be-4907-4f23-afdc-e4a739c6a8a4.png" alt="Original 49 hint 2" width="250"></a> |
 
 
-### Disney — Mickey's Party!
+### Special — Mickey's Party!
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-disney-mickeys-party-1000-pieces)
 
@@ -411,7 +411,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100586_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_1_2.png" alt="Disney box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-1.png" alt="Disney hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100586_Original-Disney-Hint-2.png" alt="Disney hint 2" width="250"></a> |
 
-### Efteling — World of Sindbad!
+### Special — World of Sindbad!
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-efteling-world-of-sindbad-1000-pieces)
 
@@ -831,7 +831,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-mystery-29-donation-debacle-1000-pieces)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100513_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_1_2.png" alt="Mystery 29 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_4Hints_960x684_746e6774-d1b4-4051-8831-5b8a13ab79c8.png" alt="Mystery 29 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png"><img src="https://wasgij.com/cdn/shop/files/1110100513_5Hints_960x684_591d2660-318b-490d-bffa-400c4d06d14c.png" alt="Mystery 29 hint 2" width="250"></a> |
 
@@ -839,7 +839,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-30-bullseye-1000-pieces)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100804_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_1_2.png" alt="Mystery 30 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_4Hints_960x684_1dbf1b8e-7718-4d91-87bf-a428c2e8729f.png" alt="Mystery 30 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png"><img src="https://wasgij.com/cdn/shop/files/1110100804_5Hints_960x684_81a08c47-ab6c-4872-b53e-09eb1dcd428f.png" alt="Mystery 30 hint 2" width="250"></a> |
 
@@ -847,17 +847,17 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 [Official puzzle page](https://wasgij.com/products/wasgij-mystery-31-gender-reveal-1000-pieces)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_1_2_1.png" alt="Mystery 31 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_4Hints_960x684_86b7e96f-08df-4769-a1f7-f797e178dbf6.png" alt="Mystery 31 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png"><img src="https://wasgij.com/cdn/shop/files/1110100903_5Hints_960x684_3160750b-c1e1-42f0-8fd8-92cfdb519d0d.png" alt="Mystery 31 hint 2" width="250"></a> |
 
-### Efteling — World of Wonders!
+### Special — World of Wonders!
 
 [Official puzzle page](https://wasgij.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
 
 > **Opening the German puzzle page:** If clicking the link redirects you to the UK Wasgij homepage, copy the link address and paste it directly into your browser's address bar. The German product page should then open.
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg" alt="Mystery Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg" alt="Mystery Efteling hint 2" width="250"></a> |
 
@@ -869,7 +869,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-1-the-best-days-of-our-lives-2x1000-pieces-10141)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-image.jpg" alt="Destiny 01 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-1.jpg" alt="Destiny 01 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-2.jpg" alt="Destiny 01 hint 2" width="250"></a> |
 
@@ -877,7 +877,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-2-the-proposal-1000-pieces-19155)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-image.jpg" alt="Destiny 02 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-1.jpg" alt="Destiny 02 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-2.jpg" alt="Destiny 02 hint 2" width="250"></a> |
 
@@ -885,7 +885,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-3-sands-of-time-1000-pieces-10486)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-image.jpg" alt="Destiny 03 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-1.jpg" alt="Destiny 03 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-2.jpg" alt="Destiny 03 hint 2" width="250"></a> |
 
@@ -893,7 +893,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-4-1000pcs-19178)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19178_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19178_1_1.png" alt="Destiny 04 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-1.jpg" alt="Destiny 04 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-2.jpg" alt="Destiny 04 hint 2" width="250"></a> |
 
@@ -901,7 +901,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-5-time-travel-1000-pieces-01993)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-image.jpg"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-image.jpg" alt="Destiny 05 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-1.jpg" alt="Destiny 05 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-2.jpg" alt="Destiny 05 hint 2" width="250"></a> |
 
@@ -909,7 +909,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-6-childs-play-1000-pieces-10877)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-image.jpg" alt="Destiny 06 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-1.jpg" alt="Destiny 06 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-2.jpg" alt="Destiny 06 hint 2" width="250"></a> |
 
@@ -917,7 +917,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-7-rock-around-the-clock-1000-pieces-10899)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-image.jpg" alt="Destiny 07 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-1.jpg" alt="Destiny 07 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-2.jpg" alt="Destiny 07 hint 2" width="250"></a> |
 
@@ -925,7 +925,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/collections/puzzles-from-graham-thompson/products/wasgij-destiny-8-high-season-1000-pieces-10913)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-image.jpg" alt="Destiny 08 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-1.jpg" alt="Destiny 08 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-2.jpg" alt="Destiny 08 hint 2" width="250"></a> |
 
@@ -933,7 +933,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-9-super-models-1000-pieces-10918)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-image.jpg" alt="Destiny 09 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-1.jpg" alt="Destiny 09 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-2.jpg" alt="Destiny 09 hint 2" width="250"></a> |
 
@@ -941,7 +941,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-10-high-street-hassle-1000-pieces-13499)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-image.jpg" alt="Destiny 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-1.jpg" alt="Destiny 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-2.jpg" alt="Destiny 10 hint 2" width="250"></a> |
 
@@ -949,7 +949,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-11-the-office-1000-pieces-13203)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-image.jpg" alt="Destiny 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-1.jpg" alt="Destiny 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-2.jpg" alt="Destiny 11 hint 2" width="250"></a> |
 
@@ -957,7 +957,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-12-market-mayhem-1000-pieces-17229)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-image.jpg" alt="Destiny 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-1.jpg" alt="Destiny 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-2.jpg" alt="Destiny 12 hint 2" width="250"></a> |
 
@@ -965,7 +965,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-13-commuting-chaos-1000-pieces-17303)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-image.jpg" alt="Destiny 13 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-1.jpg" alt="Destiny 13 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-2.jpg" alt="Destiny 13 hint 2" width="250"></a> |
 
@@ -973,7 +973,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-14-how-times-have-changed-1000-pieces-17407)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-image.jpg" alt="Destiny 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-1.jpg" alt="Destiny 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-2.jpg" alt="Destiny 14 hint 2" width="250"></a> |
 
@@ -981,7 +981,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-15-shopping-shake-up-1000-pieces-19109)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-image.jpg" alt="Destiny 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-1.jpg" alt="Destiny 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-2.jpg" alt="Destiny 15 hint 2" width="250"></a> |
 
@@ -989,7 +989,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/collections/puzzles-from-james-alexander/products/wasgij-destiny-16-old-time-rockers-1000-pieces-19125)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-image.jpg" alt="Destiny 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-1.jpg" alt="Destiny 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-2.jpg" alt="Destiny 16 hint 2" width="250"></a> |
 
@@ -997,7 +997,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-17-int-1000pcs-19141)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg" alt="Destiny 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg" alt="Destiny 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg" alt="Destiny 17 hint 2" width="250"></a> |
 
@@ -1005,7 +1005,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-18-fast-food-frenzy-1000pcs-19157)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg" alt="Destiny 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg" alt="Destiny 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg" alt="Destiny 18 hint 2" width="250"></a> |
 
@@ -1013,7 +1013,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-19-1000pcs-19166)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19166_1_1_PNG.png"><img src="https://wasgij.com/cdn/shop/files/19166_1_1_PNG.png" alt="Destiny 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-1.jpg" alt="Destiny 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-2.jpg" alt="Destiny 19 hint 2" width="250"></a> |
 
@@ -1021,7 +1021,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-20-1000pcs-19171)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19171_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19171_1_1.png" alt="Destiny 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-1.jpg" alt="Destiny 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-2.jpg" alt="Destiny 20 hint 2" width="250"></a> |
 
@@ -1029,7 +1029,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-21-1000pcs-19180)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/19180_G_1.png"><img src="https://wasgij.com/cdn/shop/files/19180_G_1.png" alt="Destiny 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-1.jpg" alt="Destiny 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-2.jpg" alt="Destiny 21 hint 2" width="250"></a> |
 
@@ -1037,25 +1037,49 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-22-trip-to-the-tip-1000pcs-25001)
 
-| Box image | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/25001_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25001_1_1.png" alt="Destiny 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-1.jpg" alt="Destiny 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-2.jpg" alt="Destiny 22 hint 2" width="250"></a> |
 
 ### No.23 — Theme Park Thrills!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-23-theme-park-thrills-1000pcs-25005) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-23-theme-park-thrills-1000pcs-25005)
+
+> **Candidate image URLs — awaiting visual validation.**
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-image.jpg" alt="Destiny 23 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-1.jpg" alt="Destiny 23 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-2.jpg" alt="Destiny 23 hint 2 candidate" width="250"></a> |
 
 ### No.24 — Business as Usual!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-24-business-as-usual-1000pcs-25013) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-24-business-as-usual-1000pcs-25013)
+
+> **Candidate image URLs — awaiting visual validation.**
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-image.jpg" alt="Destiny 24 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-1.jpg" alt="Destiny 24 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-2.jpg" alt="Destiny 24 hint 2 candidate" width="250"></a> |
 
 ### No.25 — Games Night!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-25-games-night-1000pcs-1110100015) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-25-games-night-1000pcs-1110100015)
+
+> **Candidate image URLs — awaiting visual validation.**
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-image.jpg" alt="Destiny 25 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-1.jpg" alt="Destiny 25 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-2.jpg" alt="Destiny 25 hint 2 candidate" width="250"></a> |
 
 ### No.26 — Organic Overload!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-26-organic-overload-1000pcs-1110100022) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-26-organic-overload-1000pcs-1110100022)
+
+> **Candidate image URLs — awaiting visual validation.**
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-image.jpg" alt="Destiny 26 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg" alt="Destiny 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg" alt="Destiny 26 hint 2 candidate" width="250"></a> |
 
 ### No.27 — Café to Latte!
 
@@ -1065,7 +1089,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-28-dad-cave-1000-pieces)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100597_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_L_0.png" alt="Destiny 28 box image candidate" width="250"></a> | Pending | Pending |
 
@@ -1089,6 +1113,6 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-170-years-of-jumbo-1000pcs-1119800223)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1119800223_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_L_0.png" alt="Destiny Special box image candidate" width="250"></a> | Pending | Pending |
