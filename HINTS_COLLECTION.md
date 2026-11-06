@@ -1013,41 +1013,33 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-19-1000pcs-19166)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19166_1_1_PNG.png"><img src="https://wasgij.com/cdn/shop/files/19166_1_1_PNG.png" alt="Destiny 19 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-1.jpg" alt="Destiny 19 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-2.jpg" alt="Destiny 19 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19166_1_1_PNG.png"><img src="https://wasgij.com/cdn/shop/files/19166_1_1_PNG.png" alt="Destiny 19 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-1.jpg" alt="Destiny 19 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19166_Destiny-19-Hint-2.jpg" alt="Destiny 19 hint 2" width="250"></a> |
 
 ### No.20 — The Toy Shop!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-20-1000pcs-19171)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19171_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19171_1_1.png" alt="Destiny 20 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-1.jpg" alt="Destiny 20 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-2.jpg" alt="Destiny 20 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19171_1_1.png"><img src="https://wasgij.com/cdn/shop/files/19171_1_1.png" alt="Destiny 20 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-1.jpg" alt="Destiny 20 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19171_Destiny-20-Hint-2.jpg" alt="Destiny 20 hint 2" width="250"></a> |
 
 ### No.21 — Highway Hold-Up!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-21-1000pcs-19180)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19180_G_1.png"><img src="https://wasgij.com/cdn/shop/files/19180_G_1.png" alt="Destiny 21 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-1.jpg" alt="Destiny 21 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-2.jpg" alt="Destiny 21 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19180_G_1.png"><img src="https://wasgij.com/cdn/shop/files/19180_G_1.png" alt="Destiny 21 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-1.jpg" alt="Destiny 21 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19180_Destiny-21-Hint-2.jpg" alt="Destiny 21 hint 2" width="250"></a> |
 
 ### No.22 — Trip to the Tip!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-22-trip-to-the-tip-1000pcs-25001)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25001_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25001_1_1.png" alt="Destiny 22 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-1.jpg" alt="Destiny 22 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-2.jpg" alt="Destiny 22 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25001_1_1.png"><img src="https://wasgij.com/cdn/shop/files/25001_1_1.png" alt="Destiny 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-1.jpg" alt="Destiny 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25001_Destiny-22-Hint-2.jpg" alt="Destiny 22 hint 2" width="250"></a> |
 
 ### No.23 — Theme Park Thrills!
 
