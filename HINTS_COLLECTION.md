@@ -1049,7 +1049,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-image.jpg" alt="Destiny 23 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-1.jpg" alt="Destiny 23 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-2.jpg" alt="Destiny 23 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25005_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25005_1_2_PNG.png" alt="Destiny 23 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-1.jpg" alt="Destiny 23 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25005_Destiny-23-Hint-2.jpg" alt="Destiny 23 hint 2 candidate" width="250"></a> |
 
 ### No.24 — Business as Usual!
 
@@ -1059,7 +1059,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-image.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-image.jpg" alt="Destiny 24 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-1.jpg" alt="Destiny 24 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-2.jpg" alt="Destiny 24 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/25013_1_2_PNG.png"><img src="https://wasgij.com/cdn/shop/files/25013_1_2_PNG.png" alt="Destiny 24 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-1.jpg" alt="Destiny 24 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/25013_Destiny-24-Hint-2.jpg" alt="Destiny 24 hint 2 candidate" width="250"></a> |
 
 ### No.25 — Games Night!
 
@@ -1069,7 +1069,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-image.jpg" alt="Destiny 25 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-1.jpg" alt="Destiny 25 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-2.jpg" alt="Destiny 25 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100015_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100015_1_2_WEB.png" alt="Destiny 25 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-1.jpg" alt="Destiny 25 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100015_Destiny-25-Hint-2.jpg" alt="Destiny 25 hint 2 candidate" width="250"></a> |
 
 ### No.26 — Organic Overload!
 
@@ -1079,7 +1079,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-image.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-image.jpg" alt="Destiny 26 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg" alt="Destiny 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg" alt="Destiny 26 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100022_1_2_WEB.png"><img src="https://wasgij.com/cdn/shop/files/1110100022_1_2_WEB.png" alt="Destiny 26 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-1.jpg" alt="Destiny 26 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100022_Destiny-26-Hint-2.jpg" alt="Destiny 26 hint 2 candidate" width="250"></a> |
 
 ### No.27 — Café to Latte!
 
