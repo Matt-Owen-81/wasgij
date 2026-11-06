@@ -1043,19 +1043,19 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 ### No.23 — Theme Park Thrills!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-23-theme-park-thrills-1000pcs-25005) · Box image and hints: pending verification.
 
 ### No.24 — Business as Usual!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-24-business-as-usual-1000pcs-25013) · Box image and hints: pending verification.
 
 ### No.25 — Games Night!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-25-games-night-1000pcs-1110100015) · Box image and hints: pending verification.
 
 ### No.26 — Organic Overload!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-26-organic-overload-1000pcs-1110100022) · Box image and hints: pending verification.
 
 ### No.27 — Café to Latte!
 
