@@ -869,49 +869,49 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-1-the-best-days-of-our-lives-2x1000-pieces-10141)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-box.png"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-box.png" alt="Destiny 01 box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-box.png"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-box.png" alt="Destiny 01 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-1.jpg" alt="Destiny 01 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10141_Destiny-1-Hint-2.jpg" alt="Destiny 01 hint 2" width="250"></a> |
 
 ### No.02 — The Proposal
 
 [Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-2-the-proposal-1000-pieces-19155)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-box.png"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-box.png" alt="Destiny 02 box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-box.png"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-box.png" alt="Destiny 02 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-1.jpg" alt="Destiny 02 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19155_Retro-Destiny-2-Hint-2.jpg" alt="Destiny 02 hint 2" width="250"></a> |
 
 ### No.03 — Sands of Time!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-3-sands-of-time-1000-pieces-10486)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-box.png"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-box.png" alt="Destiny 03 box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-box.png"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-box.png" alt="Destiny 03 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-1.jpg" alt="Destiny 03 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10486_Destiny-3-Hint-2.jpg" alt="Destiny 03 hint 2" width="250"></a> |
 
 ### No.04 — The Wasgij Games!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-4-1000pcs-19178)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19178_L_0.png"><img src="https://wasgij.com/cdn/shop/files/19178_L_0.png" alt="Destiny 04 box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/19178_L_0.png"><img src="https://wasgij.com/cdn/shop/files/19178_L_0.png" alt="Destiny 04 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-1.jpg" alt="Destiny 04 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19178_Retro-Destiny-4-Hint-2.jpg" alt="Destiny 04 hint 2" width="250"></a> |
 
 ### No.05 — Time Travel
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-5-time-travel-1000-pieces-01993)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-box.png"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-box.png" alt="Destiny 05 box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-box.png"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-box.png" alt="Destiny 05 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-1.jpg" alt="Destiny 05 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/01993_Destiny-5-Hint-2.jpg" alt="Destiny 05 hint 2" width="250"></a> |
 
 ### No.06 — Child's Play
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-6-childs-play-1000-pieces-10877)
 
-| Box image (candidate) | Hint 1 | Hint 2 |
+| Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-box.png"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-box.png" alt="Destiny 06 box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-box.png"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-box.png" alt="Destiny 06 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-1.jpg" alt="Destiny 06 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10877_Destiny-6-Hint-2.jpg" alt="Destiny 06 hint 2" width="250"></a> |
 
 ### No.07 — Rock around the Clock
 
