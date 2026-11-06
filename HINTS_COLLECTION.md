@@ -949,41 +949,33 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-11-the-office-1000-pieces-13203)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-image.jpg" alt="Destiny 11 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-1.jpg" alt="Destiny 11 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-2.jpg" alt="Destiny 11 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-image.jpg" alt="Destiny 11 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-1.jpg" alt="Destiny 11 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13203_Destiny-11-Hint-2.jpg" alt="Destiny 11 hint 2" width="250"></a> |
 
 ### No.12 — Market Mayhem!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-12-market-mayhem-1000-pieces-17229)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-image.jpg" alt="Destiny 12 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-1.jpg" alt="Destiny 12 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-2.jpg" alt="Destiny 12 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-image.jpg" alt="Destiny 12 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-1.jpg" alt="Destiny 12 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17229_Destiny-12-Hint-2.jpg" alt="Destiny 12 hint 2" width="250"></a> |
 
 ### No.13 — Commuting Chaos!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-13-commuting-chaos-1000-pieces-17303)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-image.jpg" alt="Destiny 13 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-1.jpg" alt="Destiny 13 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-2.jpg" alt="Destiny 13 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-image.jpg" alt="Destiny 13 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-1.jpg" alt="Destiny 13 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17303_Destiny-13-Hint-2.jpg" alt="Destiny 13 hint 2" width="250"></a> |
 
 ### No.14 — How times have changed!
 
 [Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-14-how-times-have-changed-1000-pieces-17407)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-image.jpg" alt="Destiny 14 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-1.jpg" alt="Destiny 14 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-2.jpg" alt="Destiny 14 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-image.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-image.jpg" alt="Destiny 14 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-1.jpg" alt="Destiny 14 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/17407_Destiny-14-Hint-2.jpg" alt="Destiny 14 hint 2" width="250"></a> |
 
 ### No.15 — Shopping Shake Up!
 
