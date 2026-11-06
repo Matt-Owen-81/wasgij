@@ -917,41 +917,33 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-7-rock-around-the-clock-1000-pieces-10899)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-image.jpg" alt="Destiny 07 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-1.jpg" alt="Destiny 07 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-2.jpg" alt="Destiny 07 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-image.jpg" alt="Destiny 07 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-1.jpg" alt="Destiny 07 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10899_Destiny-7-Hint-2.jpg" alt="Destiny 07 hint 2" width="250"></a> |
 
 ### No.08 — High Season
 
 [Official puzzle page](https://wasgij.com/collections/puzzles-from-graham-thompson/products/wasgij-destiny-8-high-season-1000-pieces-10913)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-image.jpg" alt="Destiny 08 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-1.jpg" alt="Destiny 08 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-2.jpg" alt="Destiny 08 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-image.jpg" alt="Destiny 08 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-1.jpg" alt="Destiny 08 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10913_Destiny-8-Hint-2.jpg" alt="Destiny 08 hint 2" width="250"></a> |
 
 ### No.09 — Super Models
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-9-super-models-1000-pieces-10918)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-image.jpg" alt="Destiny 09 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-1.jpg" alt="Destiny 09 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-2.jpg" alt="Destiny 09 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-image.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-image.jpg" alt="Destiny 09 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-1.jpg" alt="Destiny 09 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/10918_Destiny-9-Hint-2.jpg" alt="Destiny 09 hint 2" width="250"></a> |
 
 ### No.10 — High Street Hassle
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-10-high-street-hassle-1000-pieces-13499)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-image.jpg" alt="Destiny 10 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-1.jpg" alt="Destiny 10 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-2.jpg" alt="Destiny 10 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-image.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-image.jpg" alt="Destiny 10 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-1.jpg" alt="Destiny 10 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/13499_Destiny-10-Hint-2.jpg" alt="Destiny 10 hint 2" width="250"></a> |
 
 ### No.11 — The Office!
 
