@@ -6,7 +6,7 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 [Original](#original) · [Christmas](#christmas) · [Destiny](#destiny) · [Mystery](#mystery) · [Back to…](#back-to) · [What if…](#what-if) · [Imagine…](#imagine)
 
-**Not included:** Junior, Pieces of Evidence and Christmas Advent Calendar puzzles. Christmas Advent Calendar exclusions are also explained in the [Christmas section](#christmas).
+**Not included:** Junior, Pieces of Evidence and Christmas Advent Calendar puzzles.
 
 ## Original
 
@@ -423,7 +423,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ## Christmas
 
-Christmas puzzles are grouped by artwork, regardless of edition or piece count. **Christmas Advent Calendar versions are excluded from this hints collection.** Box images and hints are linked from the official Wasgij website. Links not yet confirmed by the user remain provisional.
+The Christmas series is grouped here by puzzle artwork, regardless of edition or piece count. Christmas Advent Calendar editions are excluded.
 
 ### No.01 — Special Delivery
 
@@ -603,7 +603,7 @@ Christmas puzzles are grouped by artwork, regardless of edition or piece count. 
 
 ## Mystery
 
-The Mystery series is listed by puzzle artwork, regardless of edition or piece count. Box and hint images will be added and visually validated in batches.
+The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regardless of edition or piece count.
 
 ### No.01 — The Wasgij Express!
 
@@ -865,7 +865,7 @@ The Mystery series is listed by puzzle artwork, regardless of edition or piece c
 
 ## Destiny
 
-Official puzzle-page and image links will be added in review batches. Entries below are placeholders, not validated images.
+The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regardless of edition or piece count.
 
 ### No.01 — The Best Days of our Lives!
 
@@ -1125,12 +1125,12 @@ Official puzzle page and hint images: pending verification. (Listed as 15th Anni
 
 ## Back to…
 
-Placeholder — puzzle entries and official hint images have not yet been added.
+The series will be grouped here by puzzle artwork, regardless of edition or piece count. Puzzle entries and official hint images are pending.
 
 ## What if…
 
-Placeholder — puzzle entries and official hint images have not yet been added.
+The series will be grouped here by puzzle artwork, regardless of edition or piece count. Puzzle entries and official hint images are pending.
 
 ## Imagine…
 
-Placeholder — puzzle entries and official hint images have not yet been added.
+The series will be grouped here by puzzle artwork, regardless of edition or piece count. Puzzle entries and official hint images are pending.
