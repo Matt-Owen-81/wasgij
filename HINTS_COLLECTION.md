@@ -14,7 +14,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.01 — Sunday Drivers!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-1-sunday-drivers-1000-pieces-19146)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-1-sunday-drivers-1000-pieces-19146)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.02 — Happy Holidays!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-2-happy-holidays-1000-pieces-19153)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-2-happy-holidays-1000-pieces-19153)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.03 — Full Monty Fever!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-3-full-monty-fever-1000-pcs-19167)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-3-full-monty-fever-1000-pcs-19167)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.04 — A Day to Remember!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-4-1000pcs-19176)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-4-1000pcs-19176)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.05 — Late Booking!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-5-1000-pieces-25007)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-5-1000-pieces-25007)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.06 — Blooming Marvellous!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-6-blooming-marvellous-1000pcs-25014)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-6-blooming-marvellous-1000pcs-25014)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -62,7 +62,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.07 — Bear Necessities!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-7-bear-necessities-1000pcs-1110100016)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-7-bear-necessities-1000pcs-1110100016)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.08 — High Tide!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-original-8-high-tide-1000-pcs-1110100328)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-original-8-high-tide-1000-pcs-1110100328)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -78,7 +78,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.09 — Home Improvements!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-9-home-improvements-1000-pieces-10485)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-9-home-improvements-1000-pieces-10485)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### No.10 — Antique Hunt!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-10-antique-hunt-1000-pieces-10676)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-10-antique-hunt-1000-pieces-10676)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -407,7 +407,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### Special — Mickey's Party!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-disney-mickeys-party-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-disney-mickeys-party-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -415,7 +415,7 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 
 ### Special — World of Sindbad!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-original-efteling-world-of-sindbad-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-original-efteling-world-of-sindbad-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -431,7 +431,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.01 — Special Delivery
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-1-special-delivery-500-pieces-10973)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-1-special-delivery-500-pieces-10973)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -439,7 +439,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.02 — True Love, Cinderella!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-2-true-love-cinderella-500-pieces-13132)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-2-true-love-cinderella-500-pieces-13132)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -447,7 +447,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.03 — Short Circuit
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-3-short-circuit-500-pieces-13458)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-3-short-circuit-500-pieces-13458)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -455,7 +455,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.04 — White Christmas
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-4-white-christmas-500-pieces-17256)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-4-white-christmas-500-pieces-17256)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -463,7 +463,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.05 — That Warm Christmas Feeling
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-5-that-warm-christmas-feeling-1000-pieces-13520)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-5-that-warm-christmas-feeling-1000-pieces-13520)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -471,7 +471,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.06 — A Very Merry Christmas
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-6-a-very-merry-christmas-1000-pieces-13639)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-6-a-very-merry-christmas-1000-pieces-13639)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -479,7 +479,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.07 — A Christmas Stuffing!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-7-a-christmas-stuffing-1000-pieces-13225)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-7-a-christmas-stuffing-1000-pieces-13225)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -487,7 +487,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.08 — Christmas Getaway!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-8-christmas-getaway-1000-pieces-17227)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-8-christmas-getaway-1000-pieces-17227)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -495,7 +495,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.09 — A Bright Christmas Night!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-9-a-bright-christmas-night-1000-pieces-17308)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-9-a-bright-christmas-night-1000-pieces-17308)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -503,7 +503,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.10 — The Mystery Shopper!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-10-the-mystery-shopper-2x1000-pieces-17410)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-10-the-mystery-shopper-2x1000-pieces-17410)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -511,7 +511,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.11 — Double Trouble!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-11-double-trouble-1000-pieces-19112)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-11-double-trouble-1000-pieces-19112)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -519,7 +519,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.12 — The Big Turn On!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-12-the-big-turn-on-2x1000-pieces-19131)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-12-the-big-turn-on-2x1000-pieces-19131)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -527,7 +527,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.13 — Turkey's Delight!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-13-turkeys-delight-2x1000-pieces-19149)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-christmas-13-turkeys-delight-2x1000-pieces-19149)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -535,7 +535,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.14 — Santa's Little Helpers!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-14-santas-little-helpers-2x1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-christmas-14-santas-little-helpers-2x1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -543,7 +543,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.15 — Santa's Unexpected Delivery
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-15-2x1000-pieces-19172)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-christmas-15-2x1000-pieces-19172)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -551,7 +551,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.16 — The Christmas Show!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-christmas-16-2x1000pcs-19183)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-christmas-16-2x1000pcs-19183)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -559,7 +559,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.17 — Elf Inspection!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-17-2x1000-pieces-1-puzzle-for-free-25003)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-17-2x1000-pieces-1-puzzle-for-free-25003)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -567,7 +567,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.18 — Gingerbread Showstopper
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-18-2x1000pcs-1x1000pcs-for-free-25017)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-18-2x1000pcs-1x1000pcs-for-free-25017)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -575,7 +575,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.19 — Santa Dash!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-19-santa-dash-2x1000pcs-1-puzzle-for-free-1110100021)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-19-santa-dash-2x1000pcs-1-puzzle-for-free-1110100021)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -583,7 +583,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.20 — Spirits of Christmas!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-20-christmas-spirits-2x1000-pieces-1110100334)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-20-christmas-spirits-2x1000-pieces-1110100334)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -591,7 +591,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.21 — A Very Merry Makeover!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-21-a-very-merry-makeover-2x1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-21-a-very-merry-makeover-2x1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -599,7 +599,7 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 
 ### No.22 — Not so Silent Night!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-christmas-22-not-so-silent-night-2x1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-christmas-22-not-so-silent-night-2x1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -611,7 +611,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.01 — The Best Days of our Lives!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-1-the-best-days-of-our-lives-2x1000-pieces-10141)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-1-the-best-days-of-our-lives-2x1000-pieces-10141)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -619,7 +619,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.02 — The Proposal
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-2-the-proposal-1000-pieces-19155)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-destiny-2-the-proposal-1000-pieces-19155)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -627,7 +627,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.03 — Sands of Time!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-3-sands-of-time-1000-pieces-10486)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-3-sands-of-time-1000-pieces-10486)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -635,7 +635,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.04 — The Wasgij Games!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-retro-destiny-4-1000pcs-19178)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-retro-destiny-4-1000pcs-19178)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -643,7 +643,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.05 — Time Travel
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-5-time-travel-1000-pieces-01993)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-5-time-travel-1000-pieces-01993)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -651,7 +651,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.06 — Child's Play
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-6-childs-play-1000-pieces-10877)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-6-childs-play-1000-pieces-10877)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -659,7 +659,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.07 — Rock around the Clock
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-7-rock-around-the-clock-1000-pieces-10899)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-7-rock-around-the-clock-1000-pieces-10899)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -667,7 +667,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.08 — High Season
 
-[Official puzzle page](https://wasgij.com/collections/puzzles-from-graham-thompson/products/wasgij-destiny-8-high-season-1000-pieces-10913)
+[Official puzzle page and hints](https://wasgij.com/collections/puzzles-from-graham-thompson/products/wasgij-destiny-8-high-season-1000-pieces-10913)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -675,7 +675,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.09 — Super Models
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-9-super-models-1000-pieces-10918)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-9-super-models-1000-pieces-10918)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -683,7 +683,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.10 — High Street Hassle
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-10-high-street-hassle-1000-pieces-13499)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-10-high-street-hassle-1000-pieces-13499)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -691,7 +691,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.11 — The Office!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-11-the-office-1000-pieces-13203)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-destiny-11-the-office-1000-pieces-13203)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -699,7 +699,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.12 — Market Mayhem!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-12-market-mayhem-1000-pieces-17229)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-12-market-mayhem-1000-pieces-17229)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -707,7 +707,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.13 — Commuting Chaos!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-13-commuting-chaos-1000-pieces-17303)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-13-commuting-chaos-1000-pieces-17303)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -715,7 +715,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.14 — How times have changed!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-14-how-times-have-changed-1000-pieces-17407)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-destiny-14-how-times-have-changed-1000-pieces-17407)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -723,7 +723,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.15 — Shopping Shake Up!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-15-shopping-shake-up-1000-pieces-19109)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-15-shopping-shake-up-1000-pieces-19109)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -731,7 +731,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.16 — Old Time Rockers!
 
-[Official puzzle page](https://wasgij.com/collections/puzzles-from-james-alexander/products/wasgij-destiny-16-old-time-rockers-1000-pieces-19125)
+[Official puzzle page and hints](https://wasgij.com/collections/puzzles-from-james-alexander/products/wasgij-destiny-16-old-time-rockers-1000-pieces-19125)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -739,7 +739,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.17 — Paying the Price!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-17-int-1000pcs-19141)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-17-int-1000pcs-19141)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -747,7 +747,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.18 — Fast Food Frenzy!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-18-fast-food-frenzy-1000pcs-19157)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-18-fast-food-frenzy-1000pcs-19157)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -755,7 +755,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.19 — The Puzzlers Arms!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-destiny-19-1000pcs-19166)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-destiny-19-1000pcs-19166)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -763,7 +763,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.20 — The Toy Shop!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-20-1000pcs-19171)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-20-1000pcs-19171)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -771,7 +771,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.21 — Highway Hold-Up!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-21-1000pcs-19180)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-21-1000pcs-19180)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -779,7 +779,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.22 — Trip to the Tip!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-22-trip-to-the-tip-1000pcs-25001)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-22-trip-to-the-tip-1000pcs-25001)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -787,7 +787,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.23 — Theme Park Thrills!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-23-theme-park-thrills-1000pcs-25005)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-23-theme-park-thrills-1000pcs-25005)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -795,7 +795,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.24 — Business as Usual!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-24-business-as-usual-1000pcs-25013)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-24-business-as-usual-1000pcs-25013)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -803,7 +803,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.25 — Games Night!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-25-games-night-1000pcs-1110100015)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-25-games-night-1000pcs-1110100015)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -811,7 +811,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.26 — Organic Overload!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-26-organic-overload-1000pcs-1110100022)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-26-organic-overload-1000pcs-1110100022)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -819,7 +819,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.27 — Café to Latte!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-27-cafe-to-latte-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-27-cafe-to-latte-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -827,7 +827,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.28 — Dad Cave!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-28-dad-cave-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-28-dad-cave-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -835,7 +835,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.29 — Pitch Perfect!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-29-pitch-perfect-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-29-pitch-perfect-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -843,7 +843,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.30 — Harvesting Happiness!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-30-harvesting-happiness-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-30-harvesting-happiness-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -851,7 +851,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.31 — Home Delivery!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-31-home-delivery-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-31-home-delivery-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -859,7 +859,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.32 — Passion for Fashion!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-32-passion-for-fashion-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-32-passion-for-fashion-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -869,7 +869,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
  > **Image URLs supplied by user — awaiting final validation.**
 
-[Official puzzle page](https://wasgij.com/products/wasgij-destiny-170-years-of-jumbo-1000pcs-1119800223)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-destiny-170-years-of-jumbo-1000pcs-1119800223)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -892,7 +892,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.01 — The Wasgij Express!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-1-the-wasgij-express-2x1000-pieces-01988)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-1-the-wasgij-express-2x1000-pieces-01988)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -900,7 +900,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.02 — Stop the Clock
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-2-stop-the-clock-1000-pieces-10878)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-2-stop-the-clock-1000-pieces-10878)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -908,7 +908,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.03 — Drama at the Opera!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-3-drama-at-the-opera-1000-pieces-10900)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-3-drama-at-the-opera-1000-pieces-10900)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -916,7 +916,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.04 — Live Entertainment
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-4-live-entertainment-1000-pieces-10915)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-4-live-entertainment-1000-pieces-10915)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -924,7 +924,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.05 — Sunday Lunch
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-5-sunday-lunch-1000-pieces-10917)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-5-sunday-lunch-1000-pieces-10917)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -932,7 +932,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.06 — Camping Commotion
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-6-camping-commotion-1000-pieces-13498)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-6-camping-commotion-1000-pieces-13498)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -940,7 +940,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.07 — Everything Must Go!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-7-everything-must-go-1000-pieces-12287)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-7-everything-must-go-1000-pieces-12287)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -948,7 +948,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.08 — The Final Hurdle!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-8-the-final-hurdle-1000-pieces-17230)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-8-the-final-hurdle-1000-pieces-17230)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -956,7 +956,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.09 — Great Train Robbery!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-9-great-train-robbery-1000-pieces-17302)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-9-great-train-robbery-1000-pieces-17302)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -964,7 +964,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.10 — Spring has Sprung!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-10-spring-has-sprung-1000-pieces-17406)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-10-spring-has-sprung-1000-pieces-17406)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -972,7 +972,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.11 — Childcare!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-11-childcare-1000-pieces-19110)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-11-childcare-1000-pieces-19110)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -980,7 +980,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.12 — The Unusual Suspects!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-12-1000-pieces-19127)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-12-1000-pieces-19127)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -988,7 +988,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.13 — A Purrrfect Escape!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-13-a-purrrfect-escape-1000-pieces-19143)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-13-a-purrrfect-escape-1000-pieces-19143)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -996,7 +996,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.14 — The Hound of the Wasgijville!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-14-the-hound-of-the-wasgijville-1000pcs-19158)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-14-the-hound-of-the-wasgijville-1000pcs-19158)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1004,7 +1004,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.15 — A Typical British BBQ!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-15-a-typical-british-bbq-1000pcs-19163)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-15-a-typical-british-bbq-1000pcs-19163)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1012,7 +1012,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.16 — Birthday Surprise!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-16-1000pcs-19165)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-16-1000pcs-19165)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1020,7 +1020,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.17 — Catching a Break!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-17-1000pcs-19175)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-17-1000pcs-19175)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1028,7 +1028,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.18 — Grabbing a Quick Bite!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-18-1000pcs-19179)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-18-1000pcs-19179)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1036,7 +1036,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.19 — Bingo Blunder!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-19-1000pcs-19182)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-19-1000pcs-19182)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1044,7 +1044,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.20 — Mountain Mayhem!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-20-mountain-mayhem-1000pcs-25002)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-20-mountain-mayhem-1000pcs-25002)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1052,7 +1052,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.21 — Trouble Brewing!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-21-trouble-brewing-1000pcs-25006)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-21-trouble-brewing-1000pcs-25006)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1060,7 +1060,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.22 — Wasgij Winter Games!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-22-wasgij-winter-games-1000pcs-25012)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-22-wasgij-winter-games-1000pcs-25012)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1068,7 +1068,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.23 — Pooch Parlour!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-23-pooch-parlour-1000pcs-25018)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-23-pooch-parlour-1000pcs-25018)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1076,7 +1076,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.24 — Blight at the museum!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-24-blight-at-the-museum-1000pcs-1110100014)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-24-blight-at-the-museum-1000pcs-1110100014)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1084,7 +1084,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.25 — Eurosound Contest!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-25-eurosound-contest-1000pcs-1110100019)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-25-eurosound-contest-1000pcs-1110100019)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1092,7 +1092,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.26 — Date Night!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-26-date-night-1000-pieces-1110100331)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-26-date-night-1000-pieces-1110100331)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1100,7 +1100,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.27 — A Close Shave!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-27-a-close-shave-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-27-a-close-shave-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1108,7 +1108,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.28 — Feline Frenzy!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-28-feline-frenzy-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-28-feline-frenzy-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1116,7 +1116,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.29 — Donation Debacle!
 
-[Official puzzle page](https://wasgij.com/collections/archive/products/wasgij-mystery-29-donation-debacle-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/collections/archive/products/wasgij-mystery-29-donation-debacle-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1124,7 +1124,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.30 — Bullseye!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-30-bullseye-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-30-bullseye-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1132,7 +1132,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### No.31 — Gender Reveal!
 
-[Official puzzle page](https://wasgij.com/products/wasgij-mystery-31-gender-reveal-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/products/wasgij-mystery-31-gender-reveal-1000-pieces)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
@@ -1140,7 +1140,7 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 
 ### Special — World of Wonders!
 
-[Official puzzle page](https://wasgij.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
+[Official puzzle page and hints](https://wasgij.com/de-de/products/wasgij-mystery-efteling-world-of-wonders-1000-pieces)
 
 > **Opening the German puzzle page:** If clicking the link redirects you to the UK Wasgij homepage, copy the link address and paste it directly into your browser's address bar. The German product page should then open.
 
