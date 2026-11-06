@@ -1079,21 +1079,17 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-27-cafe-to-latte-1000-pieces)
 
-> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 supplied by user; box image awaits final validation.
-
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100596_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_1_2.png" alt="Destiny 27 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-1.png" alt="Destiny 27 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-2.png" alt="Destiny 27 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100596_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_1_2.png" alt="Destiny 27 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-1.png" alt="Destiny 27 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-2.png" alt="Destiny 27 hint 2" width="250"></a> |
 
 ### No.28 — Dad Cave!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-28-dad-cave-1000-pieces)
 
-> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 are candidate URLs awaiting visual validation.
-
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100597_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_1_2.png" alt="Destiny 28 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-1.png" alt="Destiny 28 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-2.png" alt="Destiny 28 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100597_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_1_2.png" alt="Destiny 28 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-1.png" alt="Destiny 28 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-2.png" alt="Destiny 28 hint 2" width="250"></a> |
 
 ### No.29 — Pitch Perfect!
 
@@ -1103,7 +1099,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100507_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_1_2.png" alt="Destiny 29 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-1.png" alt="Destiny 29 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-2.png" alt="Destiny 29 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100507_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_1_2.png" alt="Destiny 29 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100507-Destiny-29-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100507-Destiny-29-Hint-1.jpg" alt="Destiny 29 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100507-Destiny-29-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100507-Destiny-29-Hint-2.jpg" alt="Destiny 29 hint 2 candidate" width="250"></a> |
 
 ### No.30 — Harvesting Happiness!
 
@@ -1113,7 +1109,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100514_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_1_2.png" alt="Destiny 30 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-1.png" alt="Destiny 30 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-2.png" alt="Destiny 30 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100514_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_1_2.png" alt="Destiny 30 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100514_4Hints_960x684_10851bd0-e1f4-4961-b81c-75f26f498575.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_4Hints_960x684_10851bd0-e1f4-4961-b81c-75f26f498575.png" alt="Destiny 30 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100514_5Hints_960x684_1199d5d7-97a6-4814-9501-175e7a71f6e1.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_5Hints_960x684_1199d5d7-97a6-4814-9501-175e7a71f6e1.png" alt="Destiny 30 hint 2 candidate" width="250"></a> |
 
 ### No.31 — Home Delivery!
 
