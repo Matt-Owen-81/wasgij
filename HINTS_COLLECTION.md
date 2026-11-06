@@ -1111,21 +1111,21 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-31-home-delivery-1000-pieces)
 
-> **Candidate image URLs — awaiting visual validation.**
+> **Image URLs supplied by user — awaiting final validation.**
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100805_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_1_2.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-1.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-2.png" alt="Hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100805_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_1_2.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100805_4Hints_960x684_0128ae5f-9c1e-4bd2-b15f-28801059f517.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_4Hints_960x684_0128ae5f-9c1e-4bd2-b15f-28801059f517.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100805_5Hints_960x684_486836f5-41f9-4560-9f92-4dd26e9080a2.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_5Hints_960x684_486836f5-41f9-4560-9f92-4dd26e9080a2.png" alt="Hint 2 candidate" width="250"></a> |
 
 ### No.32 — Passion for Fashion!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-32-passion-for-fashion-1000-pieces)
 
-> **Candidate image URLs — awaiting visual validation.**
+> **Image URLs supplied by user — awaiting final validation.**
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100906_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_1_2.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-1.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-2.png" alt="Hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1110100906_01_CT_01.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100906_01_CT_01.jpg" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100906_4Hints_960x684_74817f68-4a58-4f90-a9c2-b3d4adb0782a.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_4Hints_960x684_74817f68-4a58-4f90-a9c2-b3d4adb0782a.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100906_5Hints_960x684_c0544c86-8741-4e9c-a46e-c1eb2599920c.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_5Hints_960x684_c0544c86-8741-4e9c-a46e-c1eb2599920c.png" alt="Hint 2 candidate" width="250"></a> |
 
 ### Special — A Royal Knees-up! Queen's Jubilee Celebration
 
@@ -1137,13 +1137,13 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### Special — 170 Years of Jumbo!
 
- > **Candidate image URLs — awaiting visual validation.**
+ > **Image URLs supplied by user — awaiting final validation.**
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-170-years-of-jumbo-1000pcs-1119800223)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1119800223_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_L_0.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-1.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-2.png" alt="Hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/1119800223_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_1_2.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1119800223_170-Years-of-Jumbo-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1119800223_170-Years-of-Jumbo-Hint-1.jpg" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1119800223_170-Years-of-Jumbo-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1119800223_170-Years-of-Jumbo-Hint-2.jpg" alt="Hint 2 candidate" width="250"></a> |
 
 ## Back to…
 
