@@ -1005,7 +1005,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-image.jpg" alt="Destiny 17 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg" alt="Destiny 17 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg" alt="Destiny 17 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg" alt="Destiny 17 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg" alt="Destiny 17 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg" alt="Destiny 17 hint 2 candidate" width="250"></a> |
 
 ### No.18 — Fast Food Frenzy!
 
@@ -1015,7 +1015,7 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-image.jpg" alt="Destiny 18 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg" alt="Destiny 18 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg" alt="Destiny 18 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg" alt="Destiny 18 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg" alt="Destiny 18 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg" alt="Destiny 18 hint 2 candidate" width="250"></a> |
 
 ### No.19 — The Puzzlers Arms!
 
