@@ -885,7 +885,14 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ## Imagine…
 
-The series will be grouped here by puzzle artwork, regardless of edition or piece count. Puzzle entries and official hint images are pending.
+The series is grouped by puzzle artwork. This historical image is from the archived Wasgij website; separate hint images are not available.
+
+### Special — If Labour wins the General Election!
+
+<a href="https://web.archive.org/web/20150425012658/http://www.wasgij.co.uk/images/uploads/puzzles/Labour_Thumbnail_Collections.png"><img src="https://web.archive.org/web/20150425012658/http://www.wasgij.co.uk/images/uploads/puzzles/Labour_Thumbnail_Collections.png" alt="Imagine If Labour wins the General Election archived image" width="250"></a>
+
+**Hints:** None available.
+
 ## Mystery
 
 The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regardless of edition or piece count.
