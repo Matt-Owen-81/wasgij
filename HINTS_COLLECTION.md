@@ -981,41 +981,33 @@ Official puzzle-page and image links will be added in review batches. Entries be
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-15-shopping-shake-up-1000-pieces-19109)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-image.jpg" alt="Destiny 15 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-1.jpg" alt="Destiny 15 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-2.jpg" alt="Destiny 15 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-image.jpg" alt="Destiny 15 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-1.jpg" alt="Destiny 15 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19109_Destiny-15-Hint-2.jpg" alt="Destiny 15 hint 2" width="250"></a> |
 
 ### No.16 — Old Time Rockers!
 
 [Official puzzle page](https://wasgij.com/collections/puzzles-from-james-alexander/products/wasgij-destiny-16-old-time-rockers-1000-pieces-19125)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-image.jpg" alt="Destiny 16 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-1.jpg" alt="Destiny 16 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-2.jpg" alt="Destiny 16 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-image.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-image.jpg" alt="Destiny 16 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-1.jpg" alt="Destiny 16 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19125_Destiny-16-Hint-2.jpg" alt="Destiny 16 hint 2" width="250"></a> |
 
 ### No.17 — Paying the Price!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-17-int-1000pcs-19141)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg" alt="Destiny 17 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg" alt="Destiny 17 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg" alt="Destiny 17 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny_17_image.jpg" alt="Destiny 17 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-1.jpg" alt="Destiny 17 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19141_Destiny-17-Hint-2.jpg" alt="Destiny 17 hint 2" width="250"></a> |
 
 ### No.18 — Fast Food Frenzy!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-18-fast-food-frenzy-1000pcs-19157)
 
-> **Candidate image URLs — awaiting visual validation.**
-
 | Box image | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg" alt="Destiny 18 box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg" alt="Destiny 18 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg" alt="Destiny 18 hint 2 candidate" width="250"></a> |
+| <a href="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny_18_image.jpg" alt="Destiny 18 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-1.jpg" alt="Destiny 18 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/19157_Destiny-18-Hint-2.jpg" alt="Destiny 18 hint 2" width="250"></a> |
 
 ### No.19 — The Puzzlers Arms!
 
