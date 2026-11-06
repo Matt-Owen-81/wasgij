@@ -1109,15 +1109,31 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### No.31 — Home Delivery!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-31-home-delivery-1000-pieces)
+
+> Box image and hint URLs pending visual validation.
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| Pending | Pending | Pending |
 
 ### No.32 — Passion for Fashion!
 
-[Official Wasgij archive](https://wasgij.com/collections/archive) · Box image and hints: pending verification.
+[Official puzzle page](https://wasgij.com/products/wasgij-destiny-32-passion-for-fashion-1000-pieces)
+
+> Box image and hint URLs pending visual validation.
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| Pending | Pending | Pending |
 
 ### Special — A Royal Knees-up! Queen's Jubilee Celebration
 
-Official puzzle page and hint images: pending verification. (Listed as 15th Anniversary in the ownership catalogue; grouped with Destiny specials here for hint browsing.)
+[Historical puzzle reference](https://www.kevinsimon.co.uk/wasgij-15th-anniversary-completed-a-royal-kness-up-solution/) (not an official Wasgij product page). Listed as 15th Anniversary in the ownership catalogue; grouped with Destiny specials here for hint browsing. Official box and hint image URLs pending verification.
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| Pending | Pending | Pending |
 
 ### Special — 170 Years of Jumbo!
 
