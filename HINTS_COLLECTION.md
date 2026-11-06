@@ -1111,21 +1111,21 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-31-home-delivery-1000-pieces)
 
-> Box image and hint URLs pending visual validation.
+> **Candidate image URLs — awaiting visual validation.**
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| Pending | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100805_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_1_2.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-1.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100805_Destiny-31-Hint-2.png" alt="Hint 2 candidate" width="250"></a> |
 
 ### No.32 — Passion for Fashion!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-32-passion-for-fashion-1000-pieces)
 
-> Box image and hint URLs pending visual validation.
+> **Candidate image URLs — awaiting visual validation.**
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| Pending | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100906_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_1_2.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-1.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100906_Destiny-32-Hint-2.png" alt="Hint 2 candidate" width="250"></a> |
 
 ### Special — A Royal Knees-up! Queen's Jubilee Celebration
 
@@ -1137,11 +1137,13 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 ### Special — 170 Years of Jumbo!
 
+ > **Candidate image URLs — awaiting visual validation.**
+
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-170-years-of-jumbo-1000pcs-1119800223)
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1119800223_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_L_0.png" alt="Destiny Special box image candidate" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1119800223_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_L_0.png" alt="Box image candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-1.png" alt="Hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1119800223_Destiny-Hint-2.png" alt="Hint 2 candidate" width="250"></a> |
 
 ## Back to…
 
