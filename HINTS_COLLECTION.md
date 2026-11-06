@@ -1079,41 +1079,41 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-27-cafe-to-latte-1000-pieces)
 
-> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 supplied by user; box image awaits final validation.
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100596_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_1_2.png" alt="Destiny 27 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100596_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_1_2.png" alt="Destiny 27 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-1.png" alt="Destiny 27 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_Destiny-27-Hint-2.png" alt="Destiny 27 hint 2 candidate" width="250"></a> |
 
 ### No.28 — Dad Cave!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-28-dad-cave-1000-pieces)
 
-> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 are candidate URLs awaiting visual validation.
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100597_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_1_2.png" alt="Destiny 28 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100597_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_1_2.png" alt="Destiny 28 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-1.png" alt="Destiny 28 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_Destiny-28-Hint-2.png" alt="Destiny 28 hint 2 candidate" width="250"></a> |
 
 ### No.29 — Pitch Perfect!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-29-pitch-perfect-1000-pieces)
 
-> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 are candidate URLs awaiting visual validation.
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100507_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_1_2.png" alt="Destiny 29 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100507_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_1_2.png" alt="Destiny 29 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-1.png" alt="Destiny 29 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_Destiny-29-Hint-2.png" alt="Destiny 29 hint 2 candidate" width="250"></a> |
 
 ### No.30 — Harvesting Happiness!
 
 [Official puzzle page](https://wasgij.com/products/wasgij-destiny-30-harvesting-happiness-1000-pieces)
 
-> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 URLs are pending.
+> **Candidate box image — awaiting visual validation.** Hint 1 and Hint 2 are candidate URLs awaiting visual validation.
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100514_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_1_2.png" alt="Destiny 30 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100514_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_1_2.png" alt="Destiny 30 candidate box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-1.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-1.png" alt="Destiny 30 hint 1 candidate" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-2.png"><img src="https://wasgij.com/cdn/shop/files/1110100514_Destiny-30-Hint-2.png" alt="Destiny 30 hint 2 candidate" width="250"></a> |
 
 ### No.31 — Home Delivery!
 
