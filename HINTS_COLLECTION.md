@@ -1083,7 +1083,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100596_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_L_0.png" alt="Destiny 27 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100596_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100596_1_2.png" alt="Destiny 27 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.28 — Dad Cave!
 
@@ -1093,7 +1093,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100597_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_L_0.png" alt="Destiny 28 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100597_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100597_1_2.png" alt="Destiny 28 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.29 — Pitch Perfect!
 
@@ -1103,7 +1103,7 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| <a href="https://wasgij.com/cdn/shop/files/1110100507_L_0.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_L_0.png" alt="Destiny 29 candidate box image" width="250"></a> | Pending | Pending |
+| <a href="https://wasgij.com/cdn/shop/files/1110100507_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100507_1_2.png" alt="Destiny 29 candidate box image" width="250"></a> | Pending | Pending |
 
 ### No.30 — Harvesting Happiness!
 
