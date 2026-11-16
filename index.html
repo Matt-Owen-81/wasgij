@@ -7,7 +7,7 @@
 </style></head><body>
 <header><h1>🧩 Wasgij Puzzle Collection</h1><p class="subtitle">A visual catalogue of my Wasgij puzzles, including box artwork and completed puzzles. Organised by piece count and series. Reference box artwork comes from the hints collection where available; completed photographs are from my GitHub archive.</p></header>
 <main class="wrap"><div id="stats" class="stats"><div class="stat"><strong>—</strong><span>Owned</span></div><div class="stat"><strong>—</strong><span>Completed</span></div><div class="stat"><strong>—</strong><span>Remaining</span></div></div>
-<div class="toolbar"><input id="search" type="search" placeholder="Search titles, numbers or series…" aria-label="Search puzzles"><select id="status" aria-label="Completion filter"><option value="all">All puzzles</option><option value="completed">Completed</option><option value="remaining">Not completed</option><option value="partial">Partially completed</option></select><select id="pieces" aria-label="Piece-count filter"><option value="all">All piece counts</option></select></div>
+<div class="toolbar"><input id="search" type="search" placeholder="Search titles, numbers or series…" aria-label="Search puzzles"><select id="ownership" aria-label="Ownership filter"><option value="owned">Owned</option><option value="unowned">Not owned</option><option value="all">All ownership</option></select><select id="status" aria-label="Completion filter"><option value="all">All puzzles</option><option value="completed">Completed</option><option value="remaining">Not completed</option><option value="partial">Partially completed</option></select><select id="pieces" aria-label="Piece-count filter"><option value="all">All piece counts</option></select></div>
 <nav id="nav" class="series-nav" aria-label="Filter by series"></nav><div id="collection" aria-live="polite">Loading collection…</div></main>
 <footer>Reference artwork: <a href="HINTS_COLLECTION.md">hints collection</a>. Collection data and photographs are maintained in the <a href="https://github.com/Matt-Owen-81/wasgij">Wasgij archive</a>.</footer>
 <script>
@@ -27,7 +27,7 @@ function parse(md){
     const body=buffer.join('\n');
     const field=k=>{const m=body.match(new RegExp('^\\|\\s*'+k+'\\s*\\|\\s*(.*?)\\s*\\|','im'));return m?m[1].replace(/\*\*/g,'').trim():''};
     item.type=field('Type');item.number=field('Number');item.title=field('Title')||item.title;item.pieces=field('Number of pieces');
-    item.status=field('Status')||'Not completed';item.photos=images(body);
+    item.owned=true;item.status=field('Status')||'Not completed';item.photos=images(body);
     item.hintBox=body.match(/^<!-- Hint box image: (https:\/\/(?:wasgij\.com|web\.archive\.org)\/[^\s<>]+) -->$/m)?.[1]||'';
     item.group=(item.pieces==='150'?'150':item.pieces==='500'?'500':/^(?:[23]x)?1000$/.test(item.pieces)||(item.type==='Original'&&item.number==='22'&&item.pieces==='1500')?'1000':item.pieces);
     item.done=item.photos.some(p=>p.includes('/puzzle/')&&/ - Puzzle\d*\.jpg$/i.test(decodeURIComponent(p)));
@@ -42,6 +42,32 @@ function parse(md){
   }
   flush();return out;
 }
+function csv(text){
+  const rows=[];let row=[],v='',quoted=false;
+  for(let i=0;i<text.length;i++){const c=text[i];if(c==='"'){if(quoted&&text[i+1]==='"'){v+='"';i++;}else quoted=!quoted;}else if(!quoted&&(c===','||c==='\n')){row.push(v.replace(/\r$/,''));v='';if(c==='\n'){if(row.some(Boolean))rows.push(row);row=[];}}else v+=c;}
+  if(v||row.length){row.push(v);rows.push(row);}return rows.slice(1);
+}
+const key=(s,n,p)=>[s,n,p].join('|').toLowerCase();
+const nameKey=(s,t)=>[s,t].join('|').toLowerCase().replace(/[^a-z0-9|]/g,'');
+function hintArtwork(md){
+  const map=new Map();let series='',title='';
+  for(const line of md.split(/\r?\n/)){
+    if(/^## /.test(line)){series=line.slice(3).trim();title='';}
+    else if(/^### /.test(line)){title=line.split(' — ').slice(1).join(' — ').replace(/ \(150 pieces\)$/,'');}
+    else if(title){const m=line.match(/<img src="(https:\/\/(?:wasgij\.com|web\.archive\.org)\/[^"]+)"/);if(m&&!map.has(nameKey(series,title)))map.set(nameKey(series,title),m[1]);}
+  }return map;
+}
+function addCatalogue(owned,cat,hints){
+  const known=new Set(owned.map(p=>key(p.type,p.number,p.pieces))), art=hintArtwork(hints), out=[...owned];
+  for(const [type,number,title,pieces] of csv(cat)){
+    if(!type||!title)continue;
+    const id=key(type,number,pieces||'')+(pieces?'':'|'+title);
+    if(known.has(id))continue;known.add(id);
+    const series=type==='15th Anniversary'?'Destiny':type;
+    const group=pieces==='1500'&&type==='Original'&&number==='22'||/^(?:[23]x)?1000$/.test(pieces)?'1000':pieces||'Unknown';
+    out.push({type,series,number,title,pieces:pieces||'Unknown',group,heading:(/^\d+$/.test(number)?'No.'+number:number)+' — '+title,status:'Not owned',owned:false,done:false,photos:[],hintBox:art.get(nameKey(series,title))||''});
+  }return out;
+}
 function imgUrl(path){return new URL(path,document.baseURI).href}
 function ordered(values,order){return [...new Set(values)].sort((a,b)=>(order.includes(a)?order.indexOf(a):order.length)-(order.includes(b)?order.indexOf(b):order.length)||a.localeCompare(b))}
 function card(p){
@@ -50,21 +76,22 @@ function card(p){
   const partial=/partial/i.test(p.status);
   return '<article class="card"><a class="cover" '+(cover?'href="'+esc(cover)+'" target="_blank" rel="noopener"':'')+'>'+
     (cover?'<img loading="lazy" data-fallback="'+esc(fallback)+'" src="'+esc(cover)+'" alt="'+esc(p.title)+' box artwork">':'<span>Box image unavailable</span>')+
-    '</a><div class="body"><span class="badge '+(p.done&&!partial?'done':'')+'">'+esc(p.status)+'</span><h4>'+esc(p.heading)+'</h4><div class="meta">'+esc(p.pieces)+' pieces · '+esc(p.series)+'</div>'+
+    '</a><div class="body"><span class="badge '+(p.done&&!partial?'done':'')+'">'+esc(p.status)+'</span><h4>'+esc(p.heading)+'</h4><div class="meta">'+esc(p.pieces)+(p.pieces==='Unknown'?' piece count':' pieces')+' · '+esc(p.series)+'</div>'+
     (p.hintBox?'<div class="meta artwork-source">Reference artwork</div>':'')+
     '<div class="photos">'+completed.map((path,i)=>'<a href="'+esc(imgUrl(path))+'" target="_blank" rel="noopener">View completed photo'+(completed.length>1?' '+(i+1):'')+' ↗</a>').join('')+'</div></div></article>';
 }
 function render(){
   const query=document.getElementById('search').value.toLowerCase(),status=document.getElementById('status').value,size=document.getElementById('pieces').value;
-  const visible=puzzles.filter(p=>(selected==='All'||p.series===selected)&&(size==='all'||p.group===size)&&[p.title,p.number,p.series,p.type,p.pieces,p.heading].join(' ').toLowerCase().includes(query)&&(status==='all'||(status==='completed'&&p.done)||(status==='remaining'&&!p.done)||(status==='partial'&&/partial/i.test(p.status))));
+  const ownership=document.getElementById('ownership').value;
+  const visible=puzzles.filter(p=>(ownership==='all'||(ownership==='owned'&&p.owned)||(ownership==='unowned'&&!p.owned))&&(selected==='All'||p.series===selected)&&(size==='all'||p.group===size)&&[p.title,p.number,p.series,p.type,p.pieces,p.heading].join(' ').toLowerCase().includes(query)&&(status==='all'||(status==='completed'&&p.done)||(status==='remaining'&&p.owned&&!p.done)||(status==='partial'&&/partial/i.test(p.status))));
   const container=document.getElementById('collection');
   container.innerHTML=visible.length?ordered(visible.map(p=>p.group),groupOrder).map(group=>{
     const items=visible.filter(p=>p.group===group);
-    return '<section class="piece-group"><h2>'+esc(group)+'-piece puzzles <small>'+items.length+' puzzles</small></h2>'+
+    return '<section class="piece-group"><h2>'+(group==='Unknown'?'Unknown piece count':esc(group)+'-piece puzzles')+' <small>'+items.length+' puzzles</small></h2>'+
       (group==='1000'?'<p class="group-note">Includes multi-puzzle editions and Original No.22 (1500 pieces).</p>':'')+
       ordered(items.map(p=>p.series),seriesOrder).map(series=>{
         const entries=items.filter(p=>p.series===series);
-        return '<section class="series"><h3>'+esc(group)+' pieces — '+esc(series)+' <small>'+entries.length+' puzzle'+(entries.length===1?'':'s')+'</small></h3><div class="grid">'+entries.map(card).join('')+'</div></section>';
+        return '<section class="series"><h3>'+(group==='Unknown'?'Unknown piece count':esc(group)+' pieces')+' — '+esc(series)+' <small>'+entries.length+' puzzle'+(entries.length===1?'':'s')+'</small></h3><div class="grid">'+entries.map(card).join('')+'</div></section>';
       }).join('')+'</section>';
   }).join(''):'<div class="empty">No puzzles match your filters.</div>';
   for(const img of container.querySelectorAll('.cover img')){
@@ -85,8 +112,10 @@ async function init(){
   try{
     const res=await fetch(source,{cache:'no-store'});if(!res.ok)throw Error('Unable to load collection ('+res.status+')');
     puzzles=parse(await res.text());if(!puzzles.length)throw Error('No puzzle records found');
-    const done=puzzles.filter(p=>p.done).length;
-    document.getElementById('stats').innerHTML=[['Owned',puzzles.length],['Completed',done],['Remaining',puzzles.length-done]].map(([label,n])=>'<div class="stat"><strong>'+n+'</strong><span>'+label+'</span></div>').join('');
+    const ownedCount=puzzles.length,done=puzzles.filter(p=>p.done).length;
+    const [cat,hints]=await Promise.all(['catalogue.csv','HINTS_COLLECTION.md'].map(async path=>{const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error('Unable to load '+path);return r.text();}));
+    puzzles=addCatalogue(puzzles,cat,hints);
+    document.getElementById('stats').innerHTML=[['Owned',ownedCount],['Completed',done],['Remaining',ownedCount-done]].map(([label,n])=>'<div class="stat"><strong>'+n+'</strong><span>'+label+'</span></div>').join('');
     document.getElementById('pieces').innerHTML='<option value="all">All piece counts</option>'+ordered(puzzles.map(p=>p.group),groupOrder).map(g=>'<option value="'+esc(g)+'">'+esc(g)+' pieces</option>').join('');
     const series=['All',...ordered(puzzles.map(p=>p.series),seriesOrder)];
     document.getElementById('nav').innerHTML=series.map(s=>'<button data-series="'+esc(s)+'" class="'+(s==='All'?'active':'')+'" aria-pressed="'+(s==='All')+'">'+esc(s)+'</button>').join('');
@@ -94,6 +123,7 @@ async function init(){
   }catch(e){document.getElementById('collection').innerHTML='<p class="error">'+esc(e.message)+'. Please try again later.</p>'}
 }
 document.getElementById('search').addEventListener('input',render);
+document.getElementById('ownership').addEventListener('change',()=>{document.getElementById('status').value='all';render()});
 document.getElementById('status').addEventListener('change',render);
 document.getElementById('pieces').addEventListener('change',render);
 init();

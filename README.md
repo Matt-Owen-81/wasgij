@@ -28,6 +28,10 @@ The CSV columns are: `Series`, `Number`, `Title`, `Piece Count`, `Owned`, `Compl
 
 Use two digits for numeric numbers below 10. Descriptive identifiers (e.g. `No.Volume1`) are preserved. Where multiple puzzle photographs exist, numbered suffixes such as `Puzzle1.jpg` are supported.
 
+## Website and hints
+
+The [website](index.html) defaults to owned puzzles and can also display known unowned catalogue editions. The [illustrated collection](PUZZLE_COLLECTION.md) remains owned-only. [Hints](HINTS_COLLECTION.md) distinguishes historical 150-piece artwork; missing official hints are explicitly marked. GitHub Pages publishes main/root with Actions enabled and `.nojekyll`.
+
 ## Maintenance
 
 When adding, removing or renaming a box or completed-puzzle photo, update `inventory.csv` using the same series, number and piece-count matching rules. See [project instructions](PROJECT_INSTRUCTIONS.md) for enhancement and archiving standards.

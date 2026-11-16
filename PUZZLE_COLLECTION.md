@@ -1070,19 +1070,21 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 
 ---
 
-##### No.05 — A Flaming Good Christmas!
+##### No.05 — That Warm Christmas Feeling
 
 | Field | Value |
 | --- | --- |
 | Type | Christmas |
 | Number | 05 |
-| Title | A Flaming Good Christmas! |
+| Title | That Warm Christmas Feeling |
 | Number of pieces | 1000 |
 | Status | **Not completed** |
 
+<!-- Hint box image: https://wasgij.com/cdn/shop/files/13520_Christmas-5-image.jpg -->
+
 **Box photograph**
 
-<a href="images/box/Wasgij%20-%20Christmas%20-%20No.05%20(1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Christmas%20-%20No.05%20(1000)%20-%20Box.jpg" alt="A Flaming Good Christmas! box" width="50%"></a>
+<a href="images/box/Wasgij%20-%20Christmas%20-%20No.05%20(1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Christmas%20-%20No.05%20(1000)%20-%20Box.jpg" alt="That Warm Christmas Feeling box" width="50%"></a>
 
 ---
 

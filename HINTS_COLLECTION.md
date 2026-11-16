@@ -1,6 +1,6 @@
 # Wasgij hints collection
 
-Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. All images link to the official Wasgij website and are not stored in this repository. Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork. This page is a reference for puzzle hints, independent of collection ownership; ownership and edition details are maintained in `inventory.csv` and `catalogue.csv`.
+Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. Official reference images link externally; historical 150-piece editions without official artwork use archive box photographs. Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork. This page is a reference for puzzle hints, independent of collection ownership; ownership and edition details are maintained in `inventory.csv` and `catalogue.csv`.
 
 ## Jump to a series
 
@@ -10,7 +10,7 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 ## Original
 
-The Original and Retro Original editions are grouped here by puzzle artwork, regardless of whether the edition has 500 or 1000 pieces.
+The Original and Retro Original editions are grouped here by puzzle artwork, when the artwork matches. Distinct 150-piece artwork is listed separately.
 
 ### No.01 — Sunday Drivers!
 
@@ -420,6 +420,31 @@ The Original and Retro Original editions are grouped here by puzzle artwork, reg
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100508_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100508_1_2.png" alt="Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_hint_01.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_hint_01.jpg" alt="Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100508_hint_02.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100508_hint_02.jpg" alt="Efteling hint 2" width="250"></a> |
+
+### No.02 — Picnic Panic! (150 pieces)
+
+Historical edition; archive box photograph (main clue). Official Hint 1 and Hint 2 not verified.
+
+<a href="images/box/Wasgij%20-%20Original%20-%20No.02%20(150)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.02%20(150)%20-%20Box.jpg" alt="Picnic Panic! box" width="250"></a>
+
+### No.03 — Monkey Business! (150 pieces)
+
+Historical edition; archive box photograph (main clue). Official Hint 1 and Hint 2 not verified.
+
+<a href="images/box/Wasgij%20-%20Original%20-%20No.03%20(150)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.03%20(150)%20-%20Box.jpg" alt="Monkey Business! box" width="250"></a>
+
+### No.05 — Sizzling Steal! (150 pieces)
+
+Historical edition; archive box photograph (main clue). Official Hint 1 and Hint 2 not verified.
+
+<a href="images/box/Wasgij%20-%20Original%20-%20No.05%20(150)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.05%20(150)%20-%20Box.jpg" alt="Sizzling Steal! box" width="250"></a>
+
+### No.06 — Anyone for Tennis! (150 pieces)
+
+Historical edition; archive box photograph (main clue). Official Hint 1 and Hint 2 not verified.
+
+<a href="images/box/Wasgij%20-%20Original%20-%20No.06%20(150)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.06%20(150)%20-%20Box.jpg" alt="Anyone for Tennis! box" width="250"></a>
+
 
 ## Back to…
 
@@ -894,6 +919,13 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | Pending | Pending | Pending |
+
+### No.01 — Road trip! (150 pieces)
+
+Historical edition; archive box photograph (main clue). Official Hint 1 and Hint 2 not verified.
+
+<a href="images/box/Wasgij%20-%20Destiny%20-%20No.01%20(150)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Destiny%20-%20No.01%20(150)%20-%20Box.jpg" alt="Road trip! box" width="250"></a>
+
 
 ## Imagine…
 
