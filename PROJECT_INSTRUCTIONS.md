@@ -40,6 +40,7 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - Update README totals and `PUZZLE_COLLECTION.md` in the same PR as inventory/image changes; check counts and links.
 
 ## Website and hints — mandatory synchronisation
+- Include Christmas Advent Calendars as separate year-qualified entries (`Advent Calendar YYYY`) with piece count `24x54`, title and supplied publisher box artwork; keep them distinct from standard numbered Christmas puzzles. Do not invent hints.
 - Include Junior 240-piece puzzles in the hints reference and website, with matching box artwork and both official hints where available. Sort piece-count groups 150, 240, 500, 1000, then other groups.
 - Keep `HINTS_COLLECTION.md` aligned with display series, special labels and artwork titles; distinct 150-piece artwork gets its own entry. Never attach hints from a different artwork. Use archive box photos when official artwork is unavailable, explicitly label missing hints.
 - Keep archive identifiers intact; display 15th Anniversary Royal Knees-up under Destiny and retain collector's boxes and Efteling distinctions. Christmas No.05 uses That Warm Christmas Feeling.

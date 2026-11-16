@@ -16,7 +16,7 @@ const source='PUZZLE_COLLECTION.md';
 let puzzles=[],selected='All';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const seriesOrder=['Original','Back to…','Christmas','Destiny','Imagine…','Junior','Mystery','What if…'];
-const groupOrder=['150','240','500','1000'];
+const groupOrder=['150','240','500','1000','24x54'];
 function images(block){
   const re=/<img\b[^>]*?\bsrc=["'](images\/[^"']+)["'][^>]*>|!\[[^\]]*\]\((images\/[^\r\n]*?\.jpg)\)/gi;
   return [...new Set([...block.matchAll(re)].map(m=>m[1]||m[2]))];
@@ -73,6 +73,7 @@ function addCatalogue(owned,cat,hints){
 function imgUrl(path){return new URL(path,document.baseURI).href}
 function ordered(values,order){return [...new Set(values)].sort((a,b)=>(order.includes(a)?order.indexOf(a):order.length)-(order.includes(b)?order.indexOf(b):order.length)||a.localeCompare(b))}
 function puzzleOrder(a,b){
+  if(/^Advent Calendar \d{4}$/.test(a.number)&&/^Advent Calendar \d{4}$/.test(b.number))return b.number.localeCompare(a.number);
   const numeric=p=>/^\d+$/.test(p.number)&&!/^Special\b/i.test(p.heading);
   if(numeric(a)!==numeric(b))return numeric(a)?-1:1;
   return (numeric(a)?Number(a.number)-Number(b.number):a.heading.localeCompare(b.heading,'en',{numeric:true}))||a.pieces.localeCompare(b.pieces,'en',{numeric:true})||a.title.localeCompare(b.title,'en',{numeric:true});
@@ -94,7 +95,7 @@ function render(){
   const container=document.getElementById('collection');
   container.innerHTML=visible.length?ordered(visible.map(p=>p.group),groupOrder).map(group=>{
     const items=visible.filter(p=>p.group===group);
-    return '<section class="piece-group"><h2>'+(group==='Unknown'?'Unknown piece count':esc(group)+'-piece puzzles')+' <small>'+items.length+' puzzles</small></h2>'+
+    return '<section class="piece-group"><h2>'+(group==='24x54'?'24 × 54-piece Advent calendars':group==='Unknown'?'Unknown piece count':esc(group)+'-piece puzzles')+' <small>'+items.length+' puzzles</small></h2>'+
       (group==='1000'?'<p class="group-note">Includes multi-puzzle editions and Original No.22 (1500 pieces).</p>':'')+
       ordered(items.map(p=>p.series),seriesOrder).map(series=>{
         const entries=items.filter(p=>p.series===series).sort(puzzleOrder);
@@ -123,7 +124,7 @@ async function init(){
     const [cat,hints]=await Promise.all(['catalogue.csv','HINTS_COLLECTION.md'].map(async path=>{const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error('Unable to load '+path);return r.text();}));
     puzzles=addCatalogue(puzzles,cat,hints);
     document.getElementById('stats').innerHTML=[['Owned',ownedCount],['Completed',done],['Remaining',ownedCount-done]].map(([label,n])=>'<div class="stat"><strong>'+n+'</strong><span>'+label+'</span></div>').join('');
-    document.getElementById('piece-options').innerHTML='<label><input type="checkbox" id="all-pieces" checked> All piece counts</label>'+ordered(puzzles.map(p=>p.group),groupOrder).map(g=>'<label><input type="checkbox" data-group value="'+esc(g)+'" checked> '+(g==='1000'?'1000 (incl. 1500)':g==='Unknown'?'Unknown piece count':esc(g))+'</label>').join('');
+    document.getElementById('piece-options').innerHTML='<label><input type="checkbox" id="all-pieces" checked> All piece counts</label>'+ordered(puzzles.map(p=>p.group),groupOrder).map(g=>'<label><input type="checkbox" data-group value="'+esc(g)+'" checked> '+(g==='1000'?'1000 (incl. 1500)':g==='24x54'?'24 × 54 (Advent calendars)':g==='Unknown'?'Unknown piece count':esc(g))+'</label>').join('');
     const series=['All',...ordered(puzzles.map(p=>p.series),seriesOrder)];
     document.getElementById('nav').innerHTML=series.map(s=>'<button data-series="'+esc(s)+'" class="'+(s==='All'?'active':'')+'" aria-pressed="'+(s==='All')+'">'+esc(s)+'</button>').join('');
     document.getElementById('nav').addEventListener('click',e=>{if(e.target.tagName!=='BUTTON')return;selected=e.target.dataset.series;document.querySelectorAll('#nav button').forEach(b=>{b.classList.toggle('active',b===e.target);b.setAttribute('aria-pressed',String(b===e.target))});render()});render();
