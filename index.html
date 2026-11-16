@@ -55,7 +55,7 @@ function hintArtwork(md){
   for(const line of md.split(/\r?\n/)){
     if(/^## /.test(line)){series=line.slice(3).trim();title='';}
     else if(/^### /.test(line)){title=line.split(' — ').slice(1).join(' — ').replace(/ \(150 pieces\)$/,'');}
-    else if(title){const m=line.match(/<img src="(https:\/\/(?:wasgij\.com|web\.archive\.org)\/[^"]+)"/);if(m&&!map.has(nameKey(series,title)))map.set(nameKey(series,title),m[1]);}
+    else if(title){const m=line.match(/<img src="(https?:\/\/(?:wasgij\.com|web\.archive\.org|www\.wasgij\.co\.uk)\/[^"]+)"/);if(m&&!map.has(nameKey(series,title)))map.set(nameKey(series,title),m[1].replace(/^http:\/\/www\.wasgij\.co\.uk\//,'https://web.archive.org/web/2017/http://www.wasgij.co.uk/'));}
   }return map;
 }
 function addCatalogue(owned,cat,hints){
