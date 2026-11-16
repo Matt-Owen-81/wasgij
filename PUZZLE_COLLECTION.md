@@ -12,9 +12,9 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 | Destiny | 27 | 12 | 15 |
 | Imagine… | 1 | 0 | 1 |
 | Mystery | 21 | 12 | 9 |
-| Original | 45 | 27 | 18 |
+| Original | 45 | 28 | 17 |
 | What if… | 1 | 0 | 1 |
-| **Total** | **111** | **57** | **54** |
+| **Total** | **111** | **58** | **53** |
 
 ## 2. Puzzles by type
 
@@ -1276,11 +1276,15 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 | Number | 02 |
 | Title | Happy Holidays! |
 | Number of pieces | 1000 |
-| Status | **Not completed** |
+| Status | **Completed** |
 
 **Box photograph**
 
 <a href="images/box/Wasgij%20-%20Original%20-%20No.02%20(1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.02%20(1000)%20-%20Box.jpg" alt="Happy Holidays! box" width="50%"></a>
+
+**Completed puzzle photograph**
+
+[![Happy Holidays! completed puzzle](images/puzzle/Wasgij%20-%20Original%20-%20No.02%20(1000)%20-%20Puzzle.jpg)](images/puzzle/Wasgij%20-%20Original%20-%20No.02%20(1000)%20-%20Puzzle.jpg)
 
 ---
 
