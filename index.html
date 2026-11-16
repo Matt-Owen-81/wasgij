@@ -47,7 +47,8 @@ function csv(text){
   for(let i=0;i<text.length;i++){const c=text[i];if(c==='"'){if(quoted&&text[i+1]==='"'){v+='"';i++;}else quoted=!quoted;}else if(!quoted&&(c===','||c==='\n')){row.push(v.replace(/\r$/,''));v='';if(c==='\n'){if(row.some(Boolean))rows.push(row);row=[];}}else v+=c;}
   if(v||row.length){row.push(v);rows.push(row);}return rows.slice(1);
 }
-const key=(s,n,p)=>[s,n,p].join('|').toLowerCase();
+const canonicalPieces=(s,n,p)=>s==='Christmas'&&n==='10'&&p==='1000'?'2x1000':p;
+const key=(s,n,p,t)=>[s,n,canonicalPieces(s,n,p),s==='Imagine…'&&n==='01'?t:''].join('|').toLowerCase();
 const nameKey=(s,t)=>[s,t].join('|').toLowerCase().replace(/[^a-z0-9|]/g,'');
 function hintArtwork(md){
   const map=new Map();let series='',title='';
@@ -58,14 +59,14 @@ function hintArtwork(md){
   }return map;
 }
 function addCatalogue(owned,cat,hints){
-  const known=new Set(owned.map(p=>key(p.type,p.number,p.pieces))), art=hintArtwork(hints), out=[...owned];
-  for(const [type,number,title,pieces] of csv(cat)){
+  const known=new Set(owned.map(p=>key(p.type,p.number,p.pieces,p.title))), art=hintArtwork(hints), out=[...owned];
+  for(const [type,number,title,pieces,source,date,itemNumber] of csv(cat)){
     if(!type||!title)continue;
-    const id=key(type,number,pieces||'')+(pieces?'':'|'+title);
-    if(known.has(id))continue;known.add(id);
+    const id=key(type,number,pieces||'',title)+(pieces?'':'|'+title);
+    if(known.has(id)){const existing=out.find(p=>key(p.type,p.number,p.pieces,p.title)===id);if(existing){existing.itemNumber=itemNumber;existing.pieces=canonicalPieces(type,number,existing.pieces);}continue;}known.add(id);
     const series=type==='15th Anniversary'?'Destiny':type;
     const group=pieces==='1500'&&type==='Original'&&number==='22'||/^(?:[23]x)?1000$/.test(pieces)?'1000':pieces||'Unknown';
-    out.push({type,series,number,title,pieces:pieces||'Unknown',group,heading:(/^\d+$/.test(number)?'No.'+number:number)+' — '+title,status:'Not owned',owned:false,done:false,photos:[],hintBox:art.get(nameKey(series,title))||''});
+    out.push({type,series,number,title,itemNumber,pieces:pieces||'Unknown',group,heading:(/^\d+$/.test(number)?'No.'+number:number)+' — '+title,status:'Not owned',owned:false,done:false,photos:[],hintBox:art.get(nameKey(series,title))||''});
   }return out;
 }
 function imgUrl(path){return new URL(path,document.baseURI).href}
@@ -81,14 +82,14 @@ function card(p){
   const partial=/partial/i.test(p.status);
   return '<article class="card"><a class="cover" '+(cover?'href="'+esc(cover)+'" target="_blank" rel="noopener"':'')+'>'+
     (cover?'<img loading="lazy" data-fallback="'+esc(fallback)+'" src="'+esc(cover)+'" alt="'+esc(p.title)+' box artwork">':'<span>Box image unavailable</span>')+
-    '</a><div class="body"><span class="badge '+(p.done&&!partial?'done':'')+'">'+esc(p.status)+'</span><h4>'+esc(p.heading)+'</h4><div class="meta">'+esc(p.pieces)+(p.pieces==='Unknown'?' piece count':' pieces')+' · '+esc(p.series)+'</div>'+
+    '</a><div class="body"><span class="badge '+(p.done&&!partial?'done':'')+'">'+esc(p.status)+'</span><h4>'+esc(p.heading)+'</h4><div class="meta">'+esc(p.pieces)+(p.pieces==='Unknown'?' piece count':' pieces')+' · '+esc(p.series)+(p.itemNumber?' · Item '+esc(p.itemNumber):'')+'</div>'+
     (p.hintBox?'<div class="meta artwork-source">Reference artwork</div>':'')+
     '<div class="photos">'+completed.map((path,i)=>'<a href="'+esc(imgUrl(path))+'" target="_blank" rel="noopener">View completed photo'+(completed.length>1?' '+(i+1):'')+' ↗</a>').join('')+'</div></div></article>';
 }
 function render(){
   const query=document.getElementById('search').value.toLowerCase(),status=document.getElementById('status').value,size=document.getElementById('pieces').value;
   const ownership=document.getElementById('ownership').value;
-  const visible=puzzles.filter(p=>(ownership==='all'||(ownership==='owned'&&p.owned)||(ownership==='unowned'&&!p.owned))&&(selected==='All'||p.series===selected)&&(size==='all'||p.group===size)&&[p.title,p.number,p.series,p.type,p.pieces,p.heading].join(' ').toLowerCase().includes(query)&&(status==='all'||(status==='completed'&&p.done)||(status==='remaining'&&p.owned&&!p.done)||(status==='partial'&&/partial/i.test(p.status))));
+  const visible=puzzles.filter(p=>(ownership==='all'||(ownership==='owned'&&p.owned)||(ownership==='unowned'&&!p.owned))&&(selected==='All'||p.series===selected)&&(size==='all'||p.group===size)&&[p.title,p.number,p.series,p.type,p.pieces,p.heading,p.itemNumber].join(' ').toLowerCase().includes(query)&&(status==='all'||(status==='completed'&&p.done)||(status==='remaining'&&p.owned&&!p.done)||(status==='partial'&&/partial/i.test(p.status))));
   const container=document.getElementById('collection');
   container.innerHTML=visible.length?ordered(visible.map(p=>p.group),groupOrder).map(group=>{
     const items=visible.filter(p=>p.group===group);
