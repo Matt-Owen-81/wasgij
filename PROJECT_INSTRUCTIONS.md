@@ -9,7 +9,7 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - `inventory.csv`: one row per owned (series, number, piece count), with title, Owned and Completed.
 - `catalogue.csv`: growing title reference containing publisher-verified and user-supplied entries, including a `Date Added` column. It is not a complete official catalogue.
 - `README.md`: archive overview, counts and workflows.
-- `PUZZLE_COLLECTION.md`: illustrated owned-puzzle catalogue grouped by series; derive counts and images from inventory and archive.
+- `PUZZLE_COLLECTION.md`: illustrated owned-puzzle catalogue grouped by piece count then series; derive counts and images from inventory and archive.
 
 ## Filenames
 - `Wasgij - [Series] - No.[Number] ([Pieces]) - Box.jpg`
@@ -29,13 +29,21 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 
 ## Illustrated puzzle collection — mandatory synchronisation
 - Maintain `PUZZLE_COLLECTION.md` in the repository root whenever ownership, completion, series, number, title, piece count, notes, or image filenames change. Do this in the same feature branch and pull request as the underlying change.
-- Section 1: owned, completed and remaining by series, plus totals calculated from `inventory.csv`.
-- Section 2: group owned puzzles by series; one entry per series + number + piece count, with Type, Number, Title, Pieces, Status and optional notes.
+- Section 1: owned, completed and remaining by piece-count group and display series, plus totals calculated from `inventory.csv`.
+- Section 2: group owned puzzles by 150, 500, 1000 pieces, then series in hints order; include Original No.22 (1500) and 2x1000/3x1000 in the 1000 group; one entry per series + number + piece count, with Type, Number, Title, Pieces, Status and optional notes.
 - Embed each owned puzzle's box photograph from `images/box/`, displayed at 50% width using GitHub-compatible HTML. Keep it clickable to open the full-size original.
 - For completed puzzles, embed ALL matching standard photos from `images/puzzle/` at existing/full width (`Puzzle.jpg`, `Puzzle1.jpg`, `Puzzle2.jpg`, etc.). Exclude restored-only images and omit this section for unfinished puzzles. Multiple photos count as one completed puzzle.
 - Use relative links matching exact image filenames; verify rendering in PR preview.
 - Preserve distinctions between collector's boxes, 150-piece editions and similarly numbered puzzles. Do not list unowned catalogue entries as owned.
 - Update README totals and `PUZZLE_COLLECTION.md` in the same PR as inventory/image changes; check counts and links.
+
+## Website and hints — mandatory synchronisation
+- Keep `HINTS_COLLECTION.md` aligned with display series, special labels and artwork titles; distinct 150-piece artwork gets its own entry. Never attach hints from a different artwork. Use archive box photos when official artwork is unavailable, explicitly label missing hints.
+- Keep archive identifiers intact; display 15th Anniversary Royal Knees-up under Destiny and retain collector's boxes and Efteling distinctions. Christmas No.05 uses That Warm Christmas Feeling.
+- Preserve collection heading hierarchy (### piece group, #### series, ##### puzzle) and matching official artwork comments. Website prefers matching official box artwork, falling back to archive box photos; Markdown keeps archive photos.
+- Website defaults to Owned; provide separate ownership (Owned, Not owned, All) and completion, piece-count, series and search filters. Join catalogue and owned records by series + number + piece count, not number alone. Unowned listings never enter inventory or owned/completed totals. Unknown piece counts remain explicitly unknown; do not invent editions.
+- Maintain explicit combined piece-count/series headings, all standard completion photos, and partial status. Validate counts, filter combinations, links and artwork matching when changing data or website.
+- Keep root `.nojekyll`; Pages publishes main/root with Actions enabled. After merge verify deployment targets latest main commit, not an old rerun; check Actions if site is stale. Do not change repository settings without approval.
 
 ## Image workflows — default handoff
 1. Identify series, number, piece count and duplicate status. For a new box, look up title in catalogue; if absent check the complete official archive and add verified missing entries with discovery date. If still absent ask user for title; never guess. For a puzzle photo, match an owned box or flag unmatched.
