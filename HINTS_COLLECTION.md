@@ -4,9 +4,9 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 ## Jump to a series
 
-[Original](#original) · [Back to…](#back-to) · [Christmas](#christmas) · [Destiny](#destiny) · [Imagine…](#imagine) · [Mystery](#mystery) · [What if…](#what-if)
+[Original](#original) · [Back to…](#back-to) · [Christmas](#christmas) · [Destiny](#destiny) · [Imagine…](#imagine) · [Junior](#junior) · [Mystery](#mystery) · [What if…](#what-if)
 
-**Not included:** Junior, Pieces of Evidence and Christmas Advent Calendar puzzles.
+**Not included:** Pieces of Evidence and Christmas Advent Calendar puzzles.
 
 ## Original
 
@@ -978,6 +978,34 @@ Manufacturer item number: 19142.
 <a href="http://www.wasgij.co.uk/images/uploads/puzzles/Imagine_3_Thumbnail.png"><img src="http://www.wasgij.co.uk/images/uploads/puzzles/Imagine_3_Thumbnail.png" alt="Slumber Party reference image" width="250"></a>
 
 **Hints:** None available.
+
+## Junior
+
+All four currently catalogued Junior puzzles (240 pieces). Official publisher artwork and two hints per puzzle, as supplied.
+
+### No.01 — Iced Screams!
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100806_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100806_1_2.png" alt="Junior No.01 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100806_4Hints_960x664_ccb11921-889c-4076-94b2-fe1b12b9ad03.png"><img src="https://wasgij.com/cdn/shop/files/1110100806_4Hints_960x664_ccb11921-889c-4076-94b2-fe1b12b9ad03.png" alt="Junior No.01 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100806_5Hints_960x664_d45c55cf-66ab-44d6-88d8-61b856f11193.png"><img src="https://wasgij.com/cdn/shop/files/1110100806_5Hints_960x664_d45c55cf-66ab-44d6-88d8-61b856f11193.png" alt="Junior No.01 hint 2" width="250"></a> |
+
+### No.02 — Popcorn Power-Up!
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100807_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100807_1_2.png" alt="Junior No.02 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100807_4Hints_960x664_892d6331-1324-4aea-a8b4-b58c85bc08bf.png"><img src="https://wasgij.com/cdn/shop/files/1110100807_4Hints_960x664_892d6331-1324-4aea-a8b4-b58c85bc08bf.png" alt="Junior No.02 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100807_5Hints_960x664_a4791b0e-0b52-4346-acb4-71136f5ca226.png"><img src="https://wasgij.com/cdn/shop/files/1110100807_5Hints_960x664_a4791b0e-0b52-4346-acb4-71136f5ca226.png" alt="Junior No.02 hint 2" width="250"></a> |
+
+### No.03 — Enchanted Encounters!
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100808_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100808_1_2.png" alt="Junior No.03 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100808_4Hints_960x664_a18e480e-8836-4bba-bde5-45220eb18e55.png"><img src="https://wasgij.com/cdn/shop/files/1110100808_4Hints_960x664_a18e480e-8836-4bba-bde5-45220eb18e55.png" alt="Junior No.03 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100808_5Hints_960x664_e5681961-5fda-49b5-9c9e-26ea11484d8a.png"><img src="https://wasgij.com/cdn/shop/files/1110100808_5Hints_960x664_e5681961-5fda-49b5-9c9e-26ea11484d8a.png" alt="Junior No.03 hint 2" width="250"></a> |
+
+### No.04 — Alien Invasion!
+
+| Box image (main clue) | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| <a href="https://wasgij.com/cdn/shop/files/1110100908_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100908_1_2.png" alt="Junior No.04 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100908_4Hints_960x664_0a74b950-8fd4-457c-963a-7d82821912f3.png"><img src="https://wasgij.com/cdn/shop/files/1110100908_4Hints_960x664_0a74b950-8fd4-457c-963a-7d82821912f3.png" alt="Junior No.04 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100908_5Hints_960x664_b367364b-c3c2-4c26-893c-27bdc8302f68.png"><img src="https://wasgij.com/cdn/shop/files/1110100908_5Hints_960x664_b367364b-c3c2-4c26-893c-27bdc8302f68.png" alt="Junior No.04 hint 2" width="250"></a> |
 
 ## Mystery
 

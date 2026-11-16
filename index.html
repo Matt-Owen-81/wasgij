@@ -15,8 +15,8 @@
 const source='PUZZLE_COLLECTION.md';
 let puzzles=[],selected='All';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const seriesOrder=['Original','Back to…','Christmas','Destiny','Imagine…','Mystery','What if…'];
-const groupOrder=['150','500','1000'];
+const seriesOrder=['Original','Back to…','Christmas','Destiny','Imagine…','Junior','Mystery','What if…'];
+const groupOrder=['150','240','500','1000'];
 function images(block){
   const re=/<img\b[^>]*?\bsrc=["'](images\/[^"']+)["'][^>]*>|!\[[^\]]*\]\((images\/[^\r\n]*?\.jpg)\)/gi;
   return [...new Set([...block.matchAll(re)].map(m=>m[1]||m[2]))];
