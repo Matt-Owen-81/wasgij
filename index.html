@@ -15,8 +15,8 @@
 const source='PUZZLE_COLLECTION.md';
 let puzzles=[],selected='All';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const seriesOrder=['Original','Back to…','Christmas','Destiny','Imagine…','Junior','Mystery','What if…'];
-const groupOrder=['150','240','500','1000'];
+const seriesOrder=['Original','Back to…','Christmas','Destiny','Imagine…','Junior','Mystery','Pieces of Evidence','What if…'];
+const groupOrder=['150','240','500','1000','500/500/1000'];
 function images(block){
   const re=/<img\b[^>]*?\bsrc=["'](images\/[^"']+)["'][^>]*>|!\[[^\]]*\]\((images\/[^\r\n]*?\.jpg)\)/gi;
   return [...new Set([...block.matchAll(re)].map(m=>m[1]||m[2]))];
@@ -123,7 +123,7 @@ async function init(){
     const [cat,hints]=await Promise.all(['catalogue.csv','HINTS_COLLECTION.md'].map(async path=>{const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error('Unable to load '+path);return r.text();}));
     puzzles=addCatalogue(puzzles,cat,hints);
     document.getElementById('stats').innerHTML=[['Owned',ownedCount],['Completed',done],['Remaining',ownedCount-done]].map(([label,n])=>'<div class="stat"><strong>'+n+'</strong><span>'+label+'</span></div>').join('');
-    document.getElementById('piece-options').innerHTML='<label><input type="checkbox" id="all-pieces" checked> All piece counts</label>'+ordered(puzzles.map(p=>p.group),groupOrder).map(g=>'<label><input type="checkbox" data-group value="'+esc(g)+'" checked> '+(g==='1000'?'1000 (incl. 1500)':g==='Unknown'?'Unknown piece count':esc(g))+'</label>').join('');
+    document.getElementById('piece-options').innerHTML='<label><input type="checkbox" id="all-pieces" checked> All piece counts</label>'+ordered(puzzles.map(p=>p.group),groupOrder).map(g=>'<label><input type="checkbox" data-group value="'+esc(g)+'" checked> '+(g==='1000'?'1000 (incl. 1500)':g==='500/500/1000'?'500/500/1000 (mixed set)':g==='Unknown'?'Unknown piece count':esc(g))+'</label>').join('');
     const series=['All',...ordered(puzzles.map(p=>p.series),seriesOrder)];
     document.getElementById('nav').innerHTML=series.map(s=>'<button data-series="'+esc(s)+'" class="'+(s==='All'?'active':'')+'" aria-pressed="'+(s==='All')+'">'+esc(s)+'</button>').join('');
     document.getElementById('nav').addEventListener('click',e=>{if(e.target.tagName!=='BUTTON')return;selected=e.target.dataset.series;document.querySelectorAll('#nav button').forEach(b=>{b.classList.toggle('active',b===e.target);b.setAttribute('aria-pressed',String(b===e.target))});render()});render();
