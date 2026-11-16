@@ -462,6 +462,14 @@ The series will be grouped here by puzzle artwork, regardless of edition or piec
 
 **Hints:** None available.
 
+### No.03 — Barbers And Beehives
+
+Manufacturer item number: 19147.
+
+<a href="https://web.archive.org/web/20171213144348/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Back_to_3_Home_Page_Promo.png"><img src="https://web.archive.org/web/20171213144348/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Back_to_3_Home_Page_Promo.png" alt="Barbers And Beehives reference image" width="250"></a>
+
+**Hints:** None available.
+
 ## Christmas
 
 The Christmas series is grouped here by puzzle artwork, regardless of edition or piece count. Christmas Advent Calendar editions are excluded.
@@ -933,7 +941,41 @@ The series is grouped by puzzle artwork. This historical image is from the archi
 
 ### No.01 — ...If Labour wins the General Election!
 
+Manufacturer item number: 19107.
+
 <a href="https://web.archive.org/web/20150425012658/http://www.wasgij.co.uk/images/uploads/puzzles/Labour_Thumbnail_Collections.png"><img src="https://web.archive.org/web/20150425012658/http://www.wasgij.co.uk/images/uploads/puzzles/Labour_Thumbnail_Collections.png" alt="Imagine If Labour wins the General Election archived image" width="250"></a>
+
+**Hints:** None available.
+
+### No.01 — ...If the Conservatives win the General Election!
+
+Manufacturer item number: 19108. Shared promotional image showing all three election variants.
+
+<a href="https://web.archive.org/web/20150827005251/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Imagine_Election_Home_Page_Concept.png"><img src="https://web.archive.org/web/20150827005251/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Imagine_Election_Home_Page_Concept.png" alt="...If the Conservatives win the General Election! reference image" width="250"></a>
+
+**Hints:** None available.
+
+### No.01 — ...If the Liberal Democrats win the General Election!
+
+Manufacturer item number: 19106. Shared promotional image showing all three election variants.
+
+<a href="https://web.archive.org/web/20150827005251/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Imagine_Election_Home_Page_Concept.png"><img src="https://web.archive.org/web/20150827005251/http://www.wasgij.co.uk/images/uploads/home-concept-promos/Imagine_Election_Home_Page_Concept.png" alt="...If the Liberal Democrats win the General Election! reference image" width="250"></a>
+
+**Hints:** None available.
+
+### No.02 — If The Wheel Had Not Been Invented
+
+Manufacturer item number: 19132.
+
+<a href="http://www.wasgij.co.uk/images/uploads/puzzles/Wasgij_Imagine_2_Thumbnail.png"><img src="http://www.wasgij.co.uk/images/uploads/puzzles/Wasgij_Imagine_2_Thumbnail.png" alt="If The Wheel Had Not Been Invented reference image" width="250"></a>
+
+**Hints:** None available.
+
+### No.03 — Slumber Party
+
+Manufacturer item number: 19142.
+
+<a href="http://www.wasgij.co.uk/images/uploads/puzzles/Imagine_3_Thumbnail.png"><img src="http://www.wasgij.co.uk/images/uploads/puzzles/Imagine_3_Thumbnail.png" alt="Slumber Party reference image" width="250"></a>
 
 **Hints:** None available.
 
@@ -1210,7 +1252,13 @@ The series will be grouped here by puzzle artwork, regardless of edition or piec
 
 **Hints:** None available.
 
-### No.02 — Dinosaurs Still Existed
+### No.02 — What if Dinosaurs Still Existed?
+
+Manufacturer item number: 17409.
+
+<a href="https://web.archive.org/web/20140530131155/http://www.wasgij.co.uk/images/uploads/home-concept-promos/What_If_2_Homae_Page_Banner.png"><img src="https://web.archive.org/web/20140530131155/http://www.wasgij.co.uk/images/uploads/home-concept-promos/What_If_2_Homae_Page_Banner.png" alt="What if No.02 promotional image" width="250"></a>
+
+Additional archived clue:
 
 <a href="https://web.archive.org/web/20140601074932/http://www.wasgij.co.uk/images/uploads/clues/What_If_2_No_Clue_Extra_Clues.jpg"><img src="https://web.archive.org/web/20140601074932/http://www.wasgij.co.uk/images/uploads/clues/What_If_2_No_Clue_Extra_Clues.jpg" alt="What if 2 archived image" width="250"></a>
 

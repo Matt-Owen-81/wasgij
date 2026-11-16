@@ -20,7 +20,9 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - JPEG, sRGB, full useful resolution, quality about 95–100%.
 
 ## Inventory and catalogue
-- Match by series + number + piece count, never number alone.
+- Match by series + number + piece count, never number alone; distinguish genuinely different artwork variants using title/variant and manufacturer Item Number where known (especially Imagine… No.01). Preserve existing archive filenames. For future same-number variant photos use a distinct variant identifier with matching inventory links.
+- Consolidate Retro reissues where series, number, title, artwork and piece count match; retain genuine different piece counts. Normalise 1000 + 1 Free Puzzle and equivalent packaging to 2x1000. Remove erroneous duplicate catalogue rows only after confirmation, preserving the original verified entry and date.
+- Christmas No.10 has a legacy owned filename and inventory piece count of 1000; reconcile it to 2x1000 in website display/join without renaming archive photos. Catalogue uses canonical 2x1000.
 - Every distinct box puzzle has exactly one row: Owned=Yes. Completed=Yes only with a matching standard puzzle photo, never from a restored-only image.
 - Multiple photos do not create extra rows. Report unmatched puzzle photos; do not invent ownership.
 - Update `inventory.csv` after any image addition, deletion or rename, and update README counts.
@@ -41,7 +43,7 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - Keep `HINTS_COLLECTION.md` aligned with display series, special labels and artwork titles; distinct 150-piece artwork gets its own entry. Never attach hints from a different artwork. Use archive box photos when official artwork is unavailable, explicitly label missing hints.
 - Keep archive identifiers intact; display 15th Anniversary Royal Knees-up under Destiny and retain collector's boxes and Efteling distinctions. Christmas No.05 uses That Warm Christmas Feeling.
 - Preserve collection heading hierarchy (### piece group, #### series, ##### puzzle) and matching official artwork comments. Website prefers matching official box artwork, falling back to archive box photos; Markdown keeps archive photos.
-- Website defaults to Owned; provide separate ownership (Owned, Not owned, All) and completion, piece-count, series and search filters. Join catalogue and owned records by series + number + piece count, not number alone. Unowned listings never enter inventory or owned/completed totals. Unknown piece counts remain explicitly unknown; do not invent editions.
+- Website defaults to Owned; provide separate ownership (Owned, Not owned, All) and completion, piece-count, series and search filters. Join catalogue and owned records by canonical series + number + piece count, plus artwork variant where necessary. Show manufacturer item numbers when available; label shared promotional artwork in hints. Unowned listings never enter inventory or owned/completed totals. Unknown piece counts remain explicitly unknown; do not invent editions.
 - Maintain explicit combined piece-count/series headings, all standard completion photos, and partial status. Validate counts, filter combinations, links and artwork matching when changing data or website.
 - Keep root `.nojekyll`; Pages publishes main/root with Actions enabled. After merge verify deployment targets latest main commit, not an old rerun; check Actions if site is stale. Do not change repository settings without approval.
 
