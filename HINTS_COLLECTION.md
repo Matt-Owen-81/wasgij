@@ -4,9 +4,9 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 ## Jump to a series
 
-[Original](#original) · [Back to…](#back-to) · [Christmas](#christmas) · [Destiny](#destiny) · [Imagine…](#imagine) · [Junior](#junior) · [Mystery](#mystery) · [What if…](#what-if)
+[Original](#original) · [Back to…](#back-to) · [Christmas](#christmas) · [Destiny](#destiny) · [Imagine…](#imagine) · [Junior](#junior) · [Mystery](#mystery) · [Pieces of Evidence](#pieces-of-evidence) · [What if…](#what-if)
 
-**Not included:** Pieces of Evidence and Christmas Advent Calendar puzzles.
+**Not included:** Christmas Advent Calendar puzzles.
 
 ## Original
 
@@ -1268,6 +1268,20 @@ The Mystery and Retro Mystery editions are grouped here by puzzle artwork, regar
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100703_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100703_1_2.png" alt="Mystery Efteling box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-1.jpg" alt="Mystery Efteling hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100703_Mystery-Efteling-Hint-2.jpg" alt="Mystery Efteling hint 2" width="250"></a> |
+
+## Pieces of Evidence
+
+### No.01 — The Last Voyage!
+
+**Pieces:** 500/500/1000 (one 500-piece Destiny, one 500-piece Original and one 1000-piece Mystery puzzle).
+
+<a href="https://wasgij.com/cdn/shop/files/1110100905_14_PF.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100905_14_PF.jpg" alt="The Last Voyage! box image" width="250"></a>
+
+| Puzzle | Hint 1 | Hint 2 |
+| --- | --- | --- |
+| Destiny (500 pieces) | <a href="https://wasgij.com/cdn/shop/files/1110100905_4Hints_1_960x684_2ee3fb97-d9fd-43c8-a382-63670276c792.png"><img src="https://wasgij.com/cdn/shop/files/1110100905_4Hints_1_960x684_2ee3fb97-d9fd-43c8-a382-63670276c792.png" alt="Destiny (500 pieces) hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100905_5Hints_1_960x684_10a8158c-93bf-4db6-b62a-be13dd47cb41.png"><img src="https://wasgij.com/cdn/shop/files/1110100905_5Hints_1_960x684_10a8158c-93bf-4db6-b62a-be13dd47cb41.png" alt="Destiny (500 pieces) hint 2" width="250"></a> |
+| Original (500 pieces) | <a href="https://wasgij.com/cdn/shop/files/1110100905_4Hints_2_960x684_d57e30a5-8b8a-47d3-816c-4b3e50506b1a.png"><img src="https://wasgij.com/cdn/shop/files/1110100905_4Hints_2_960x684_d57e30a5-8b8a-47d3-816c-4b3e50506b1a.png" alt="Original (500 pieces) hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100905_5Hints_2_960x684_99dfcd4f-aa8b-45d1-9347-1320bf212e66.png"><img src="https://wasgij.com/cdn/shop/files/1110100905_5Hints_2_960x684_99dfcd4f-aa8b-45d1-9347-1320bf212e66.png" alt="Original (500 pieces) hint 2" width="250"></a> |
+| Mystery (1000 pieces) | <a href="https://wasgij.com/cdn/shop/files/1110100905_4Hints_3_960x684_a4d66927-864e-4cc2-92c3-696b4b20f14f.png"><img src="https://wasgij.com/cdn/shop/files/1110100905_4Hints_3_960x684_a4d66927-864e-4cc2-92c3-696b4b20f14f.png" alt="Mystery (1000 pieces) hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/1110100905_5Hints_3_960x684_f28769ff-d233-47dd-a1c3-e89d19292e63.png"><img src="https://wasgij.com/cdn/shop/files/1110100905_5Hints_3_960x684_f28769ff-d233-47dd-a1c3-e89d19292e63.png" alt="Mystery (1000 pieces) hint 2" width="250"></a> |
 
 ## What if…
 
