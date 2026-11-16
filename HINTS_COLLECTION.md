@@ -6,7 +6,7 @@ Browse by series using the links below. The **box image is the main clue**, foll
 
 [Original](#original) · [Back to…](#back-to) · [Christmas](#christmas) · [Destiny](#destiny) · [Imagine…](#imagine) · [Junior](#junior) · [Mystery](#mystery) · [What if…](#what-if)
 
-**Not included:** Pieces of Evidence and Christmas Advent Calendar puzzles.
+**Not included:** Pieces of Evidence puzzles.
 
 ## Original
 
@@ -472,7 +472,7 @@ Manufacturer item number: 19147.
 
 ## Christmas
 
-The Christmas series is grouped here by puzzle artwork, regardless of edition or piece count. Christmas Advent Calendar editions are excluded.
+The Christmas series is grouped here by puzzle artwork, regardless of edition or piece count. Christmas Advent Calendar editions are included separately by year.
 
 ### No.01 — Special Delivery
 
@@ -649,6 +649,30 @@ The Christmas series is grouped here by puzzle artwork, regardless of edition or
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
 | <a href="https://wasgij.com/cdn/shop/files/1110100904_1_2.png"><img src="https://wasgij.com/cdn/shop/files/1110100904_1_2.png" alt="Christmas 22 box image" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_2.png"><img src="https://wasgij.com/cdn/shop/files/111010_2.png" alt="Christmas 22 hint 1" width="250"></a> | <a href="https://wasgij.com/cdn/shop/files/111010_4.png"><img src="https://wasgij.com/cdn/shop/files/111010_4.png" alt="Christmas 22 hint 2" width="250"></a> |
+
+### Advent Calendar 2026 — Christmas TV Special
+
+**Pieces:** 24x54 (24 individual 54-piece puzzles).
+
+<a href="https://wasgij.com/cdn/shop/files/1110100907_14_PF.jpg"><img src="https://wasgij.com/cdn/shop/files/1110100907_14_PF.jpg" alt="Christmas TV Special 2026 Advent Calendar box image" width="250"></a>
+
+**Hints:** None supplied.
+
+### Advent Calendar 2025 — Reindeer Rumpus!
+
+**Pieces:** 24x54 (24 individual 54-piece puzzles).
+
+<a href="https://wasgij.com/cdn/shop/files/1110100707_F_14.png"><img src="https://wasgij.com/cdn/shop/files/1110100707_F_14.png" alt="Reindeer Rumpus! 2025 Advent Calendar box image" width="250"></a>
+
+**Hints:** None supplied.
+
+### Advent Calendar 2024 — Look out Below!
+
+**Pieces:** 24x54 (24 individual 54-piece puzzles).
+
+<a href="https://wasgij.com/cdn/shop/files/1110101658_F_14_CAT_PNG.png"><img src="https://wasgij.com/cdn/shop/files/1110101658_F_14_CAT_PNG.png" alt="Look out Below! 2024 Advent Calendar box image" width="250"></a>
+
+**Hints:** None supplied.
 
 ## Destiny
 
