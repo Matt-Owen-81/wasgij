@@ -49,6 +49,8 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 
 - Within each piece-count and series group, sort numeric puzzle numbers ascending regardless of ownership; place special and descriptive entries afterwards, with deterministic natural ordering. Preserve this order under all filters.
 
+- Piece-count filtering uses independent checkboxes, all selected initially, with a select-all checkbox and indeterminate state. No selected groups shows no results. Label the 1000 group `1000 (incl. 1500)`; preserve actual individual piece counts and existing grouping. Other filters must combine with the selected groups.
+
 ## Image workflows — default handoff
 1. Identify series, number, piece count and duplicate status. For a new box, look up title in catalogue; if absent check the complete official archive and add verified missing entries with discovery date. If still absent ask user for title; never guess. For a puzzle photo, match an owned box or flag unmatched.
 2. Enhance the photo, preserving the original. Supply downloadable JPEG(s) with exact archive filenames. For missing pieces supply standard and separately restored images.
