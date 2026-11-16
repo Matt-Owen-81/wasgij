@@ -45,6 +45,8 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - Maintain explicit combined piece-count/series headings, all standard completion photos, and partial status. Validate counts, filter combinations, links and artwork matching when changing data or website.
 - Keep root `.nojekyll`; Pages publishes main/root with Actions enabled. After merge verify deployment targets latest main commit, not an old rerun; check Actions if site is stale. Do not change repository settings without approval.
 
+- Within each piece-count and series group, sort numeric puzzle numbers ascending regardless of ownership; place special and descriptive entries afterwards, with deterministic natural ordering. Preserve this order under all filters.
+
 ## Image workflows — default handoff
 1. Identify series, number, piece count and duplicate status. For a new box, look up title in catalogue; if absent check the complete official archive and add verified missing entries with discovery date. If still absent ask user for title; never guess. For a puzzle photo, match an owned box or flag unmatched.
 2. Enhance the photo, preserving the original. Supply downloadable JPEG(s) with exact archive filenames. For missing pieces supply standard and separately restored images.
