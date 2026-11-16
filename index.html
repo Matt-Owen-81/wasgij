@@ -70,6 +70,11 @@ function addCatalogue(owned,cat,hints){
 }
 function imgUrl(path){return new URL(path,document.baseURI).href}
 function ordered(values,order){return [...new Set(values)].sort((a,b)=>(order.includes(a)?order.indexOf(a):order.length)-(order.includes(b)?order.indexOf(b):order.length)||a.localeCompare(b))}
+function puzzleOrder(a,b){
+  const numeric=p=>/^\d+$/.test(p.number)&&!/^Special\b/i.test(p.heading);
+  if(numeric(a)!==numeric(b))return numeric(a)?-1:1;
+  return (numeric(a)?Number(a.number)-Number(b.number):a.heading.localeCompare(b.heading,'en',{numeric:true}))||a.pieces.localeCompare(b.pieces,'en',{numeric:true})||a.title.localeCompare(b.title,'en',{numeric:true});
+}
 function card(p){
   const box=p.photos.find(x=>x.includes('/box/')),fallback=box?imgUrl(box):'',cover=p.hintBox||fallback;
   const completed=p.photos.filter(x=>x.includes('/puzzle/'));
@@ -90,7 +95,7 @@ function render(){
     return '<section class="piece-group"><h2>'+(group==='Unknown'?'Unknown piece count':esc(group)+'-piece puzzles')+' <small>'+items.length+' puzzles</small></h2>'+
       (group==='1000'?'<p class="group-note">Includes multi-puzzle editions and Original No.22 (1500 pieces).</p>':'')+
       ordered(items.map(p=>p.series),seriesOrder).map(series=>{
-        const entries=items.filter(p=>p.series===series);
+        const entries=items.filter(p=>p.series===series).sort(puzzleOrder);
         return '<section class="series"><h3>'+(group==='Unknown'?'Unknown piece count':esc(group)+' pieces')+' — '+esc(series)+' <small>'+entries.length+' puzzle'+(entries.length===1?'':'s')+'</small></h3><div class="grid">'+entries.map(card).join('')+'</div></section>';
       }).join('')+'</section>';
   }).join(''):'<div class="empty">No puzzles match your filters.</div>';
