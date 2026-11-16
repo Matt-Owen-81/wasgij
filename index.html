@@ -3,24 +3,98 @@
 <title>Wasgij Puzzle Collection</title><meta name="description" content="An illustrated collection of owned and completed Wasgij puzzles.">
 <style>
 :root{font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#1d2934;background:#f4f7fa}*{box-sizing:border-box}body{margin:0}header{background:linear-gradient(125deg,#16385c,#187b8c);color:white;padding:3.5rem max(1rem,calc((100vw - 1150px)/2)) 2.5rem}h1{font-size:clamp(2rem,5vw,3.4rem);margin:.2rem 0}.subtitle{opacity:.9;max-width:60ch}.wrap{max-width:1150px;margin:auto;padding:1.5rem 1rem 4rem}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:-3rem 0 2rem;position:relative}.stat{background:white;border-radius:16px;padding:1.3rem;box-shadow:0 6px 24px #18334d19}.stat strong{display:block;font-size:2rem;color:#145d79}.stat span{color:#526576}.toolbar{display:flex;gap:.75rem;flex-wrap:wrap;align-items:center;margin:1.5rem 0}.toolbar input,.toolbar select{border:1px solid #cdd7df;border-radius:10px;padding:.8rem;background:white;font:inherit;min-width:190px;flex:1}.series-nav{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1.5rem}.series-nav button{border:1px solid #bfd2dd;background:white;border-radius:100px;padding:.55rem .85rem;cursor:pointer}.series-nav button.active{background:#145d79;color:white;border-color:#145d79}.series{margin:2rem 0}.series h2{font-size:1.55rem;margin:0 0 1rem}.series h2 small{font-size:.85rem;font-weight:normal;color:#526576}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1rem}.card{background:white;border-radius:16px;overflow:hidden;box-shadow:0 3px 14px #18334d14;display:flex;flex-direction:column}.cover{background:#e8edf1;aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;overflow:hidden}.cover img{width:100%;height:100%;object-fit:contain}.body{padding:1rem;flex:1}.body h3{font-size:1.05rem;margin:.5rem 0}.meta{color:#60717f;font-size:.9rem}.badge{display:inline-block;border-radius:99px;padding:.25rem .65rem;font-size:.78rem;font-weight:700;background:#fff0d4;color:#875600}.badge.done{background:#d9f4e6;color:#11603a}.photos{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:.9rem}.photos a{font-size:.82rem;color:#12617d}.empty{padding:2rem;background:white;border-radius:14px}footer{color:#667987;text-align:center;padding:2rem}.error{color:#9b2e27}a{color:#145d79}@media(max-width:600px){.stats{gap:.5rem}.stat{padding:.8rem}.stat strong{font-size:1.6rem}.stat span{font-size:.78rem}header{padding-bottom:4rem}}
+.piece-group{margin:2.5rem 0}.piece-group>h2{font-size:1.85rem;border-bottom:2px solid #bfd2dd;padding-bottom:.6rem;margin-bottom:.4rem}.piece-group h2 small,.series h3 small{font-size:.85rem;font-weight:normal;color:#526576}.series h3{font-size:1.35rem;margin:0 0 1rem}.body h4{font-size:1.05rem;margin:.5rem 0}.group-note,.artwork-source{color:#60717f;font-size:.85rem}.artwork-source{margin-top:.35rem}.group-note{margin:0 0 1.2rem}
 </style></head><body>
-<header><h1>🧩 Wasgij Puzzle Collection</h1><p class="subtitle">A visual catalogue of my Wasgij puzzles, including box artwork and completed puzzles. Updated from my GitHub archive.</p></header>
+<header><h1>🧩 Wasgij Puzzle Collection</h1><p class="subtitle">A visual catalogue of my Wasgij puzzles, including box artwork and completed puzzles. Organised by piece count and series. Reference box artwork comes from the hints collection where available; completed photographs are from my GitHub archive.</p></header>
 <main class="wrap"><div id="stats" class="stats"><div class="stat"><strong>—</strong><span>Owned</span></div><div class="stat"><strong>—</strong><span>Completed</span></div><div class="stat"><strong>—</strong><span>Remaining</span></div></div>
-<div class="toolbar"><input id="search" type="search" placeholder="Search titles, numbers or series…" aria-label="Search puzzles"><select id="status" aria-label="Completion filter"><option value="all">All puzzles</option><option value="completed">Completed</option><option value="remaining">Not completed</option><option value="partial">Partially completed</option></select></div>
+<div class="toolbar"><input id="search" type="search" placeholder="Search titles, numbers or series…" aria-label="Search puzzles"><select id="status" aria-label="Completion filter"><option value="all">All puzzles</option><option value="completed">Completed</option><option value="remaining">Not completed</option><option value="partial">Partially completed</option></select><select id="pieces" aria-label="Piece-count filter"><option value="all">All piece counts</option></select></div>
 <nav id="nav" class="series-nav" aria-label="Filter by series"></nav><div id="collection" aria-live="polite">Loading collection…</div></main>
-<footer>Collection data and photographs are maintained in the <a href="https://github.com/Matt-Owen-81/wasgij">Wasgij archive</a>.</footer>
+<footer>Reference artwork: <a href="HINTS_COLLECTION.md">hints collection</a>. Collection data and photographs are maintained in the <a href="https://github.com/Matt-Owen-81/wasgij">Wasgij archive</a>.</footer>
 <script>
-const source='https://raw.githubusercontent.com/Matt-Owen-81/wasgij/main/PUZZLE_COLLECTION.md';
-const imageBase='https://raw.githubusercontent.com/Matt-Owen-81/wasgij/main/';
+const source='PUZZLE_COLLECTION.md';
 let puzzles=[],selected='All';
-const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function images(block){const found=[];const re=/<img\b[^>]*?src=["']([^"']+)["'][^>]*>|!\[[^\]]*\]\(([^)]+(?:\)[^)]*)?)\)/gi;let m;while((m=re.exec(block))){const path=(m[1]||m[2]).replace(/&amp;/g,'&');if(path.startsWith('images/')&&!found.includes(path))found.push(path)}return found}
-function parse(md){const lines=md.split(/\r?\n/);let series='',item=null,buffer=[];const out=[];function flush(){if(!item)return;const body=buffer.join('\n');const field=k=>{const m=body.match(new RegExp('^\\|\\s*'+k+'\\s*\\|\\s*(.*?)\\s*\\|','im'));return m?m[1].replace(/\*\*/g,'').trim():''};item.title=field('Title')||item.title;item.pieces=field('Number of pieces');item.status=field('Status')||'Not completed';item.photos=images(body);out.push(item);item=null;buffer=[]}
-for(const line of lines){if(/^### /.test(line)){flush();series=line.slice(4).trim()}else if(/^#### /.test(line)){flush();const heading=line.slice(5).trim();item={series,number:heading.match(/^No\.([^\s]+)/)?.[1]||'',title:heading.replace(/^No\.[^\s]+\s*[—–-]\s*/,'')};}else if(item)buffer.push(line)}flush();return out}
-function imgUrl(path){return imageBase+path.split('/').map(encodeURIComponent).join('/').replace(/%25([0-9A-F]{2})/gi,'%$1')}
-function render(){const query=document.getElementById('search').value.toLowerCase(),status=document.getElementById('status').value;const visible=puzzles.filter(p=>(selected==='All'||p.series===selected)&&[p.title,p.number,p.series,p.pieces].join(' ').toLowerCase().includes(query)&&(status==='all'||(status==='completed'&&/^completed$/i.test(p.status))||(status==='remaining'&&/not completed/i.test(p.status))||(status==='partial'&&/partial/i.test(p.status))));
-const groups=Object.groupBy?Object.groupBy(visible,p=>p.series):visible.reduce((a,p)=>((a[p.series]??=[]).push(p),a),{});
-document.getElementById('collection').innerHTML=visible.length?Object.entries(groups).map(([series,items])=>'<section class="series"><h2>'+esc(series)+' <small>'+items.length+' puzzle'+(items.length===1?'':'s')+'</small></h2><div class="grid">'+items.map(p=>{const box=p.photos.find(x=>x.includes('/box/'));const completed=p.photos.filter(x=>x.includes('/puzzle/'));const done=/^completed$/i.test(p.status);return '<article class="card"><a class="cover" '+(box?'href="'+esc(imgUrl(box))+'" target="_blank" rel="noopener"':'')+'>'+(box?'<img loading="lazy" src="'+esc(imgUrl(box))+'" alt="'+esc(p.title)+' box">':'<span>Box image unavailable</span>')+'</a><div class="body"><span class="badge '+(done?'done':'')+'">'+esc(p.status)+'</span><h3>No.'+esc(p.number)+' — '+esc(p.title)+'</h3><div class="meta">'+esc(p.pieces)+' pieces · '+esc(p.series)+'</div><div class="photos">'+completed.map((path,i)=>'<a href="'+esc(imgUrl(path))+'" target="_blank" rel="noopener">View completed photo'+(completed.length>1?' '+(i+1):'')+' ↗</a>').join('')+'</div></div></article>'}).join('')+'</div></section>').join(''):'<div class="empty">No puzzles match your filters.</div>'}
-async function init(){try{const res=await fetch(source);if(!res.ok)throw Error('Unable to load collection ('+res.status+')');puzzles=parse(await res.text());if(!puzzles.length)throw Error('No puzzle records found');const done=puzzles.filter(p=>/^completed$/i.test(p.status)).length;document.getElementById('stats').innerHTML=[['Owned',puzzles.length],['Completed',done],['Remaining',puzzles.length-done]].map(([label,n])=>'<div class="stat"><strong>'+n+'</strong><span>'+label+'</span></div>').join('');const series=['All',...new Set(puzzles.map(p=>p.series))];document.getElementById('nav').innerHTML=series.map(s=>'<button data-series="'+esc(s)+'" class="'+(s==='All'?'active':'')+'">'+esc(s)+'</button>').join('');document.getElementById('nav').addEventListener('click',e=>{if(e.target.tagName!=='BUTTON')return;selected=e.target.dataset.series;document.querySelectorAll('#nav button').forEach(b=>b.classList.toggle('active',b===e.target));render()});render()}catch(e){document.getElementById('collection').innerHTML='<p class="error">'+esc(e.message)+'. Please try again later.</p>'}}
-document.getElementById('search').addEventListener('input',render);document.getElementById('status').addEventListener('change',render);init();
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const seriesOrder=['Original','Back to…','Christmas','Destiny','Imagine…','Mystery','What if…'];
+const groupOrder=['150','500','1000'];
+function images(block){
+  const re=/<img\b[^>]*?\bsrc=["'](images\/[^"']+)["'][^>]*>|!\[[^\]]*\]\((images\/[^\r\n]*?\.jpg)\)/gi;
+  return [...new Set([...block.matchAll(re)].map(m=>m[1]||m[2]))];
+}
+function parse(md){
+  let group='',series='',item=null,buffer=[];const out=[];
+  function flush(){
+    if(!item)return;
+    const body=buffer.join('\n');
+    const field=k=>{const m=body.match(new RegExp('^\\|\\s*'+k+'\\s*\\|\\s*(.*?)\\s*\\|','im'));return m?m[1].replace(/\*\*/g,'').trim():''};
+    item.type=field('Type');item.number=field('Number');item.title=field('Title')||item.title;item.pieces=field('Number of pieces');
+    item.status=field('Status')||'Not completed';item.photos=images(body);
+    item.hintBox=body.match(/^<!-- Hint box image: (https:\/\/(?:wasgij\.com|web\.archive\.org)\/[^\s<>]+) -->$/m)?.[1]||'';
+    item.group=group|| (item.pieces==='150'?'150':item.pieces==='500'?'500':/^(?:[23]x)?1000$/.test(item.pieces)||(item.type==='Original'&&item.number==='22'&&item.pieces==='1500')?'1000':item.pieces);
+    item.done=item.photos.some(p=>p.includes('/puzzle/')&&/ - Puzzle\d*\.jpg$/i.test(decodeURIComponent(p)));
+    if(!item.type||!item.number||!item.pieces)throw Error('Incomplete record: '+item.heading);
+    out.push(item);item=null;buffer=[];
+  }
+  for(const line of md.split(/\r?\n/)){
+    if(/^### \d+-piece puzzles$/.test(line)){flush();group=line.match(/^### (\d+)/)[1];series=''}
+    else if(/^#### /.test(line)&&group){flush();series=line.slice(5).trim()}
+    else if(/^##### /.test(line)){flush();const heading=line.slice(6).trim();item={series,heading,title:heading.split(' — ').slice(1).join(' — ')}}
+    else if(item)buffer.push(line);
+  }
+  flush();return out;
+}
+function imgUrl(path){return new URL(path,document.baseURI).href}
+function ordered(values,order){return [...new Set(values)].sort((a,b)=>(order.includes(a)?order.indexOf(a):order.length)-(order.includes(b)?order.indexOf(b):order.length)||a.localeCompare(b))}
+function card(p){
+  const box=p.photos.find(x=>x.includes('/box/')),fallback=box?imgUrl(box):'',cover=p.hintBox||fallback;
+  const completed=p.photos.filter(x=>x.includes('/puzzle/'));
+  const partial=/partial/i.test(p.status);
+  return '<article class="card"><a class="cover" '+(cover?'href="'+esc(cover)+'" target="_blank" rel="noopener"':'')+'>'+
+    (cover?'<img loading="lazy" data-fallback="'+esc(fallback)+'" src="'+esc(cover)+'" alt="'+esc(p.title)+' box artwork">':'<span>Box image unavailable</span>')+
+    '</a><div class="body"><span class="badge '+(p.done&&!partial?'done':'')+'">'+esc(p.status)+'</span><h4>'+esc(p.heading)+'</h4><div class="meta">'+esc(p.pieces)+' pieces · '+esc(p.type)+'</div>'+
+    (p.hintBox?'<div class="meta artwork-source">Reference artwork</div>':'')+
+    '<div class="photos">'+completed.map((path,i)=>'<a href="'+esc(imgUrl(path))+'" target="_blank" rel="noopener">View completed photo'+(completed.length>1?' '+(i+1):'')+' ↗</a>').join('')+'</div></div></article>';
+}
+function render(){
+  const query=document.getElementById('search').value.toLowerCase(),status=document.getElementById('status').value,size=document.getElementById('pieces').value;
+  const visible=puzzles.filter(p=>(selected==='All'||p.series===selected)&&(size==='all'||p.group===size)&&[p.title,p.number,p.series,p.type,p.pieces,p.heading].join(' ').toLowerCase().includes(query)&&(status==='all'||(status==='completed'&&p.done)||(status==='remaining'&&!p.done)||(status==='partial'&&/partial/i.test(p.status))));
+  const container=document.getElementById('collection');
+  container.innerHTML=visible.length?ordered(visible.map(p=>p.group),groupOrder).map(group=>{
+    const items=visible.filter(p=>p.group===group);
+    return '<section class="piece-group"><h2>'+esc(group)+'-piece puzzles <small>'+items.length+' puzzles</small></h2>'+
+      (group==='1000'?'<p class="group-note">Includes multi-puzzle editions and Original No.22 (1500 pieces).</p>':'')+
+      ordered(items.map(p=>p.series),seriesOrder).map(series=>{
+        const entries=items.filter(p=>p.series===series);
+        return '<section class="series"><h3>'+esc(series)+' <small>'+entries.length+' puzzle'+(entries.length===1?'':'s')+'</small></h3><div class="grid">'+entries.map(card).join('')+'</div></section>';
+      }).join('')+'</section>';
+  }).join(''):'<div class="empty">No puzzles match your filters.</div>';
+  for(const img of container.querySelectorAll('.cover img')){
+    const handle=()=>{
+      const fallback=img.dataset.fallback;
+      if(fallback&&img.src!==fallback){
+        img.closest('a').href=fallback;img.src=fallback;
+        const note=img.closest('.card').querySelector('.artwork-source');if(note)note.textContent='Archive box photograph';
+      }else{
+        const link=img.closest('a');link.removeAttribute('href');const note=link.closest('.card').querySelector('.artwork-source');if(note)note.remove();link.textContent='Box image unavailable';
+      }
+    };
+    img.addEventListener('error',handle);
+    if(img.complete&&!img.naturalWidth)handle();
+  }
+}
+async function init(){
+  try{
+    const res=await fetch(source);if(!res.ok)throw Error('Unable to load collection ('+res.status+')');
+    puzzles=parse(await res.text());if(!puzzles.length)throw Error('No puzzle records found');
+    const done=puzzles.filter(p=>p.done).length;
+    document.getElementById('stats').innerHTML=[['Owned',puzzles.length],['Completed',done],['Remaining',puzzles.length-done]].map(([label,n])=>'<div class="stat"><strong>'+n+'</strong><span>'+label+'</span></div>').join('');
+    document.getElementById('pieces').innerHTML='<option value="all">All piece counts</option>'+ordered(puzzles.map(p=>p.group),groupOrder).map(g=>'<option value="'+esc(g)+'">'+esc(g)+' pieces</option>').join('');
+    const series=['All',...ordered(puzzles.map(p=>p.series),seriesOrder)];
+    document.getElementById('nav').innerHTML=series.map(s=>'<button data-series="'+esc(s)+'" class="'+(s==='All'?'active':'')+'" aria-pressed="'+(s==='All')+'">'+esc(s)+'</button>').join('');
+    document.getElementById('nav').addEventListener('click',e=>{if(e.target.tagName!=='BUTTON')return;selected=e.target.dataset.series;document.querySelectorAll('#nav button').forEach(b=>{b.classList.toggle('active',b===e.target);b.setAttribute('aria-pressed',String(b===e.target))});render()});render();
+  }catch(e){document.getElementById('collection').innerHTML='<p class="error">'+esc(e.message)+'. Please try again later.</p>'}
+}
+document.getElementById('search').addEventListener('input',render);
+document.getElementById('status').addEventListener('change',render);
+document.getElementById('pieces').addEventListener('change',render);
+init();
 </script></body></html>
