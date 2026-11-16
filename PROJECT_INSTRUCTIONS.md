@@ -21,7 +21,7 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 
 ## Inventory and catalogue
 - Match by series + number + piece count, never number alone; distinguish genuinely different artwork variants using title/variant and manufacturer Item Number where known (especially Imagine… No.01). Preserve existing archive filenames. For future same-number variant photos use a distinct variant identifier with matching inventory links.
-- Consolidate Retro reissues where series, number, title, artwork and piece count match; retain genuine different piece counts. Normalise 1000 + 1 Free Puzzle and equivalent packaging to 2x1000. Remove erroneous duplicate catalogue rows only after confirmation, preserving the original verified entry and date.
+- Consolidate Retro reissues into the non-Retro series where base series, number, title, artwork and piece count match; ignore case and trailing title punctuation differences. Retain genuine different piece counts, including standalone 1000-piece Retro editions whose standard edition is 2x1000. Apply this rule during catalogue refreshes. Normalise 1000 + 1 Free Puzzle and equivalent packaging to 2x1000. Remove erroneous duplicate catalogue rows only after confirmation, preserving the original verified entry and date.
 - Christmas No.10 has a legacy owned filename and inventory piece count of 1000; reconcile it to 2x1000 in website display/join without renaming archive photos. Catalogue uses canonical 2x1000.
 - Every distinct box puzzle has exactly one row: Owned=Yes. Completed=Yes only with a matching standard puzzle photo, never from a restored-only image.
 - Multiple photos do not create extra rows. Report unmatched puzzle photos; do not invent ownership.
