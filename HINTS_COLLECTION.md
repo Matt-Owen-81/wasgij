@@ -1,6 +1,6 @@
 # Wasgij hints collection
 
-Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. Official reference images link externally; historical 150-piece editions without official artwork use archive box photographs. Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork. This page is a reference for puzzle hints, independent of collection ownership; ownership and edition details are maintained in `inventory.csv` and `catalogue.csv`.
+Browse by series using the links below. The **box image is the main clue**, followed by Hint 1 and Hint 2. Official reference images link externally; only owned 150-piece editions are included; those without official artwork use archive box photographs. Original, Mystery and Destiny editions (including Retro reissues and different piece counts) share one hint entry per matching artwork. This page is a reference for puzzle hints, independent of collection ownership; ownership and edition details are maintained in `inventory.csv` and `catalogue.csv`.
 
 ## Jump to a series
 

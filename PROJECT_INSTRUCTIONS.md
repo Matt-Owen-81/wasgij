@@ -40,6 +40,7 @@ Keep these instructions identical in ChatGPT Project settings and GitHub `PROJEC
 - Update README totals and `PUZZLE_COLLECTION.md` in the same PR as inventory/image changes; check counts and links.
 
 ## Website and hints — mandatory synchronisation
+- Scope exception: catalogue and hints include 150-piece editions only when owned, as evidenced by inventory and box photos. Do not research or add unowned 150-piece editions during catalogue refreshes; retain existing owned editions and add newly owned ones normally. This exception overrides the general requirement to retain unowned catalogue entries.
 - Pieces of Evidence No.01 is one boxed set with piece count `500/500/1000` (Destiny 500, Original 500, Mystery 1000), not three catalogue entries. Include its own mixed-set filter and all six hints grouped by component series.
 - Include Christmas Advent Calendars as separate year-qualified entries (`Advent Calendar YYYY`) with piece count `24x54`, title and supplied publisher box artwork; keep them distinct from standard numbered Christmas puzzles. Do not invent hints.
 - Include Junior 240-piece puzzles in the hints reference and website, with matching box artwork and both official hints where available. Sort piece-count groups 150, 240, 500, 1000, then other groups.
