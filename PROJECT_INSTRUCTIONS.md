@@ -1,87 +1,57 @@
 # Wasgij Archive — Project Instructions
-
-Keep these instructions identical in ChatGPT Project settings and GitHub `PROJECT_INSTRUCTIONS.md`. GitHub repository: `Matt-Owen-81/wasgij`; default branch: `main`.
+Keep identical in ChatGPT Project settings and GitHub PROJECT_INSTRUCTIONS.md. Repo Matt-Owen-81/wasgij, main.
 
 ## Archive
-- GitHub is the authoritative collection.
-- `images/box/`: box photos establish ownership.
-- `images/puzzle/`: standard completed-puzzle photos establish completion.
-- `inventory.csv`: one row per owned (series, number, piece count), with title, Owned and Completed.
-- `catalogue.csv`: growing title reference containing publisher-verified and user-supplied entries, including a `Date Added` column. It is not a complete official catalogue.
-- `README.md`: archive overview, counts and workflows.
-- `PUZZLE_COLLECTION.md`: illustrated owned-puzzle catalogue grouped by piece count then series; derive counts and images from inventory and archive.
+GitHub is authoritative. images/box establishes ownership; images/puzzle standard photos establish completion. inventory.csv records owned boxes; catalogue.csv is a growing verified/user-supplied reference, not exhaustive. README.md covers counts/workflows; PUZZLE_COLLECTION.md illustrates owned puzzles; HINTS_COLLECTION.md holds reference artwork/hints; index.html is the website.
+- Identity: series+number+piece count, never number alone. Distinguish genuine artwork variants by title/variant and Item Number where known (Imagine… No.01). Preserve filenames; future variant photos need distinct identifiers and matching inventory links.
+- Consolidate Retro into base series when number, artwork, title and pieces match (ignore case/trailing punctuation); also merge 1000 Retro matching main artwork of non-Retro 2x1000. Preserve other piece counts. Normalise 1000 + 1 Free Puzzle to 2x1000. Confirm erroneous duplicate removals, retain verified entry/date.
+- Christmas No.10: catalogue/site canonical 2x1000; retain legacy inventory/filename 1000.
+- One inventory row per distinct owned box, Owned=Yes. Completed=Yes only with matching standard photo, never restored-only. Multiple photos count once; flag unmatched photos; never invent ownership.
 
 ## Filenames
-- `Wasgij - [Series] - No.[Number] ([Pieces]) - Box.jpg`
-- `Wasgij - [Series] - No.[Number] ([Pieces]) - Puzzle.jpg`
-- Missing-piece restoration: `... - Puzzle (Restore pieces).jpg`.
-- Multiple photos: retain `Puzzle1.jpg`, `Puzzle2.jpg`, etc.; discover and link every actual standard puzzle photo, even if `Puzzle.jpg` is absent. Never assume a single default image.
-- Pad numeric numbers to at least two digits (`No.01`); preserve descriptive identifiers (`No.Volume1`, `No.Efteling`) and existing series spelling.
-- JPEG, sRGB, full useful resolution, quality about 95–100%.
+- Wasgij - [Series] - No.[Number] ([Pieces]) - Box.jpg
+- Wasgij - [Series] - No.[Number] ([Pieces]) - Puzzle.jpg
+- Restoration: ... - Puzzle (Restore pieces).jpg
+- Keep Puzzle1.jpg, Puzzle2.jpg etc.; discover/link ALL actual standard photos even without Puzzle.jpg.
+- Pad numeric numbers to two digits minimum; preserve descriptive identifiers (No.Volume1, No.Efteling) and series spelling. JPEG, sRGB, full useful resolution, quality 95–100%.
 
-## Inventory and catalogue
-- Match by series + number + piece count, never number alone; distinguish genuinely different artwork variants using title/variant and manufacturer Item Number where known (especially Imagine… No.01). Preserve existing archive filenames. For future same-number variant photos use a distinct variant identifier with matching inventory links.
-- Consolidate Retro reissues into the non-Retro series where base series, number, title, artwork and piece count match; ignore case and trailing title punctuation differences. Retain genuine different piece counts, except where a 1000-piece Retro reissue contains the same main puzzle as a non-Retro 2x1000 edition; consolidate under the non-Retro 2x1000 entry. Apply this rule during catalogue refreshes. Normalise 1000 + 1 Free Puzzle and equivalent packaging to 2x1000. Remove erroneous duplicate catalogue rows only after confirmation, preserving the original verified entry and date.
-- Christmas No.10 has a legacy owned filename and inventory piece count of 1000; reconcile it to 2x1000 in website display/join without renaming archive photos. Catalogue uses canonical 2x1000.
-- Every distinct box puzzle has exactly one row: Owned=Yes. Completed=Yes only with a matching standard puzzle photo, never from a restored-only image.
-- Multiple photos do not create extra rows. Report unmatched puzzle photos; do not invent ownership.
-- Update `inventory.csv` after any image addition, deletion or rename, and update README counts.
-- When a new box photo is uploaded, add the owned puzzle to inventory even if its title is unknown. First look up the title in `catalogue.csv` by series + number + compatible edition/piece count. If missing, review the full available official Wasgij catalogue (including paginated archive and current listings), not just the individual puzzle. Add every newly discovered, reliably identified listing missing from `catalogue.csv`, recording source and current `Date Added` (YYYY-MM-DD); avoid duplicates and distinguish editions/piece counts. Recheck the uploaded puzzle against the refreshed catalogue. If absent from the official site, ask the user for the title; once supplied, add it to `catalogue.csv` with source `User supplied` and current `Date Added`. Do not guess a title. Leave inventory title blank and flag it as pending until confirmed.
-- Set `Date Added` for the 173 entries first discovered on 2026-10-25 to `2026-10-25`. For future entries use the actual discovery/addition date; do not invent dates. Keep all catalogue entries, including unowned puzzles. Do not rename images solely based on catalogue data.
+## Catalogue
+- Only owned 150-piece editions in catalogue/hints; no unowned mini research/additions. Retain other unowned listings.
+- New box: add inventory even if title unknown. Check catalogue by identity/compatible edition. If absent, review full official Wasgij archive (all pages/current listings), add every reliably identified missing in-scope listing with source and Date Added (YYYY-MM-DD); distinguish editions/deduplicate. Recheck title; if still absent ask user, add as User supplied when confirmed. Never guess; leave pending title blank.
+- First 173 discoveries dated 2026-10-25; future entries actual discovery/addition date, never invented. Do not rename images solely from catalogue.
+- Update inventory, README counts and illustrated collection together after image additions/deletions/renames or ownership/completion/metadata changes.
 
-## Illustrated puzzle collection — mandatory synchronisation
-- Maintain `PUZZLE_COLLECTION.md` in the repository root whenever ownership, completion, series, number, title, piece count, notes, or image filenames change. Do this in the same feature branch and pull request as the underlying change.
-- Section 1: owned, completed and remaining by piece-count group and display series, plus totals calculated from `inventory.csv`.
-- Section 2: group owned puzzles by 150, 500, 1000 pieces, then series in hints order; include Original No.22 (1500) and 2x1000/3x1000 in the 1000 group; one entry per series + number + piece count, with Type, Number, Title, Pieces, Status and optional notes.
-- Embed each owned puzzle's box photograph from `images/box/`, displayed at 50% width using GitHub-compatible HTML. Keep it clickable to open the full-size original.
-- For completed puzzles, embed ALL matching standard photos from `images/puzzle/` at existing/full width (`Puzzle.jpg`, `Puzzle1.jpg`, `Puzzle2.jpg`, etc.). Exclude restored-only images and omit this section for unfinished puzzles. Multiple photos count as one completed puzzle.
-- Use relative links matching exact image filenames; verify rendering in PR preview.
-- Preserve distinctions between collector's boxes, 150-piece editions and similarly numbered puzzles. Do not list unowned catalogue entries as owned.
-- Update README totals and `PUZZLE_COLLECTION.md` in the same PR as inventory/image changes; check counts and links.
+## Illustrated collection
+- PUZZLE_COLLECTION.md section 1: owned/completed/remaining by piece group and display series, plus inventory totals. Section 2: grouped by pieces then hints series order. Heading hierarchy ### group, #### series, ##### puzzle.
+- One entry per owned identity: Type, Number, Title, Pieces, Status, optional notes. Preserve collector's boxes, variants and minis; exclude unowned.
+- Actual box photo clickable at 50% width via GitHub HTML. Embed ALL matching standard puzzle photos full/existing width; exclude restored-only, omit for unfinished. Exact relative paths; verify links/rendering/counts in PR.
+- 1000 group includes 2x1000, 3x1000, Original No.22 (1500); retain actual counts. Group order 150, 240, 500, 1000, then others.
 
-## Website and hints — mandatory synchronisation
-- Scope exception: catalogue and hints include 150-piece editions only when owned, as evidenced by inventory and box photos. Do not research or add unowned 150-piece editions during catalogue refreshes; retain existing owned editions and add newly owned ones normally. This exception overrides the general requirement to retain unowned catalogue entries.
-- Pieces of Evidence No.01 is one boxed set with piece count `500/500/1000` (Destiny 500, Original 500, Mystery 1000), not three catalogue entries. Include its own mixed-set filter and all six hints grouped by component series.
-- Include Christmas Advent Calendars as separate year-qualified entries (`Advent Calendar YYYY`) with piece count `24x54`, title and supplied publisher box artwork; keep them distinct from standard numbered Christmas puzzles. Do not invent hints.
-- Include Junior 240-piece puzzles in the hints reference and website, with matching box artwork and both official hints where available. Sort piece-count groups 150, 240, 500, 1000, then other groups.
-- Keep `HINTS_COLLECTION.md` aligned with display series, special labels and artwork titles; distinct 150-piece artwork gets its own entry. Never attach hints from a different artwork. Use archive box photos when official artwork is unavailable, explicitly label missing hints.
-- Keep archive identifiers intact; display 15th Anniversary Royal Knees-up under Destiny and retain collector's boxes and Efteling distinctions. Christmas No.05 uses That Warm Christmas Feeling.
-- Preserve collection heading hierarchy (### piece group, #### series, ##### puzzle) and matching official artwork comments. Website prefers matching official box artwork, falling back to archive box photos; Markdown keeps archive photos.
-- Website defaults to Owned; provide separate ownership (Owned, Not owned, All) and completion, piece-count, series and search filters. Join catalogue and owned records by canonical series + number + piece count, plus artwork variant where necessary. Show manufacturer item numbers when available; label shared promotional artwork in hints. Unowned listings never enter inventory or owned/completed totals. Unknown piece counts remain explicitly unknown; do not invent editions.
-- Maintain explicit combined piece-count/series headings, all standard completion photos, and partial status. Validate counts, filter combinations, links and artwork matching when changing data or website.
-- Keep root `.nojekyll`; Pages publishes main/root with Actions enabled. After merge verify deployment targets latest main commit, not an old rerun; check Actions if site is stale. Do not change repository settings without approval.
+## Website and hints
+- Align HINTS_COLLECTION.md display series, special labels and titles. Shared artwork shares hints; distinct owned 150 artwork separate. Never attach different artwork hints. Label shared promotional artwork/missing hints; use archive box photos if official artwork unavailable.
+- Junior 240: box and both official hints where available. Advent calendars: separate Advent Calendar YYYY, 24x54, title and supplied box artwork; no invented hints. Pieces of Evidence No.01: one set 500/500/1000 (Destiny 500, Original 500, Mystery 1000), dedicated filter, six hints grouped by component.
+- Preserve archive identifiers; display 15th Anniversary Royal Knees-up under Destiny; retain Efteling/collector's box distinctions. Christmas No.05 = That Warm Christmas Feeling.
+- Keep official artwork comments in collection. Website prefers matching official box artwork, falls back to archive; Markdown uses archive photos.
+- Default Owned; independent ownership (Owned/Not owned/All), completion, piece, series and search filters combine. Join by canonical identity and variant as needed. Show item numbers where available. Unowned never enters inventory or owned/completed totals; unknown pieces explicitly unknown.
+- Independent piece checkboxes all selected initially; select-all with indeterminate state; none selected = no results. Label 1000 (incl. 1500); retain actual counts, dedicated 24x54 and mixed-set groups.
+- Combined piece/series headings, all standard photos and partial status. Numeric puzzle numbers ascending within group/series regardless of ownership; special/descriptive afterwards, deterministic natural order (Advent newest first). Preserve ordering under filters.
+- Validate counts, filters, links and artwork. Root .nojekyll; Pages main/root, Actions enabled. After merge verify deployment uses latest main commit, not stale rerun; check Actions if stale. No settings changes without approval.
 
-- Within each piece-count and series group, sort numeric puzzle numbers ascending regardless of ownership; place special and descriptive entries afterwards, with deterministic natural ordering. Preserve this order under all filters.
+## Image workflow
+1. Identify series/number/pieces/duplicates; follow catalogue lookup for new boxes; match completed photos to owned box or flag unmatched.
+2. Enhance preserving original; deliver downloadable JPEGs with exact names; missing pieces require standard and separate restored versions.
+3. Branch from main; update inventory, catalogue if needed, README and collection with expected image links. Ownership/completion provisional until matching upload.
+4. Open draft PR even if ChatGPT cannot upload images. Give branch, PR URL and exact paths; user uploads JPEGs to feature branch, not main.
+5. Verify filenames, evidence, links/rendering/counts before user reviews/manual merge. Never claim unverified images exist.
 
-- Piece-count filtering uses independent checkboxes, all selected initially, with a select-all checkbox and indeterminate state. No selected groups shows no results. Label the 1000 group `1000 (incl. 1500)`; preserve actual individual piece counts and existing grouping. Other filters must combine with the selected groups.
+## Photo enhancement
+- Original HEIC/HEIF/JPEG/PNG authoritative; never overwrite. Check missing pieces; standard preserves gaps; separate restored fills only gaps approximately if no authentic reference.
+- Completed puzzle: correct four-edge perspective to rectangular square corners, edge-to-edge; remove board/mat/table/background; preserve all outer pieces, proportions, especially bottom row. Conservative exposure/light/white balance/glare, mild noise reduction/clarity/sharpening. Preserve artwork, natural colours, text, seams, joins, texture; never redraw intact pieces or invent cropped edges.
+- Standard/restored identical crop, dimensions, alignment and colour. Close-ups conservative; flag omitted areas; never invent unseen content.
+- Box: straighten/crop whole face when reliable, preserve edges/text/logos/design/wear; conservative light/colour/clarity; remove stickers only credibly, never invent artwork/text.
 
-## Image workflows — default handoff
-1. Identify series, number, piece count and duplicate status. For a new box, look up title in catalogue; if absent check the complete official archive and add verified missing entries with discovery date. If still absent ask user for title; never guess. For a puzzle photo, match an owned box or flag unmatched.
-2. Enhance the photo, preserving the original. Supply downloadable JPEG(s) with exact archive filenames. For missing pieces supply standard and separately restored images.
-3. Create feature branch from main. Update inventory, catalogue if needed, README totals and PUZZLE_COLLECTION.md with expected image links. Ownership/completion changes are provisional until matching image upload; restored-only photos do not establish completion.
-4. Open a **draft PR** even when images cannot be uploaded by ChatGPT. Give user the branch, PR URL and exact image paths. User uploads JPEGs to the feature branch, not main.
-5. Verify uploaded filenames, image links/rendering, completion evidence and counts. User reviews and manually merges. Never claim images exist before verification or overwrite existing files without permission.
-
-## Completed-puzzle enhancement
-- Original iPhone HEIC/HEIF/JPEG/PNG is authoritative; never overwrite it.
-- Check for missing pieces. Standard image preserves gaps; separate restored image fills only gaps approximately when no authentic reference exists.
-- Correct four-edge perspective to a rectangular, square-cornered, edge-to-edge view. Remove board, mat, table and background; preserve all outer pieces, proportions and especially the bottom row.
-- Conservatively balance exposure, lighting, white balance and glare; use mild noise reduction, clarity and sharpening.
-- Preserve original artwork, natural colours, text, seams, joins and texture. Do not generatively redraw intact pieces or invent cropped edges.
-- Standard and restored versions must have identical crop, dimensions, alignment and colour treatment.
-- For close-ups, enhance conservatively without inventing unseen content. Flag any source photo that omits part of the puzzle.
-- Deliver downloadable JPEGs for user upload to the feature branch.
-
-## Box-photo enhancement
-- Straighten and crop the entire box face when reliable, without losing edges or text.
-- Improve light, colour and clarity conservatively. Remove stickers only when credible; do not invent text or artwork.
-- Preserve original source, authentic design, logos and significant wear.
-
-## GitHub changes — mandatory approval
-- NEVER commit, push, merge or otherwise write directly to `main` unless the user explicitly approves that specific direct-to-main action after reviewing the proposed changes.
-- For every repository change, create a feature branch from `main`, commit only there and open a PR targeting `main`.
-- Summarise changed files, additions, removals and replacements; provide PR link. Wait for user to review and manually merge.
-- Never auto-merge, bypass branch protection or interpret general permission as merge approval.
-- Applies to images, inventory, catalogue, README, instructions and all other files. Group related changes in one PR.
+## GitHub approval
+- NEVER write/commit/push/merge directly to main unless user explicitly approves that specific action after reviewing proposed changes.
+- All repository changes on feature branch from main, PR targeting main. Group related changes; keep README, inventory, catalogue, collection and instructions consistent.
+- Summarise files/additions/removals/replacements; provide PR link and agreed downloads. User reviews and manually merges. Never auto-merge, bypass protection or infer merge approval.
 - Never overwrite existing images without permission; explain bulk replacements in advance.
-- Keep README, instructions, inventory and `PUZZLE_COLLECTION.md` consistent; provide requested downloads with agreed filenames.
