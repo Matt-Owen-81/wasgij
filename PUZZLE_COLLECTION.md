@@ -8,21 +8,21 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 | --- | ---: | ---: | ---: |
 | 150 pieces | 5 | 5 | 0 |
 | 500 pieces | 1 | 1 | 0 |
-| 1000 pieces | 105 | 52 | 53 |
-| **Total** | 111 | 58 | 53 |
+| 1000 pieces | 105 | 53 | 52 |
+| **Total** | 111 | 59 | 52 |
 
 | Type (display series) | Owned | Completed | Remaining |
 | --- | ---: | ---: | ---: |
 | Original | 45 | 28 | 17 |
 | Back to… | 2 | 2 | 0 |
 | Christmas | 13 | 4 | 9 |
-| Destiny | 28 | 12 | 16 |
+| Destiny | 28 | 13 | 15 |
 | Imagine… | 1 | 0 | 1 |
 | Mystery | 21 | 12 | 9 |
 | What if… | 1 | 0 | 1 |
-| **Total** | 111 | 58 | 53 |
+| **Total** | 111 | 59 | 52 |
 
-The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Original No.22 (1500 pieces). The 500-piece edition is listed separately to preserve its identity. The 15th Anniversary special is displayed under Destiny, as in the hints collection; its archive type remains unchanged. Counts follow inventory completion (one entry per owned edition), including Football Fever! with a standard completed photo and a separately noted partial multi-puzzle status.
+The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Original No.22 (1500 pieces). The 500-piece edition is listed separately to preserve its identity. The 15th Anniversary special is displayed under Destiny, as in the hints collection; its archive type remains unchanged. Counts follow inventory completion (one entry per owned edition), including Football Fever! and the Jubilee special with standard completed photos and separately noted partial multi-puzzle status.
 
 ## 2. Puzzles by piece count
 
@@ -1788,11 +1788,16 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 | Number | 00 |
 | Title | A Royal Knees-up! Queen's Jubilee Celebration |
 | Number of pieces | 2x1000 |
-| Status | **Not completed** |
+| Status | **Partial - 1 of 2 complete** |
 
 **Box photograph**
 
 <a href="images/box/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Box.jpg" alt="A Royal Knees-up! Queen's Jubilee Celebration box" width="50%"></a>
+
+**Completed puzzle photograph**
+
+[![A Royal Knees-up! completed puzzle](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle.jpg)](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle.jpg)
+
 
 ---
 
