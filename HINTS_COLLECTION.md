@@ -949,7 +949,9 @@ The Destiny and Retro Destiny editions are grouped here by puzzle artwork, regar
 
 | Box image (main clue) | Hint 1 | Hint 2 |
 | --- | --- | --- |
-| Pending | Pending | Pending |
+| <a href="images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Reference.jpg"><img src="images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Reference.jpg" alt="Archive photograph of completed 1953 Coronation puzzle, used as an unofficial reference" width="250"></a> | Not available | Not available |
+
+*Archive photograph supplied by the collector, unchanged. This is a completed puzzle image, not official box artwork or an official hint.*
 
 ### No.01 — Road trip! (150 pieces)
 
