@@ -551,7 +551,7 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 | Title | Football Fever! |
 | Number of pieces | 2x1000 |
 | Edition detail | One 1000-piece mystery puzzle and one 1000-piece box-image puzzle |
-| Status | **Second puzzle completed 2026-11-22; photo upload pending (1 of 2 archived)** |
+| Status | **Completed (second photo pending upload)** |
 
 <!-- Hint box image: https://wasgij.com/cdn/shop/files/17408_Original-21-image.jpg -->
 
@@ -1788,18 +1788,19 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 | Number | 00 |
 | Title | A Royal Knees-up! Queen's Jubilee Celebration |
 | Number of pieces | 2x1000 |
-| Status | **Partial - 1 of 2 complete** |
+| Status | **Both puzzles completed; second photo pending upload (1 of 2 archived)** |
 
 **Box photograph**
 
 <a href="images/box/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Box.jpg" alt="A Royal Knees-up! Queen's Jubilee Celebration box" width="50%"></a>
 
-**Completed puzzle photograph**
+**Completed puzzle 1 photograph**
 
 [![A Royal Knees-up! completed puzzle](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle.jpg)](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle.jpg)
 
-<!-- Pending upload to this branch: images/puzzle/Wasgij - 15th Anniversary - No.00 (2x1000) - Puzzle2.jpg
-Once uploaded and verified, embed the second standard puzzle photo here and mark the set fully completed. -->
+**Completed puzzle 2 photograph — awaiting upload**
+
+<!-- Upload images/puzzle/Wasgij - 15th Anniversary - No.00 (2x1000) - Puzzle2.jpg to this feature branch, then embed it here and verify before merging. -->
 
 
 ---
