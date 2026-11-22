@@ -559,11 +559,11 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 
 <a href="images/box/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Box.jpg" alt="Football Fever! box" width="50%"></a>
 
-**Completed puzzle 1 photograph**
+**Completed puzzle 2 photograph**
 
-*Puzzle 2 remains unfinished.*
+*Puzzle 1 remains unfinished. Image filename migration pending.*
 
-[![Football Fever! completed puzzle 1](images/puzzle/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Puzzle1.jpg)](images/puzzle/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Puzzle1.jpg)
+<!-- Rename existing images/puzzle/Wasgij - Original - No.21 (1000) - Puzzle1.jpg to images/puzzle/Wasgij - Original - No.21 (1000) - Puzzle2.jpg on this feature branch, then insert the clickable Puzzle2 image here after verifying it. Do not delete the original before replacement is verified. -->
 
 ---
 
