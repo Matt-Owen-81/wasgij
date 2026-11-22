@@ -561,9 +561,9 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 
 **Completed puzzle 2 photograph**
 
-*Puzzle 1 remains unfinished. Image filename migration pending.*
+*Puzzle 1 remains unfinished.*
 
-<!-- Rename existing images/puzzle/Wasgij - Original - No.21 (1000) - Puzzle1.jpg to images/puzzle/Wasgij - Original - No.21 (1000) - Puzzle2.jpg on this feature branch, then insert the clickable Puzzle2 image here after verifying it. Do not delete the original before replacement is verified. -->
+[![Football Fever! completed puzzle 2](images/puzzle/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Puzzle2.jpg)](images/puzzle/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Puzzle2.jpg)
 
 ---
 
