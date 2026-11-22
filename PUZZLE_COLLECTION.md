@@ -551,7 +551,7 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 | Title | Football Fever! |
 | Number of pieces | 2x1000 |
 | Edition detail | One 1000-piece mystery puzzle and one 1000-piece box-image puzzle |
-| Status | **Completed** |
+| Status | **Partial - 1 of 2 complete** |
 
 <!-- Hint box image: https://wasgij.com/cdn/shop/files/17408_Original-21-image.jpg -->
 
@@ -559,7 +559,9 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 
 <a href="images/box/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Box.jpg"><img src="images/box/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Box.jpg" alt="Football Fever! box" width="50%"></a>
 
-**Completed puzzle photograph**
+**Completed puzzle 1 photograph**
+
+*Puzzle 2 remains unfinished.*
 
 [![Football Fever! completed puzzle 1](images/puzzle/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Puzzle1.jpg)](images/puzzle/Wasgij%20-%20Original%20-%20No.21%20(1000)%20-%20Puzzle1.jpg)
 
