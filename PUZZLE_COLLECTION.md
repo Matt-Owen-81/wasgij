@@ -22,7 +22,7 @@ An illustrated index of my owned Wasgij puzzles. [Inventory CSV](inventory.csv) 
 | What if… | 1 | 0 | 1 |
 | **Total** | 111 | 59 | 52 |
 
-The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Original No.22 (1500 pieces). The 500-piece edition is listed separately to preserve its identity. The 15th Anniversary special is displayed under Destiny, as in the hints collection; its archive type remains unchanged. Counts follow inventory completion (one entry per owned edition), including Football Fever! and the Jubilee special with standard completed photos. The Jubilee's second puzzle was completed on 2026-11-22 and awaits its standard photo upload before full archive verification.
+The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Original No.22 (1500 pieces). The 500-piece edition is listed separately to preserve its identity. The 15th Anniversary special is displayed under Destiny, as in the hints collection; its archive type remains unchanged. Counts follow inventory completion (one entry per owned edition), including Football Fever! and the Jubilee special with standard completed photos. The Jubilee's second puzzle was completed on 2026-11-22; both standard puzzle photographs are archived.
 
 ## 2. Puzzles by piece count
 
@@ -551,7 +551,7 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 | Title | Football Fever! |
 | Number of pieces | 2x1000 |
 | Edition detail | One 1000-piece mystery puzzle and one 1000-piece box-image puzzle |
-| Status | **Completed (second photo pending upload)** |
+| Status | **Completed** |
 
 <!-- Hint box image: https://wasgij.com/cdn/shop/files/17408_Original-21-image.jpg -->
 
@@ -1788,7 +1788,7 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 | Number | 00 |
 | Title | A Royal Knees-up! Queen's Jubilee Celebration |
 | Number of pieces | 2x1000 |
-| Status | **Both puzzles completed; second photo pending upload (1 of 2 archived)** |
+| Status | **Completed (2 of 2 puzzles)** |
 
 **Box photograph**
 
@@ -1798,9 +1798,9 @@ The 1000-piece group includes multi-puzzle editions (2x1000 and 3x1000) and Orig
 
 [![A Royal Knees-up! completed puzzle](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle.jpg)](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle.jpg)
 
-**Completed puzzle 2 photograph — awaiting upload**
+**Completed puzzle 2 photograph**
 
-<!-- Upload images/puzzle/Wasgij - 15th Anniversary - No.00 (2x1000) - Puzzle2.jpg to this feature branch, then embed it here and verify before merging. -->
+[![A Royal Knees-up! second completed puzzle](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle2.jpg)](images/puzzle/Wasgij%20-%2015th%20Anniversary%20-%20No.00%20(2x1000)%20-%20Puzzle2.jpg)
 
 
 ---
